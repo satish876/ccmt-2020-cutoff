@@ -1,0 +1,4415 @@
+{
+  "Biotechnology": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "529",
+      "OtherBackwardClass(OBC-NCL)": "466",
+      "ScheduleCaste(SC)": "208"
+    },
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "OtherBackwardClass(OBC-NCL)": "408",
+      "General": "529",
+      "General-EWS": "457",
+      "ScheduleCaste(SC)": "432"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "OtherBackwardClass(OBC-NCL)": "413",
+      "General": "598",
+      "General-EWS": "531",
+      "ScheduleCaste(SC)": "301"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "661",
+      "ScheduleCaste(SC)": "481",
+      "OtherBackwardClass(OBC-NCL)": "432",
+      "General-EWS": "354",
+      "ScheduleTribe(ST)": "218"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "705",
+      "ScheduleCaste(SC)": "675",
+      "OtherBackwardClass(OBC-NCL)": "529",
+      "General-EWS": "461",
+      "ScheduleTribe(ST)": "374"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "588",
+      "OtherBackwardClass(OBC-NCL)": "632",
+      "General-EWS": "500",
+      "ScheduleCaste(SC)": "336"
+    }
+  },
+  "ChemicalEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "457",
+      "OtherBackwardClass(OBC-NCL)": "375",
+      "ScheduleCaste(SC)": "249"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General-EWS": "362",
+      "General": "471",
+      "ScheduleTribe(ST)": "393",
+      "ScheduleCaste(SC)": "387",
+      "OtherBackwardClass(OBC-NCL)": "371"
+    },
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "465",
+      "OtherBackwardClass(OBC-NCL)": "358",
+      "ScheduleCaste(SC)": "189"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "OtherBackwardClass(OBC-NCL)": "509",
+      "General": "521",
+      "ScheduleCaste(SC)": "493",
+      "General-EWS": "425"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "441",
+      "OtherBackwardClass(OBC-NCL)": "389",
+      "General-EWS": "385"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "485",
+      "General-EWS": "453",
+      "OtherBackwardClass(OBC-NCL)": "421",
+      "ScheduleCaste(SC)": "232"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "505",
+      "General-EWS": "484",
+      "OtherBackwardClass(OBC-NCL)": "463",
+      "ScheduleCaste(SC)": "325"
+    },
+    "National Institute of Technology Hamirpur": {
+      "General-EWS": { "category": "General-EWS", "score": "421" },
+      "General": "413",
+      "OtherBackwardClass(OBC-NCL)": "314"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "OtherBackwardClass(OBC-NCL)": "453",
+      "General": "545",
+      "General-EWS": "533",
+      "ScheduleCaste(SC)": "326"
+    },
+    "National Institute of Technology Raipur": {
+      "General": "397",
+      "OtherBackwardClass(OBC-NCL)": "334",
+      "ScheduleCaste(SC)": "210"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General-EWS": "445",
+      "ScheduleCaste(SC)": "510",
+      "General": "509",
+      "OtherBackwardClass(OBC-NCL)": "413",
+      "ScheduleTribe(ST)": "246"
+    },
+    "National Institute of Technology, Srinagar": { "General": "401" },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "696",
+      "OtherBackwardClass(OBC-NCL)": "601",
+      "General-EWS": "557",
+      "ScheduleCaste(SC)": "386",
+      "ScheduleTribe(ST)": "286"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "569",
+      "General-EWS": "521",
+      "OtherBackwardClass(OBC-NCL)": "469",
+      "ScheduleCaste(SC)": "346",
+      "ScheduleTribe(ST)": "205"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "521",
+      "General-EWS": "445",
+      "OtherBackwardClass(OBC-NCL)": "378",
+      "ScheduleCaste(SC)": "302",
+      "ScheduleTribe(ST)": "286"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "469",
+      "General-EWS": "489",
+      "OtherBackwardClass(OBC-NCL)": "421",
+      "ScheduleCaste(SC)": "282"
+    },
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "423"
+    }
+  },
+  "ControlandInstrumentationEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "597",
+      "OtherBackwardClass(OBC-NCL)": "529",
+      "General-EWS": "502",
+      "ScheduleCaste(SC)": "353",
+      "ScheduleTribe(ST)": "272"
+    }
+  },
+  "DesignEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "638",
+      "OtherBackwardClass(OBC-NCL)": "617",
+      "General-EWS": "533",
+      "ScheduleCaste(SC)": "436",
+      "ScheduleTribe(ST)": "218"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "684",
+      "OtherBackwardClass(OBC-NCL)": "642",
+      "General-EWS": "634",
+      "ScheduleCaste(SC)": "448",
+      "ScheduleTribe(ST)": "268"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "726",
+      "OtherBackwardClass(OBC-NCL)": "701",
+      "General-EWS": "678",
+      "ScheduleCaste(SC)": "519",
+      "ScheduleTribe(ST)": "333"
+    },
+    "National Institute of Technology Patna": {
+      "General-EWS": "537",
+      "General": "622",
+      "OtherBackwardClass(OBC-NCL)": "582",
+      "ScheduleCaste(SC)": "404"
+    }
+  },
+  "ElectronicsandCommunicationEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "559",
+      "OtherBackwardClass(OBC-NCL)": "496",
+      "General-EWS": "450",
+      "ScheduleCaste(SC)": "340",
+      "ScheduleTribe(ST)": "239"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "624",
+      "OtherBackwardClass(OBC-NCL)": "596",
+      "General-EWS": "580",
+      "ScheduleTribe(ST)": "462",
+      "ScheduleCaste(SC)": "450"
+    },
+    "National Institute of Technology Delhi": {
+      "General": "608",
+      "OtherBackwardClass(OBC-NCL)": "592",
+      "ScheduleCaste(SC)": "401",
+      "ScheduleTribe(ST)": "324"
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "General-EWS": "576",
+      "General": "649",
+      "OtherBackwardClass(OBC-NCL)": "600",
+      "ScheduleCaste(SC)": "393",
+      "ScheduleTribe(ST)": "279"
+    },
+    "Indian Institute of Information Technology Vadodara": {
+      "General": "515",
+      "OtherBackwardClass(OBC-NCL)": "438",
+      "General-EWS": "393",
+      "ScheduleCaste(SC)": "304"
+    },
+    "Indian Institute of Information Technology, Pune": {
+      "General": "592",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "General-EWS": "490",
+      "ScheduleCaste(SC)": "320",
+      "ScheduleTribe(ST)": "243"
+    },
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "477",
+      "OtherBackwardClass(OBC-NCL)": "434",
+      "General-EWS": "409",
+      "ScheduleCaste(SC)": "308"
+    },
+    "Shri Mata Vaishno Devi University, Katra": {
+      "General": "456",
+      "OtherBackwardClass(OBC-NCL)": "409",
+      "General-EWS": "392",
+      "ScheduleCaste(SC)": "273"
+    }
+  },
+  "Geotechnical&Geo-environmentalEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "519",
+      "OtherBackwardClass(OBC-NCL)": "466",
+      "General-EWS": "459",
+      "ScheduleTribe(ST)": "409",
+      "ScheduleCaste(SC)": "365"
+    }
+  },
+  "IndustrialEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "OtherBackwardClass(OBC-NCL)": "524",
+      "General": "590",
+      "General-EWS": "448",
+      "ScheduleCaste(SC)": "360",
+      "ScheduleTribe(ST)": "268"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "646",
+      "OtherBackwardClass(OBC-NCL)": "613",
+      "General-EWS": "547",
+      "ScheduleCaste(SC)": "503",
+      "ScheduleTribe(ST)": "318"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "653",
+      "General-EWS": "586",
+      "OtherBackwardClass(OBC-NCL)": "574",
+      "ScheduleCaste(SC)": "440",
+      "ScheduleTribe(ST)": "285"
+    }
+  },
+  "ManufacturingTechnology": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "550",
+      "OtherBackwardClass(OBC-NCL)": "527",
+      "General-EWS": "516",
+      "ScheduleCaste(SC)": "400"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "507",
+      "OtherBackwardClass(OBC-NCL)": "453",
+      "General-EWS": "449",
+      "ScheduleCaste(SC)": "333"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "697",
+      "OtherBackwardClass(OBC-NCL)": "655",
+      "General-EWS": "642",
+      "ScheduleCaste(SC)": "491",
+      "ScheduleTribe(ST)": "306"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "765",
+      "OtherBackwardClass(OBC-NCL)": "725",
+      "General-EWS": "721",
+      "ScheduleCaste(SC)": "571",
+      "ScheduleTribe(ST)": "424"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "OtherBackwardClass(OBC-NCL)": "465",
+      "General": "503",
+      "General-EWS": "436",
+      "ScheduleCaste(SC)": "282"
+    }
+  },
+  "RenewableEnergy": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "546",
+      "OtherBackwardClass(OBC-NCL)": "511",
+      "General-EWS": "453",
+      "ScheduleCaste(SC)": "362",
+      "ScheduleTribe(ST)": "272"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "588",
+      "OtherBackwardClass(OBC-NCL)": "580",
+      "General-EWS": "494",
+      "ScheduleTribe(ST)": "407",
+      "ScheduleCaste(SC)": "366"
+    }
+  },
+  "StructuralandConstructionEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "589",
+      "OtherBackwardClass(OBC-NCL)": "574",
+      "General-EWS": "530",
+      "ScheduleCaste(SC)": "405",
+      "ScheduleTribe(ST)": "310"
+    }
+  },
+  "ThermalEngineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "684",
+      "OtherBackwardClass(OBC-NCL)": "585",
+      "General-EWS": "537",
+      "ScheduleCaste(SC)": "428"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General-EWS": "594",
+      "General": "678",
+      "OtherBackwardClass(OBC-NCL)": "621",
+      "ScheduleCaste(SC)": "440",
+      "ScheduleTribe(ST)": "396"
+    },
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "OtherBackwardClass(OBC-NCL)": "621",
+      "General": "697",
+      "General-EWS": "688",
+      "ScheduleCaste(SC)": "529",
+      "ScheduleTribe(ST)": "376"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "717",
+      "OtherBackwardClass(OBC-NCL)": "705",
+      "General-EWS": "659",
+      "ScheduleCaste(SC)": "508",
+      "ScheduleTribe(ST)": "373"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "621",
+      "OtherBackwardClass(OBC-NCL)": "558",
+      "General-EWS": "541",
+      "ScheduleCaste(SC)": "390",
+      "ScheduleTribe(ST)": "297"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "745",
+      "OtherBackwardClass(OBC-NCL)": "761",
+      "General-EWS": "709",
+      "ScheduleCaste(SC)": "559",
+      "ScheduleTribe(ST)": "411"
+    },
+    "National Institute of Technology Patna": {
+      "General": "651",
+      "OtherBackwardClass(OBC-NCL)": "634",
+      "General-EWS": "611",
+      "ScheduleCaste(SC)": "373"
+    },
+    "National Institute of Technology Raipur": {
+      "General": "617",
+      "General-EWS": "562",
+      "OtherBackwardClass(OBC-NCL)": "547",
+      "ScheduleCaste(SC)": "335",
+      "ScheduleTribe(ST)": "273"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "General": "634",
+      "General-EWS": "595",
+      "OtherBackwardClass(OBC-NCL)": "559",
+      "ScheduleCaste(SC)": "398",
+      "ScheduleTribe(ST)": "276"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General-EWS": "636",
+      "General": "726",
+      "OtherBackwardClass(OBC-NCL)": "670",
+      "ScheduleCaste(SC)": "435",
+      "ScheduleTribe(ST)": "323"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "731",
+      "OtherBackwardClass(OBC-NCL)": "672",
+      "General-EWS": "670",
+      "ScheduleCaste(SC)": "495",
+      "ScheduleTribe(ST)": "337"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "617",
+      "OtherBackwardClass(OBC-NCL)": "563",
+      "General-EWS": "520",
+      "ScheduleCaste(SC)": "313"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "768",
+      "General-EWS": "732",
+      "OtherBackwardClass(OBC-NCL)": "722",
+      "ScheduleCaste(SC)": "610",
+      "ScheduleTribe(ST)": "444"
+    },
+    "National Institute of Technology Mizoram": {
+      "General": "467",
+      "OtherBackwardClass(OBC-NCL)": "475",
+      "General-EWS": "474",
+      "ScheduleCaste(SC)": "280"
+    },
+    "National Institute of Technology, Andhra Pradesh": {
+      "General": "579",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General-EWS": "482",
+      "ScheduleCaste(SC)": "424",
+      "ScheduleTribe(ST)": "273"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "651",
+      "General-EWS": "617",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "ScheduleCaste(SC)": "463"
+    }
+  },
+  "TextileEngineeringandManagement": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "OtherBackwardClass(OBC-NCL)": "625",
+      "General": "621",
+      "General-EWS": "523",
+      "ScheduleCaste(SC)": "404"
+    }
+  },
+  "VLSIDesign": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "604",
+      "General-EWS": "592",
+      "OtherBackwardClass(OBC-NCL)": "563",
+      "ScheduleCaste(SC)": "389",
+      "ScheduleTribe(ST)": "259"
+    },
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "693",
+      "OtherBackwardClass(OBC-NCL)": "636",
+      "General-EWS": "612",
+      "ScheduleCaste(SC)": "547",
+      "ScheduleTribe(ST)": "401"
+    },
+    "National Institute of Technology  Agartala": {
+      "OtherBackwardClass(OBC-NCL)": "521",
+      "General": "584",
+      "General-EWS": "555",
+      "ScheduleCaste(SC)": "486",
+      "ScheduleTribe(ST)": "275"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "785",
+      "General-EWS": "750",
+      "OtherBackwardClass(OBC-NCL)": "728",
+      "ScheduleCaste(SC)": "591",
+      "ScheduleTribe(ST)": "458"
+    },
+    "National Institute of Technology Puducherry": {
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General-EWS": "608",
+      "General": "571",
+      "ScheduleCaste(SC)": "361",
+      "ScheduleTribe(ST)": "312"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General-EWS": "649",
+      "General": "685",
+      "OtherBackwardClass(OBC-NCL)": "636",
+      "ScheduleCaste(SC)": "465",
+      "ScheduleTribe(ST)": "323"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "697",
+      "General-EWS": "689",
+      "OtherBackwardClass(OBC-NCL)": "641",
+      "ScheduleCaste(SC)": "470",
+      "ScheduleTribe(ST)": "369"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "596",
+      "OtherBackwardClass(OBC-NCL)": "628",
+      "General-EWS": "576",
+      "ScheduleCaste(SC)": "454",
+      "ScheduleTribe(ST)": "283"
+    }
+  },
+  "ComputerScience&Engineering(InformationSecurity)": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "585",
+      "ScheduleCaste(SC)": "616",
+      "OtherBackwardClass(OBC-NCL)": "511",
+      "General-EWS": "504",
+      "ScheduleTribe(ST)": "239"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "721",
+      "General-EWS": "698",
+      "OtherBackwardClass(OBC-NCL)": "678",
+      "ScheduleCaste(SC)": "511",
+      "ScheduleTribe(ST)": "378"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "741",
+      "General-EWS": "733",
+      "OtherBackwardClass(OBC-NCL)": "678",
+      "ScheduleCaste(SC)": "542",
+      "ScheduleTribe(ST)": "410"
+    }
+  },
+  "ComputerScience&Engineering": {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "General": "655",
+      "General-EWS": "554",
+      "OtherBackwardClass(OBC-NCL)": "550",
+      "ScheduleCaste(SC)": "457",
+      "ScheduleTribe(ST)": "270"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "756",
+      "General-EWS": "690",
+      "OtherBackwardClass(OBC-NCL)": "647",
+      "ScheduleCaste(SC)": "519",
+      "ScheduleTribe(ST)": "418"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "535",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "General-EWS": "554",
+      "ScheduleCaste(SC)": "407",
+      "ScheduleTribe(ST)": "266"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "752",
+      "General-EWS": "713",
+      "OtherBackwardClass(OBC-NCL)": "694",
+      "ScheduleCaste(SC)": "546",
+      "ScheduleTribe(ST)": "391"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "656",
+      "General-EWS": "589",
+      "OtherBackwardClass(OBC-NCL)": "566",
+      "ScheduleCaste(SC)": "457",
+      "ScheduleTribe(ST)": "336"
+    },
+    "National Institute of Technology Goa": {
+      "General": "636",
+      "General-EWS": "636",
+      "OtherBackwardClass(OBC-NCL)": "542",
+      "ScheduleCaste(SC)": "406",
+      "ScheduleTribe(ST)": "278"
+    },
+    "National Institute of Technology Hamirpur": {
+      "General": "597",
+      "General-EWS": "554",
+      "OtherBackwardClass(OBC-NCL)": "535",
+      "ScheduleCaste(SC)": "430",
+      "ScheduleTribe(ST)": "344"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "779",
+      "General-EWS": "752",
+      "OtherBackwardClass(OBC-NCL)": "733",
+      "ScheduleCaste(SC)": "574",
+      "ScheduleTribe(ST)": "469"
+    },
+    "National Institute of Technology Meghalaya": {
+      "General": "519",
+      "OtherBackwardClass(OBC-NCL)": "457",
+      "ScheduleTribe(ST)": "406",
+      "ScheduleCaste(SC)": "387"
+    },
+    "National Institute of Technology Nagaland": {
+      "General": "492",
+      "OtherBackwardClass(OBC-NCL)": "422",
+      "General-EWS": "402",
+      "ScheduleCaste(SC)": "336",
+      "ScheduleTribe(ST)": "247"
+    },
+    "National Institute of Technology Puducherry": {
+      "General": "562",
+      "OtherBackwardClass(OBC-NCL)": "500",
+      "General-EWS": "465",
+      "ScheduleCaste(SC)": "381",
+      "ScheduleTribe(ST)": "286"
+    },
+    "National Institute of Technology Sikkim": {
+      "General": "531",
+      "OtherBackwardClass(OBC-NCL)": "466",
+      "General-EWS": "426",
+      "ScheduleCaste(SC)": "352",
+      "ScheduleTribe(ST)": "292"
+    },
+    "National Institute of Technology Arunachal Pradesh ": {
+      "General": "507",
+      "OtherBackwardClass(OBC-NCL)": "461",
+      "General-EWS": "410",
+      "ScheduleCaste(SC)": "360",
+      "ScheduleTribe(ST)": "305"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "General": "624",
+      "General-EWS": "581",
+      "OtherBackwardClass(OBC-NCL)": "535",
+      "ScheduleCaste(SC)": "395",
+      "ScheduleTribe(ST)": "274"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "639",
+      "OtherBackwardClass(OBC-NCL)": "612",
+      "General-EWS": "556",
+      "ScheduleCaste(SC)": "480",
+      "ScheduleTribe(ST)": "298"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "799",
+      "General-EWS": "807",
+      "OtherBackwardClass(OBC-NCL)": "756",
+      "ScheduleCaste(SC)": "678",
+      "ScheduleTribe(ST)": "558"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "818",
+      "General-EWS": "774",
+      "OtherBackwardClass(OBC-NCL)": "744",
+      "ScheduleCaste(SC)": "663",
+      "ScheduleTribe(ST)": "504"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General-EWS": "620",
+      "General": "713",
+      "OtherBackwardClass(OBC-NCL)": "616",
+      "ScheduleCaste(SC)": "531",
+      "ScheduleTribe(ST)": "407"
+    },
+    "National Institute of Technology Mizoram": {
+      "General": "488",
+      "OtherBackwardClass(OBC-NCL)": "441",
+      "General-EWS": "406",
+      "ScheduleCaste(SC)": "305",
+      "ScheduleTribe(ST)": "251"
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "562",
+      "OtherBackwardClass(OBC-NCL)": "523",
+      "General-EWS": "488",
+      "ScheduleCaste(SC)": "381",
+      "ScheduleTribe(ST)": "363"
+    },
+    "Indian Institute of Information Technology Vadodara": {
+      "General": "577",
+      "OtherBackwardClass(OBC-NCL)": "527",
+      "General-EWS": "484",
+      "ScheduleCaste(SC)": "410",
+      "ScheduleTribe(ST)": "400"
+    },
+    "International Institute of Information Technology, Bhubaneswar": {
+      "General-EWS": "484",
+      "General": "593",
+      "OtherBackwardClass(OBC-NCL)": "437",
+      "ScheduleCaste(SC)": "410",
+      "ScheduleTribe(ST)": "333"
+    },
+    "Indian Institute of Information Technology, Pune": {
+      "General": "624",
+      "General-EWS": "554",
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "ScheduleCaste(SC)": "364",
+      "ScheduleTribe(ST)": "289"
+    },
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "492",
+      "OtherBackwardClass(OBC-NCL)": "406",
+      "General-EWS": "375",
+      "ScheduleCaste(SC)": "313"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "651",
+      "OtherBackwardClass(OBC-NCL)": "585",
+      "General-EWS": "519",
+      "ScheduleCaste(SC)": "484",
+      "ScheduleTribe(ST)": "313"
+    },
+    "Central University of Rajasthan": {
+      "OtherBackwardClass(OBC-NCL)": "515",
+      "General": "527",
+      "General-EWS": "469",
+      "ScheduleCaste(SC)": "313"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "637",
+      "ScheduleCaste(SC)": "527",
+      "General-EWS": "500"
+    },
+    "Shri Mata Vaishno Devi University, Katra": {
+      "General": "500",
+      "OtherBackwardClass(OBC-NCL)": "437",
+      "General-EWS": "373",
+      "ScheduleCaste(SC)": "309"
+    },
+    "Central Institute of Technology, Kokrajhar": {
+      "General": "492",
+      "OtherBackwardClass(OBC-NCL)": "410"
+    }
+  },
+  "DisasterAssessmentandMitigation": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "496",
+      "OtherBackwardClass(OBC-NCL)": "453",
+      "ScheduleTribe(ST)": "447",
+      "General-EWS": "408",
+      "ScheduleCaste(SC)": "370"
+    }
+  },
+  "EmbeddedSystems": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "636",
+      "General-EWS": "567",
+      "OtherBackwardClass(OBC-NCL)": "567",
+      "ScheduleCaste(SC)": "421",
+      "ScheduleTribe(ST)": "283"
+    }
+  },
+  "EarthquakeEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "540",
+      "General-EWS": "511",
+      "OtherBackwardClass(OBC-NCL)": "462",
+      "ScheduleTribe(ST)": "412",
+      "ScheduleCaste(SC)": "406"
+    }
+  },
+  "EnvironmentalEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General": "686",
+      "ScheduleTribe(ST)": "576",
+      "ScheduleCaste(SC)": "510",
+      "General-EWS": "507"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "581",
+      "General-EWS": "577",
+      "OtherBackwardClass(OBC-NCL)": "565",
+      "ScheduleCaste(SC)": "437",
+      "ScheduleTribe(ST)": "302"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "484",
+      "OtherBackwardClass(OBC-NCL)": "462",
+      "ScheduleCaste(SC)": "399",
+      "ScheduleTribe(ST)": "268"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "640",
+      "General-EWS": "586",
+      "OtherBackwardClass(OBC-NCL)": "585",
+      "ScheduleCaste(SC)": "433",
+      "ScheduleTribe(ST)": "325"
+    },
+    "National Institute of Technology Patna": {
+      "OtherBackwardClass(OBC-NCL)": "496",
+      "General": "512",
+      "General-EWS": "459",
+      "ScheduleCaste(SC)": "331",
+      "ScheduleTribe(ST)": "261"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "533",
+      "OtherBackwardClass(OBC-NCL)": "522",
+      "General-EWS": "459",
+      "ScheduleCaste(SC)": "396",
+      "ScheduleTribe(ST)": "363"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "693",
+      "General-EWS": "654",
+      "OtherBackwardClass(OBC-NCL)": "646",
+      "ScheduleCaste(SC)": "462",
+      "ScheduleTribe(ST)": "416"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "645",
+      "OtherBackwardClass(OBC-NCL)": "589",
+      "General-EWS": "569",
+      "ScheduleCaste(SC)": "451",
+      "ScheduleTribe(ST)": "380"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "530",
+      "OtherBackwardClass(OBC-NCL)": "510",
+      "General-EWS": "501",
+      "ScheduleCaste(SC)": "410",
+      "ScheduleTribe(ST)": "402"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "585",
+      "OtherBackwardClass(OBC-NCL)": "525",
+      "General-EWS": "492",
+      "ScheduleCaste(SC)": "391",
+      "ScheduleTribe(ST)": "290"
+    },
+    "National Institute of Foundry &amp; Forge Technology, Hatia, Ranchi": {
+      "OtherBackwardClass(OBC-NCL)": "459",
+      "General": "505",
+      "General-EWS": "453",
+      "ScheduleCaste(SC)": "335",
+      "ScheduleTribe(ST)": "288"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "525",
+      "OtherBackwardClass(OBC-NCL)": "473",
+      "General-EWS": "440",
+      "ScheduleCaste(SC)": "399"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "481",
+      "OtherBackwardClass(OBC-NCL)": "481",
+      "General-EWS": "469",
+      "ScheduleCaste(SC)": "313",
+      "ScheduleTribe(ST)": "264"
+    }
+  },
+  "Metallurgical&MaterialsEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "OtherBackwardClass(OBC-NCL)": "292",
+      "General": "382",
+      "ScheduleCaste(SC)": "268"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "633",
+      "OtherBackwardClass(OBC-NCL)": "586",
+      "General-EWS": "571",
+      "ScheduleCaste(SC)": "440",
+      "ScheduleTribe(ST)": "213"
+    }
+  },
+  "MaterialScience&Engineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "554",
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "General-EWS": "501",
+      "ScheduleCaste(SC)": "428",
+      "ScheduleTribe(ST)": "260"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General-EWS": "583",
+      "General": "582",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "ScheduleCaste(SC)": "457"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "481",
+      "OtherBackwardClass(OBC-NCL)": "453",
+      "General-EWS": "400",
+      "ScheduleCaste(SC)": "251"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "727",
+      "OtherBackwardClass(OBC-NCL)": "693",
+      "General-EWS": "640",
+      "ScheduleCaste(SC)": "508",
+      "ScheduleTribe(ST)": "382"
+    },
+    "National Institute of Foundry &amp; Forge Technology, Hatia, Ranchi": {
+      "General": "452",
+      "OtherBackwardClass(OBC-NCL)": "403",
+      "General-EWS": "364",
+      "ScheduleCaste(SC)": "269"
+    }
+  },
+  "PowerElectronics&Drives": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "679",
+      "General-EWS": "698",
+      "OtherBackwardClass(OBC-NCL)": "679",
+      "ScheduleCaste(SC)": "456",
+      "ScheduleTribe(ST)": "383"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "690",
+      "OtherBackwardClass(OBC-NCL)": "656",
+      "General-EWS": "643",
+      "ScheduleCaste(SC)": "584",
+      "ScheduleTribe(ST)": "513"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "545",
+      "OtherBackwardClass(OBC-NCL)": "513",
+      "General-EWS": "425",
+      "ScheduleCaste(SC)": "358",
+      "ScheduleTribe(ST)": "268"
+    },
+    "National Institute of Technology Delhi": {
+      "General": "656",
+      "General-EWS": "635",
+      "OtherBackwardClass(OBC-NCL)": "622",
+      "ScheduleCaste(SC)": "566",
+      "ScheduleTribe(ST)": "383"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "General": "592",
+      "OtherBackwardClass(OBC-NCL)": "559",
+      "General-EWS": "555",
+      "ScheduleCaste(SC)": "366",
+      "ScheduleTribe(ST)": "248"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "605",
+      "OtherBackwardClass(OBC-NCL)": "580",
+      "General-EWS": "554",
+      "ScheduleCaste(SC)": "481",
+      "ScheduleTribe(ST)": "283"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "703",
+      "General-EWS": "690",
+      "OtherBackwardClass(OBC-NCL)": "660",
+      "ScheduleCaste(SC)": "515",
+      "ScheduleTribe(ST)": "407"
+    },
+    "National Institute of Technology, Warangal": {
+      "OtherBackwardClass(OBC-NCL)": "735",
+      "General": "745",
+      "General-EWS": "711",
+      "ScheduleCaste(SC)": "626",
+      "ScheduleTribe(ST)": "481"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "741",
+      "General-EWS": "612",
+      "OtherBackwardClass(OBC-NCL)": "596",
+      "ScheduleCaste(SC)": "460",
+      "ScheduleTribe(ST)": "345"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "520",
+      "OtherBackwardClass(OBC-NCL)": "490",
+      "ScheduleCaste(SC)": "337",
+      "ScheduleTribe(ST)": "243"
+    },
+    "National Institute of Technology Mizoram": {
+      "General": "478",
+      "OtherBackwardClass(OBC-NCL)": "442",
+      "General-EWS": "405",
+      "ScheduleCaste(SC)": "290",
+      "ScheduleTribe(ST)": "221"
+    },
+    "National Institute of Technology, Andhra Pradesh": {
+      "General": "575",
+      "OtherBackwardClass(OBC-NCL)": "583",
+      "General-EWS": "478",
+      "ScheduleCaste(SC)": "353",
+      "ScheduleTribe(ST)": "298"
+    }
+  },
+  "PowerSystemsManagement": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "598",
+      "OtherBackwardClass(OBC-NCL)": "545",
+      "ScheduleTribe(ST)": "510",
+      "General-EWS": "498",
+      "ScheduleCaste(SC)": "387"
+    }
+  },
+  "PowerSystems": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "624",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "554",
+      "ScheduleCaste(SC)": "545",
+      "ScheduleTribe(ST)": "545"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "664",
+      "OtherBackwardClass(OBC-NCL)": "622",
+      "General-EWS": "605",
+      "ScheduleCaste(SC)": "499",
+      "ScheduleTribe(ST)": "349"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "746",
+      "OtherBackwardClass(OBC-NCL)": "721",
+      "General-EWS": "718",
+      "ScheduleCaste(SC)": "559",
+      "ScheduleTribe(ST)": "417"
+    }
+  },
+  "ProductionEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "628",
+      "OtherBackwardClass(OBC-NCL)": "615",
+      "General-EWS": "586",
+      "ScheduleCaste(SC)": "436",
+      "ScheduleTribe(ST)": "264"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "662",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "609",
+      "ScheduleCaste(SC)": "512",
+      "ScheduleTribe(ST)": "344"
+    },
+    "National Institute of Technology Patna": {
+      "General": "554",
+      "OtherBackwardClass(OBC-NCL)": "516",
+      "General-EWS": "478",
+      "ScheduleCaste(SC)": "356",
+      "ScheduleTribe(ST)": "352"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "678",
+      "General-EWS": "655",
+      "OtherBackwardClass(OBC-NCL)": "654",
+      "ScheduleCaste(SC)": "471",
+      "ScheduleTribe(ST)": "321"
+    }
+  },
+  "SteelTechnology": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "527",
+      "ScheduleTribe(ST)": "503",
+      "OtherBackwardClass(OBC-NCL)": "499",
+      "General-EWS": "440",
+      "ScheduleCaste(SC)": "319"
+    }
+  },
+  "StructuralEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "ScheduleCaste(SC)": "679",
+      "General": "792",
+      "OtherBackwardClass(OBC-NCL)": "716",
+      "General-EWS": "624",
+      "ScheduleTribe(ST)": "566"
+    },
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "764",
+      "OtherBackwardClass(OBC-NCL)": "712",
+      "General-EWS": "592",
+      "ScheduleCaste(SC)": "583",
+      "ScheduleTribe(ST)": "369"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "708",
+      "OtherBackwardClass(OBC-NCL)": "661",
+      "General-EWS": "618",
+      "ScheduleCaste(SC)": "486",
+      "ScheduleTribe(ST)": "425"
+    },
+    "National Institute of Technology  Agartala": {
+      "OtherBackwardClass(OBC-NCL)": "540",
+      "General": "537",
+      "General-EWS": "466",
+      "ScheduleCaste(SC)": "328",
+      "ScheduleTribe(ST)": "261"
+    },
+    "National Institute of Technology Calicut": {
+      "General-EWS": "647",
+      "General": "699",
+      "OtherBackwardClass(OBC-NCL)": "666",
+      "ScheduleCaste(SC)": "512",
+      "ScheduleTribe(ST)": "432"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "579",
+      "OtherBackwardClass(OBC-NCL)": "581",
+      "General-EWS": "537",
+      "ScheduleCaste(SC)": "420",
+      "ScheduleTribe(ST)": "324"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "730",
+      "OtherBackwardClass(OBC-NCL)": "696",
+      "General-EWS": "682",
+      "ScheduleCaste(SC)": "551",
+      "ScheduleTribe(ST)": "505"
+    },
+    "National Institute of Technology Meghalaya": {
+      "General": "508",
+      "OtherBackwardClass(OBC-NCL)": "484",
+      "ScheduleCaste(SC)": "373",
+      "ScheduleTribe(ST)": "320"
+    },
+    "National Institute of Technology Patna": {
+      "OtherBackwardClass(OBC-NCL)": "576",
+      "General": "572",
+      "General-EWS": "518",
+      "ScheduleCaste(SC)": "425",
+      "ScheduleTribe(ST)": "341"
+    },
+    "National Institute of Technology Raipur": {
+      "OtherBackwardClass(OBC-NCL)": "604",
+      "General": "597",
+      "General-EWS": "529",
+      "ScheduleCaste(SC)": "389",
+      "ScheduleTribe(ST)": "359"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "General": "551",
+      "OtherBackwardClass(OBC-NCL)": "522",
+      "General-EWS": "508",
+      "ScheduleCaste(SC)": "444",
+      "ScheduleTribe(ST)": "299"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "645",
+      "OtherBackwardClass(OBC-NCL)": "712",
+      "ScheduleCaste(SC)": "592",
+      "General-EWS": "566",
+      "ScheduleTribe(ST)": "384"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "696",
+      "General-EWS": "652",
+      "OtherBackwardClass(OBC-NCL)": "645",
+      "ScheduleCaste(SC)": "519",
+      "ScheduleTribe(ST)": "427"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "590",
+      "OtherBackwardClass(OBC-NCL)": "529",
+      "General-EWS": "503",
+      "ScheduleCaste(SC)": "376",
+      "ScheduleTribe(ST)": "335"
+    },
+    "National Institute of Technology, Srinagar": {
+      "General-EWS": "583",
+      "General": "686",
+      "OtherBackwardClass(OBC-NCL)": "425",
+      "ScheduleTribe(ST)": "349",
+      "ScheduleCaste(SC)": "324"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "778",
+      "General-EWS": "753",
+      "OtherBackwardClass(OBC-NCL)": "753",
+      "ScheduleCaste(SC)": "570",
+      "ScheduleTribe(ST)": "522"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "648",
+      "OtherBackwardClass(OBC-NCL)": "615",
+      "General-EWS": "570",
+      "ScheduleCaste(SC)": "440",
+      "ScheduleTribe(ST)": "417"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "667",
+      "OtherBackwardClass(OBC-NCL)": "671",
+      "General-EWS": "596",
+      "ScheduleCaste(SC)": "593",
+      "ScheduleTribe(ST)": "370"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "540",
+      "OtherBackwardClass(OBC-NCL)": "467",
+      "General-EWS": "466",
+      "ScheduleCaste(SC)": "376",
+      "ScheduleTribe(ST)": "288"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "640",
+      "General-EWS": "566",
+      "ScheduleCaste(SC)": "533",
+      "OtherBackwardClass(OBC-NCL)": "530",
+      "ScheduleTribe(ST)": "267"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "732",
+      "OtherBackwardClass(OBC-NCL)": "718",
+      "General-EWS": "652",
+      "ScheduleCaste(SC)": "377",
+      "ScheduleTribe(ST)": "321"
+    }
+  },
+  "TransportationEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "619",
+      "OtherBackwardClass(OBC-NCL)": "696",
+      "ScheduleTribe(ST)": "641",
+      "General-EWS": "609",
+      "ScheduleCaste(SC)": "533"
+    },
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "608",
+      "ScheduleCaste(SC)": "697",
+      "OtherBackwardClass(OBC-NCL)": "569",
+      "General-EWS": "514"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "652",
+      "ScheduleCaste(SC)": "622",
+      "OtherBackwardClass(OBC-NCL)": "597",
+      "General-EWS": "592",
+      "ScheduleTribe(ST)": "343"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "499",
+      "OtherBackwardClass(OBC-NCL)": "447",
+      "General-EWS": "423",
+      "ScheduleCaste(SC)": "341",
+      "ScheduleTribe(ST)": "287"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "643",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "625",
+      "ScheduleCaste(SC)": "428",
+      "ScheduleTribe(ST)": "391"
+    },
+    "National Institute of Technology Patna": {
+      "OtherBackwardClass(OBC-NCL)": "530",
+      "General": "518",
+      "General-EWS": "466",
+      "ScheduleCaste(SC)": "364",
+      "ScheduleTribe(ST)": "290"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "652",
+      "OtherBackwardClass(OBC-NCL)": "561",
+      "General-EWS": "529",
+      "ScheduleTribe(ST)": "473",
+      "ScheduleCaste(SC)": "466"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "645",
+      "ScheduleCaste(SC)": "579",
+      "OtherBackwardClass(OBC-NCL)": "569",
+      "General-EWS": "559",
+      "ScheduleTribe(ST)": "384"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "512",
+      "ScheduleCaste(SC)": "490",
+      "OtherBackwardClass(OBC-NCL)": "483",
+      "General-EWS": "462",
+      "ScheduleTribe(ST)": "321"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "682",
+      "OtherBackwardClass(OBC-NCL)": "686",
+      "General-EWS": "604",
+      "ScheduleCaste(SC)": "569",
+      "ScheduleTribe(ST)": "462"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "604",
+      "OtherBackwardClass(OBC-NCL)": "559",
+      "General-EWS": "533",
+      "ScheduleCaste(SC)": "441",
+      "ScheduleTribe(ST)": "339"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "526",
+      "General-EWS": "469",
+      "OtherBackwardClass(OBC-NCL)": "455",
+      "ScheduleCaste(SC)": "345"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "551",
+      "OtherBackwardClass(OBC-NCL)": "530",
+      "General-EWS": "473",
+      "ScheduleCaste(SC)": "402",
+      "ScheduleTribe(ST)": "354"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "ScheduleTribe(ST)": "344",
+      "General": "548",
+      "OtherBackwardClass(OBC-NCL)": "522",
+      "General-EWS": "484",
+      "ScheduleCaste(SC)": "358"
+    }
+  },
+  "UrbanPlanning": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "601",
+      "OtherBackwardClass(OBC-NCL)": "567",
+      "ScheduleCaste(SC)": "517",
+      "General-EWS": "451",
+      "ScheduleTribe(ST)": "381"
+    },
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "590",
+      "OtherBackwardClass(OBC-NCL)": "573",
+      "General-EWS": "458",
+      "ScheduleCaste(SC)": "334",
+      "ScheduleTribe(ST)": "320"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "652",
+      "OtherBackwardClass(OBC-NCL)": "629",
+      "General-EWS": "467",
+      "ScheduleCaste(SC)": "376",
+      "ScheduleTribe(ST)": "279"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "545",
+      "OtherBackwardClass(OBC-NCL)": "515",
+      "General-EWS": "430",
+      "ScheduleCaste(SC)": "345",
+      "ScheduleTribe(ST)": "281"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "ScheduleCaste(SC)": "339",
+      "General": "545",
+      "OtherBackwardClass(OBC-NCL)": "498",
+      "General-EWS": "459",
+      "ScheduleTribe(ST)": "280"
+    }
+  },
+  "Wireless&OpticalCommunication": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "592",
+      "OtherBackwardClass(OBC-NCL)": "527",
+      "General-EWS": "486",
+      "ScheduleCaste(SC)": "365",
+      "ScheduleTribe(ST)": "328"
+    }
+  },
+  "WaterResourcesEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "OtherBackwardClass(OBC-NCL)": "522",
+      "General": "563",
+      "General-EWS": "484",
+      "ScheduleTribe(ST)": "452",
+      "ScheduleCaste(SC)": "421"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "466",
+      "OtherBackwardClass(OBC-NCL)": "427",
+      "ScheduleCaste(SC)": "309"
+    },
+    "National Institute of Technology Patna": {
+      "OtherBackwardClass(OBC-NCL)": "471",
+      "General": "481",
+      "General-EWS": "447",
+      "ScheduleCaste(SC)": "356",
+      "ScheduleTribe(ST)": "253"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "General": "481",
+      "OtherBackwardClass(OBC-NCL)": "454",
+      "General-EWS": "417",
+      "ScheduleCaste(SC)": "317",
+      "ScheduleTribe(ST)": "268"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "533",
+      "OtherBackwardClass(OBC-NCL)": "473",
+      "General-EWS": "466",
+      "ScheduleCaste(SC)": "454",
+      "ScheduleTribe(ST)": "320"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "561",
+      "OtherBackwardClass(OBC-NCL)": "526",
+      "General-EWS": "503",
+      "ScheduleCaste(SC)": "409",
+      "ScheduleTribe(ST)": "338"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "485",
+      "OtherBackwardClass(OBC-NCL)": "441",
+      "General-EWS": "425",
+      "ScheduleCaste(SC)": "324",
+      "ScheduleTribe(ST)": "264"
+    },
+    "National Institute of Technology, Srinagar": {
+      "General": "558",
+      "OtherBackwardClass(OBC-NCL)": "462",
+      "General-EWS": "428",
+      "ScheduleCaste(SC)": "331",
+      "ScheduleTribe(ST)": "271"
+    },
+    "National Institute of Technology, Warangal": {
+      "OtherBackwardClass(OBC-NCL)": "559",
+      "General": "585",
+      "General-EWS": "549",
+      "ScheduleCaste(SC)": "441",
+      "ScheduleTribe(ST)": "372"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "504",
+      "OtherBackwardClass(OBC-NCL)": "492",
+      "General-EWS": "432",
+      "ScheduleCaste(SC)": "354",
+      "ScheduleTribe(ST)": "263"
+    }
+  },
+  "ComputerEngineering&InformationSecurity": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "647",
+      "General-EWS": "589",
+      "OtherBackwardClass(OBC-NCL)": "574",
+      "ScheduleCaste(SC)": "476",
+      "ScheduleTribe(ST)": "278"
+    }
+  },
+  "ComputerEngineering": {
+    "Malaviya National Institute of Technology Jaipur": {
+      "General": "698",
+      "OtherBackwardClass(OBC-NCL)": "636",
+      "General-EWS": "605",
+      "ScheduleCaste(SC)": "519",
+      "ScheduleTribe(ST)": "387"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "671",
+      "General-EWS": "608",
+      "OtherBackwardClass(OBC-NCL)": "581",
+      "ScheduleCaste(SC)": "453",
+      "ScheduleTribe(ST)": "329"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "655",
+      "General-EWS": "678",
+      "OtherBackwardClass(OBC-NCL)": "597",
+      "ScheduleCaste(SC)": "504",
+      "ScheduleTribe(ST)": "480"
+    }
+  },
+  "ArtificialIntelligence": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "697",
+      "General-EWS": "632",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "ScheduleCaste(SC)": "457",
+      "ScheduleTribe(ST)": "329"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "624",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "General-EWS": "519",
+      "ScheduleCaste(SC)": "395",
+      "ScheduleTribe(ST)": "255"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "605",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "General-EWS": "523",
+      "ScheduleCaste(SC)": "437",
+      "ScheduleTribe(ST)": "278"
+    },
+    "University of Hyderabad": {
+      "General": "655",
+      "OtherBackwardClass(OBC-NCL)": "628",
+      "General-EWS": "601",
+      "ScheduleCaste(SC)": "481",
+      "ScheduleTribe(ST)": "371"
+    }
+  },
+  "Bio-informatics": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "600",
+      "General-EWS": "476",
+      "OtherBackwardClass(OBC-NCL)": "434",
+      "ScheduleCaste(SC)": "340",
+      "ScheduleTribe(ST)": "336"
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "General": "675",
+      "General-EWS": "597",
+      "OtherBackwardClass(OBC-NCL)": "577",
+      "ScheduleCaste(SC)": "414",
+      "ScheduleTribe(ST)": "263"
+    },
+    "University of Hyderabad": {
+      "General": "578",
+      "OtherBackwardClass(OBC-NCL)": "709",
+      "General-EWS": "364",
+      "ScheduleCaste(SC)": "252",
+      "ScheduleTribe(ST)": "228"
+    }
+  },
+  "Computational&SystemsBiology": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": { "category": "General", "score": "574" },
+      "General-EWS": "562",
+      "OtherBackwardClass(OBC-NCL)": "433",
+      "ScheduleCaste(SC)": "364"
+    }
+  },
+  "DigitalCommunication": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "584",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General-EWS": "511",
+      "ScheduleCaste(SC)": "405",
+      "ScheduleTribe(ST)": "283"
+    },
+    "Atal Bihari Vajpayee Indian Institute of Information Technology &amp; Management Gwalior": {
+      "General": "494",
+      "General-EWS": "469",
+      "OtherBackwardClass(OBC-NCL)": "462",
+      "ScheduleCaste(SC)": "308"
+    }
+  },
+  "ElectricalDrives": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "592",
+      "OtherBackwardClass(OBC-NCL)": "587",
+      "General-EWS": "520",
+      "ScheduleCaste(SC)": "422",
+      "ScheduleTribe(ST)": "311"
+    }
+  },
+  "EngineeringMaterials": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "527",
+      "General-EWS": "449",
+      "ScheduleTribe(ST)": "293",
+      "ScheduleCaste(SC)": "281"
+    }
+  },
+  "GeotechnicalEngineering": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "632",
+      "General-EWS": "641",
+      "OtherBackwardClass(OBC-NCL)": "589",
+      "ScheduleCaste(SC)": "423",
+      "ScheduleTribe(ST)": "317"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "689",
+      "OtherBackwardClass(OBC-NCL)": "604",
+      "General-EWS": "592",
+      "ScheduleCaste(SC)": "551",
+      "ScheduleTribe(ST)": "331"
+    },
+    "National Institute of Technology  Agartala": {
+      "General": "515",
+      "OtherBackwardClass(OBC-NCL)": "455",
+      "General-EWS": "413",
+      "ScheduleCaste(SC)": "387",
+      "ScheduleTribe(ST)": "370"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "529",
+      "OtherBackwardClass(OBC-NCL)": "506",
+      "General-EWS": "458",
+      "ScheduleCaste(SC)": "430",
+      "ScheduleTribe(ST)": "275"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "704",
+      "OtherBackwardClass(OBC-NCL)": "611",
+      "General-EWS": "579",
+      "ScheduleCaste(SC)": "486",
+      "ScheduleTribe(ST)": "395"
+    },
+    "National Institute of Technology Patna": {
+      "General": "506",
+      "General-EWS": "525",
+      "OtherBackwardClass(OBC-NCL)": "496",
+      "ScheduleCaste(SC)": "348",
+      "ScheduleTribe(ST)": "263"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "General": "507",
+      "OtherBackwardClass(OBC-NCL)": "473",
+      "General-EWS": "440",
+      "ScheduleCaste(SC)": "381",
+      "ScheduleTribe(ST)": "274"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "570",
+      "OtherBackwardClass(OBC-NCL)": "565",
+      "General-EWS": "515",
+      "ScheduleCaste(SC)": "423",
+      "ScheduleTribe(ST)": "345"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "508",
+      "OtherBackwardClass(OBC-NCL)": "484",
+      "General-EWS": "443",
+      "ScheduleTribe(ST)": "373",
+      "ScheduleCaste(SC)": "350"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "697",
+      "OtherBackwardClass(OBC-NCL)": "663",
+      "General-EWS": "608",
+      "ScheduleCaste(SC)": "526",
+      "ScheduleTribe(ST)": "420"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "551",
+      "ScheduleCaste(SC)": "585",
+      "OtherBackwardClass(OBC-NCL)": "533",
+      "General-EWS": "507",
+      "ScheduleTribe(ST)": "292"
+    },
+    "National Institute of Technology, Andhra Pradesh": {
+      "General": "519",
+      "OtherBackwardClass(OBC-NCL)": "514",
+      "General-EWS": "451",
+      "ScheduleCaste(SC)": "352"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "544",
+      "OtherBackwardClass(OBC-NCL)": "510",
+      "General-EWS": "477",
+      "ScheduleCaste(SC)": "451",
+      "ScheduleTribe(ST)": "271"
+    }
+  },
+  "Geoinformatics&ItsApplications": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "OtherBackwardClass(OBC-NCL)": "523",
+      "General": "539",
+      "General-EWS": "412",
+      "ScheduleCaste(SC)": "320",
+      "ScheduleTribe(ST)": "309"
+    }
+  },
+  "HydroPowerEngineering": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "582",
+      "OtherBackwardClass(OBC-NCL)": "479",
+      "General-EWS": "434",
+      "ScheduleCaste(SC)": "352",
+      "ScheduleTribe(ST)": "309"
+    }
+  },
+  "Housing": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "OtherBackwardClass(OBC-NCL)": "459",
+      "General": "562",
+      "General-EWS": "399",
+      "ScheduleCaste(SC)": "310",
+      "ScheduleTribe(ST)": "246"
+    }
+  },
+  "IndustrialDesign": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "OtherBackwardClass(OBC-NCL)": "567",
+      "General": "644",
+      "General-EWS": "622",
+      "ScheduleCaste(SC)": "365",
+      "ScheduleTribe(ST)": "277"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "670",
+      "OtherBackwardClass(OBC-NCL)": "650",
+      "General-EWS": "621",
+      "ScheduleCaste(SC)": "461",
+      "ScheduleTribe(ST)": "300"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "OtherBackwardClass(OBC-NCL)": {
+        "category": "OtherBackwardClass(OBC-NCL)",
+        "score": "543"
+      },
+      "General": "512",
+      "General-EWS": "383",
+      "ScheduleCaste(SC)": "335",
+      "ScheduleTribe(ST)": "213"
+    }
+  },
+  "InformationSecurity": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "605",
+      "General-EWS": "574",
+      "OtherBackwardClass(OBC-NCL)": "558",
+      "ScheduleCaste(SC)": "410",
+      "ScheduleTribe(ST)": "270"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "702",
+      "General-EWS": "677",
+      "OtherBackwardClass(OBC-NCL)": "632",
+      "ScheduleCaste(SC)": "488",
+      "ScheduleTribe(ST)": "313"
+    },
+    "National Institute of Technology Patna": {
+      "General": "531",
+      "OtherBackwardClass(OBC-NCL)": "554",
+      "General-EWS": "437",
+      "ScheduleCaste(SC)": "364"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "686",
+      "General-EWS": "632",
+      "OtherBackwardClass(OBC-NCL)": "620",
+      "ScheduleCaste(SC)": "472",
+      "ScheduleTribe(ST)": "352"
+    },
+    "Atal Bihari Vajpayee Indian Institute of Information Technology &amp; Management Gwalior": {
+      "General": "605",
+      "OtherBackwardClass(OBC-NCL)": "574",
+      "General-EWS": "519",
+      "ScheduleCaste(SC)": "411"
+    },
+    "University of Hyderabad": {
+      "General": "546",
+      "OtherBackwardClass(OBC-NCL)": "496",
+      "General-EWS": "492",
+      "ScheduleCaste(SC)": "375",
+      "ScheduleTribe(ST)": "252"
+    }
+  },
+  "MaterialsScience&Technology": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "515",
+      "OtherBackwardClass(OBC-NCL)": "503",
+      "General-EWS": "491",
+      "ScheduleCaste(SC)": "281"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "604",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "588",
+      "ScheduleCaste(SC)": "339",
+      "ScheduleTribe(ST)": "261"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General-EWS": "451",
+      "General": "548",
+      "OtherBackwardClass(OBC-NCL)": "476",
+      "ScheduleCaste(SC)": "339",
+      "ScheduleTribe(ST)": "251"
+    }
+  },
+  "MaintenanceEngineering&Management": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "582",
+      "OtherBackwardClass(OBC-NCL)": "527",
+      "General-EWS": "474",
+      "ScheduleCaste(SC)": "281"
+    }
+  },
+  "EnvironmentEngineering": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "559",
+      "General-EWS": "518",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "ScheduleCaste(SC)": "469",
+      "ScheduleTribe(ST)": "309"
+    }
+  },
+  "Nanotechnology": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "554",
+      "General-EWS": "512",
+      "OtherBackwardClass(OBC-NCL)": "491",
+      "ScheduleCaste(SC)": "389",
+      "ScheduleTribe(ST)": "281"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "609",
+      "General-EWS": "574",
+      "OtherBackwardClass(OBC-NCL)": "558",
+      "ScheduleCaste(SC)": "331",
+      "ScheduleTribe(ST)": "230"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "672",
+      "General-EWS": "660",
+      "OtherBackwardClass(OBC-NCL)": "649",
+      "ScheduleCaste(SC)": "474",
+      "ScheduleTribe(ST)": "300"
+    }
+  },
+  "Stress&VibrationAnalysis": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "590",
+      "General-EWS": "563",
+      "OtherBackwardClass(OBC-NCL)": "550",
+      "ScheduleCaste(SC)": "341",
+      "ScheduleTribe(ST)": "261"
+    }
+  },
+  "PowerSystem": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "594",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General-EWS": "528",
+      "ScheduleCaste(SC)": "400",
+      "ScheduleTribe(ST)": "336"
+    },
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "669",
+      "General-EWS": "707",
+      "OtherBackwardClass(OBC-NCL)": "658",
+      "ScheduleCaste(SC)": "422",
+      "ScheduleTribe(ST)": "319"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "554",
+      "General-EWS": "558",
+      "OtherBackwardClass(OBC-NCL)": "520",
+      "ScheduleCaste(SC)": "387",
+      "ScheduleTribe(ST)": "307"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "613",
+      "OtherBackwardClass(OBC-NCL)": "555",
+      "General-EWS": "534",
+      "ScheduleCaste(SC)": "426",
+      "ScheduleTribe(ST)": "336"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "601",
+      "OtherBackwardClass(OBC-NCL)": "570",
+      "General-EWS": "559",
+      "ScheduleCaste(SC)": "417",
+      "ScheduleTribe(ST)": "324"
+    }
+  },
+  "VLSIDesign&EmbeddedSystems": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "653",
+      "General-EWS": "681",
+      "OtherBackwardClass(OBC-NCL)": "596",
+      "ScheduleCaste(SC)": "458",
+      "ScheduleTribe(ST)": "316"
+    },
+    "National Institute of Technology Arunachal Pradesh ": {
+      "General": "599",
+      "OtherBackwardClass(OBC-NCL)": "474",
+      "General-EWS": "429",
+      "ScheduleCaste(SC)": "300",
+      "ScheduleTribe(ST)": "239"
+    },
+    "National Institute of Technology, Manipur": {
+      "General": "482",
+      "OtherBackwardClass(OBC-NCL)": "438",
+      "ScheduleCaste(SC)": "323",
+      "ScheduleTribe(ST)": "261"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "737",
+      "General-EWS": "742",
+      "OtherBackwardClass(OBC-NCL)": "709",
+      "ScheduleCaste(SC)": "571",
+      "ScheduleTribe(ST)": "392"
+    }
+  },
+  "WaterResourceEngineering": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "540",
+      "OtherBackwardClass(OBC-NCL)": "499",
+      "General-EWS": "477",
+      "ScheduleTribe(ST)": "443",
+      "ScheduleCaste(SC)": "377"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "597",
+      "OtherBackwardClass(OBC-NCL)": "590",
+      "General-EWS": "491",
+      "ScheduleCaste(SC)": "380",
+      "ScheduleTribe(ST)": "306"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "510",
+      "OtherBackwardClass(OBC-NCL)": "498",
+      "General-EWS": "447",
+      "ScheduleCaste(SC)": "343",
+      "ScheduleTribe(ST)": "279"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "530",
+      "OtherBackwardClass(OBC-NCL)": "492",
+      "General-EWS": "467",
+      "ScheduleCaste(SC)": "384",
+      "ScheduleTribe(ST)": "283"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "499",
+      "General-EWS": "415",
+      "ScheduleCaste(SC)": "402",
+      "ScheduleTribe(ST)": "234"
+    }
+  },
+  "ComputerScience&EngineeringwithspecializationinAdvanceComputing": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "639",
+      "General-EWS": "589",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "ScheduleCaste(SC)": "449",
+      "ScheduleTribe(ST)": "274"
+    }
+  },
+  "ComputerScience&EngineeringwithspecializationinComputerNetworking": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "632",
+      "General-EWS": "585",
+      "OtherBackwardClass(OBC-NCL)": "550",
+      "ScheduleCaste(SC)": "426",
+      "ScheduleTribe(ST)": "270"
+    }
+  },
+  "EnergywithspecializationinRenewableEnergy": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "OtherBackwardClass(OBC-NCL)": "575",
+      "General": "567",
+      "General-EWS": "464",
+      "ScheduleCaste(SC)": "390",
+      "ScheduleTribe(ST)": "294"
+    }
+  },
+  "EnergywithspecializationinEnergySystemManagement": {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "General": "575",
+      "General-EWS": "543",
+      "OtherBackwardClass(OBC-NCL)": "485",
+      "ScheduleCaste(SC)": "392",
+      "ScheduleTribe(ST)": "255"
+    }
+  },
+  "BiomedicalEngineering": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "588",
+      "OtherBackwardClass(OBC-NCL)": "535",
+      "General-EWS": "507",
+      "ScheduleCaste(SC)": "366",
+      "ScheduleTribe(ST)": "334"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "632",
+      "OtherBackwardClass(OBC-NCL)": "591",
+      "General-EWS": "502",
+      "ScheduleCaste(SC)": "423",
+      "ScheduleTribe(ST)": "285"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "559",
+      "OtherBackwardClass(OBC-NCL)": "430",
+      "General-EWS": "379",
+      "ScheduleCaste(SC)": "311"
+    }
+  },
+  "Control&Instrumentation": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "613",
+      "OtherBackwardClass(OBC-NCL)": "609",
+      "General-EWS": "588",
+      "ScheduleCaste(SC)": "473",
+      "ScheduleTribe(ST)": "290"
+    }
+  },
+  "CommunicationSystems": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "661",
+      "General-EWS": "661",
+      "OtherBackwardClass(OBC-NCL)": "632",
+      "ScheduleCaste(SC)": "446",
+      "ScheduleTribe(ST)": "328"
+    },
+    "National Institute of Technology Patna": {
+      "General": "515",
+      "General-EWS": "511",
+      "OtherBackwardClass(OBC-NCL)": "498",
+      "ScheduleCaste(SC)": "336"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "608",
+      "General-EWS": "580",
+      "OtherBackwardClass(OBC-NCL)": "547",
+      "ScheduleCaste(SC)": "369",
+      "ScheduleTribe(ST)": "271"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "766",
+      "General-EWS": "742",
+      "OtherBackwardClass(OBC-NCL)": "705",
+      "ScheduleCaste(SC)": "571",
+      "ScheduleTribe(ST)": "409"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "494",
+      "OtherBackwardClass(OBC-NCL)": "458",
+      "General-EWS": "425",
+      "ScheduleCaste(SC)": "328"
+    }
+  },
+  "FluidsEngineering": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "651",
+      "General-EWS": "642",
+      "OtherBackwardClass(OBC-NCL)": "609",
+      "ScheduleCaste(SC)": "421",
+      "ScheduleTribe(ST)": "287"
+    }
+  },
+  "Geoinformatics": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "604",
+      "OtherBackwardClass(OBC-NCL)": "542",
+      "General-EWS": "537",
+      "ScheduleCaste(SC)": "428",
+      "ScheduleTribe(ST)": "287"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "522",
+      "OtherBackwardClass(OBC-NCL)": "451",
+      "General-EWS": "432",
+      "ScheduleCaste(SC)": "379",
+      "ScheduleTribe(ST)": "246"
+    }
+  },
+  "EngineeringMechanicsandDesign": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "651",
+      "General-EWS": "658",
+      "OtherBackwardClass(OBC-NCL)": "622",
+      "ScheduleCaste(SC)": "424",
+      "ScheduleTribe(ST)": "360"
+    }
+  },
+  "Microelectronics&VLSIDesign": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "734",
+      "OtherBackwardClass(OBC-NCL)": "718",
+      "General-EWS": "705",
+      "ScheduleCaste(SC)": "539",
+      "ScheduleTribe(ST)": "417"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "750",
+      "General-EWS": "728",
+      "OtherBackwardClass(OBC-NCL)": "701",
+      "ScheduleCaste(SC)": "547",
+      "ScheduleTribe(ST)": "466"
+    },
+    "National Institute of Technology Patna": {
+      "General": "584",
+      "OtherBackwardClass(OBC-NCL)": "576",
+      "General-EWS": "546",
+      "ScheduleCaste(SC)": "377",
+      "ScheduleTribe(ST)": "300"
+    },
+    "National Institute of Technology Sikkim": {
+      "General": "524",
+      "OtherBackwardClass(OBC-NCL)": "508",
+      "General-EWS": "467",
+      "ScheduleCaste(SC)": "328",
+      "ScheduleTribe(ST)": "235"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "604",
+      "OtherBackwardClass(OBC-NCL)": "563",
+      "General-EWS": "527",
+      "ScheduleCaste(SC)": "373",
+      "ScheduleTribe(ST)": "361"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "474",
+      "General-EWS": "474",
+      "ScheduleCaste(SC)": "446"
+    },
+    "National Institute of Technology Mizoram": {
+      "General": "482",
+      "OtherBackwardClass(OBC-NCL)": "458",
+      "General-EWS": "381",
+      "ScheduleCaste(SC)": "288"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General-EWS": "604",
+      "General": "632",
+      "OtherBackwardClass(OBC-NCL)": "616",
+      "ScheduleCaste(SC)": "381",
+      "ScheduleTribe(ST)": "300"
+    }
+  },
+  "ProductDesignandDevelopment": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "654",
+      "General-EWS": "628",
+      "OtherBackwardClass(OBC-NCL)": "588",
+      "ScheduleCaste(SC)": "403"
+    }
+  },
+  "SoftwareEngineering": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "686",
+      "General-EWS": "655",
+      "OtherBackwardClass(OBC-NCL)": "612",
+      "ScheduleCaste(SC)": "492",
+      "ScheduleTribe(ST)": "325"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "667",
+      "General-EWS": "655",
+      "OtherBackwardClass(OBC-NCL)": "620",
+      "ScheduleCaste(SC)": "472",
+      "ScheduleTribe(ST)": "348"
+    }
+  },
+  "SignalProcessing": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "677",
+      "General-EWS": "677",
+      "OtherBackwardClass(OBC-NCL)": "604",
+      "ScheduleCaste(SC)": "417",
+      "ScheduleTribe(ST)": "308"
+    },
+    "National Institute of Technology Calicut": {
+      "General": "677",
+      "General-EWS": "673",
+      "OtherBackwardClass(OBC-NCL)": "641",
+      "ScheduleCaste(SC)": "527",
+      "ScheduleTribe(ST)": "316"
+    }
+  },
+  "ComputerAidedDesign&Manufacturing": {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "General": "724",
+      "OtherBackwardClass(OBC-NCL)": "606",
+      "General-EWS": "588",
+      "ScheduleCaste(SC)": "432"
+    },
+    "National Institute of Technology Delhi": {
+      "OtherBackwardClass(OBC-NCL)": "638",
+      "General": "613",
+      "ScheduleCaste(SC)": "555",
+      "ScheduleTribe(ST)": "268"
+    }
+  },
+  "AutomotiveEngineering": {
+    "National Institute of Technology  Agartala": {
+      "General": { "category": "General", "score": "600" },
+      "OtherBackwardClass(OBC-NCL)": "463",
+      "ScheduleCaste(SC)": "277"
+    }
+  },
+  "Biotechnology&BiochemicalEngineering": {
+    "National Institute of Technology  Agartala": {
+      "General": "492",
+      "OtherBackwardClass(OBC-NCL)": "412",
+      "General-EWS": "371",
+      "ScheduleCaste(SC)": "290"
+    }
+  },
+  "CommunicationEngineering": {
+    "National Institute of Technology  Agartala": {
+      "General": "551",
+      "OtherBackwardClass(OBC-NCL)": "498",
+      "General-EWS": "421",
+      "ScheduleCaste(SC)": "319",
+      "ScheduleTribe(ST)": "296"
+    },
+    "National Institute of Technology Nagaland": {
+      "General": "478",
+      "OtherBackwardClass(OBC-NCL)": "450",
+      "General-EWS": "388",
+      "ScheduleCaste(SC)": "283"
+    }
+  },
+  "HydroInformaticsEngineering": {
+    "National Institute of Technology  Agartala": {
+      "General": "473",
+      "OtherBackwardClass(OBC-NCL)": "421",
+      "General-EWS": "410",
+      "ScheduleCaste(SC)": "299",
+      "ScheduleTribe(ST)": "244"
+    }
+  },
+  "InstrumentationEngineering": {
+    "National Institute of Technology  Agartala": {
+      "General-EWS": "430",
+      "General": "494",
+      "OtherBackwardClass(OBC-NCL)": "439",
+      "ScheduleCaste(SC)": "302"
+    },
+    "National Institute of Technology, Silchar": {
+      "General": "555",
+      "OtherBackwardClass(OBC-NCL)": "525",
+      "General-EWS": "405",
+      "ScheduleCaste(SC)": "318"
+    }
+  },
+  "IntegratedEnergySystem": {
+    "National Institute of Technology  Agartala": {
+      "General": { "category": "General", "score": "515" },
+      "OtherBackwardClass(OBC-NCL)": "442",
+      "ScheduleCaste(SC)": "307"
+    }
+  },
+  "MachineDesign": {
+    "National Institute of Technology  Agartala": {
+      "General": "571",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "ScheduleCaste(SC)": "333"
+    },
+    "National Institute of Technology Calicut": {
+      "General-EWS": "701",
+      "General": "741",
+      "OtherBackwardClass(OBC-NCL)": "693",
+      "ScheduleCaste(SC)": "539",
+      "ScheduleTribe(ST)": "428"
+    },
+    "National Institute of Technology Durgapur": {
+      "General": "666",
+      "OtherBackwardClass(OBC-NCL)": "588",
+      "General-EWS": "565",
+      "ScheduleCaste(SC)": "386",
+      "ScheduleTribe(ST)": "293"
+    },
+    "National Institute of Technology Raipur": {
+      "General": "596",
+      "OtherBackwardClass(OBC-NCL)": "633",
+      "General-EWS": "543",
+      "ScheduleCaste(SC)": "352",
+      "ScheduleTribe(ST)": "341"
+    },
+    "National Institute of Technology, Kurukshetra": {
+      "General": "676",
+      "OtherBackwardClass(OBC-NCL)": "656",
+      "General-EWS": "642",
+      "ScheduleCaste(SC)": "436",
+      "ScheduleTribe(ST)": "245"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "815",
+      "OtherBackwardClass(OBC-NCL)": "785",
+      "General-EWS": "768",
+      "ScheduleCaste(SC)": "606",
+      "ScheduleTribe(ST)": "575"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "533",
+      "General-EWS": "546",
+      "OtherBackwardClass(OBC-NCL)": "471",
+      "ScheduleCaste(SC)": "305"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "650",
+      "General-EWS": "602",
+      "OtherBackwardClass(OBC-NCL)": "600",
+      "ScheduleCaste(SC)": "411",
+      "ScheduleTribe(ST)": "400"
+    }
+  },
+  "PowerSystemEngineering": {
+    "National Institute of Technology  Agartala": {
+      "OtherBackwardClass(OBC-NCL)": "464",
+      "General": "506",
+      "General-EWS": "413",
+      "ScheduleCaste(SC)": "362",
+      "ScheduleTribe(ST)": "255"
+    },
+    "National Institute of Technology Patna": {
+      "OtherBackwardClass(OBC-NCL)": "700",
+      "General": "683",
+      "General-EWS": "566",
+      "ScheduleCaste(SC)": "464",
+      "ScheduleTribe(ST)": "230"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "656",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "605",
+      "ScheduleCaste(SC)": "481",
+      "ScheduleTribe(ST)": "379"
+    }
+  },
+  "SeismicScienceandEngineering": {
+    "National Institute of Technology  Agartala": {
+      "General": "458",
+      "OtherBackwardClass(OBC-NCL)": "420",
+      "ScheduleCaste(SC)": "295",
+      "ScheduleTribe(ST)": "242"
+    }
+  },
+  "ThermalScience&Engineering": {
+    "National Institute of Technology  Agartala": {
+      "General": "546",
+      "OtherBackwardClass(OBC-NCL)": "523",
+      "General-EWS": "495",
+      "ScheduleCaste(SC)": "313"
+    }
+  },
+  "ComputerIntegratedManufacturing": {
+    "National Institute of Technology  Agartala": {
+      "General": "491",
+      "General-EWS": "449",
+      "OtherBackwardClass(OBC-NCL)": "436",
+      "ScheduleCaste(SC)": "289"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "697",
+      "General-EWS": "674",
+      "OtherBackwardClass(OBC-NCL)": "667",
+      "ScheduleCaste(SC)": "463",
+      "ScheduleTribe(ST)": "333"
+    }
+  },
+  "EnvironmentalGeotechnology": {
+    "National Institute of Technology Calicut": {
+      "OtherBackwardClass(OBC-NCL)": "593",
+      "General": "583",
+      "General-EWS": "525",
+      "ScheduleCaste(SC)": "406",
+      "ScheduleTribe(ST)": "313"
+    }
+  },
+  "EnergyEngineering&Management": {
+    "National Institute of Technology Calicut": {
+      "General": "659",
+      "OtherBackwardClass(OBC-NCL)": "613",
+      "General-EWS": "604",
+      "ScheduleCaste(SC)": "377",
+      "ScheduleTribe(ST)": "308"
+    }
+  },
+  "ElectronicsDesign&Technology": {
+    "National Institute of Technology Calicut": {
+      "General": "705",
+      "General-EWS": "678",
+      "OtherBackwardClass(OBC-NCL)": "661",
+      "ScheduleCaste(SC)": "478",
+      "ScheduleTribe(ST)": "369"
+    },
+    "National Institute of Electronics and Information Technology, Aurangabad ": {
+      "General-EWS": "575",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "General": "547",
+      "ScheduleCaste(SC)": "312",
+      "ScheduleTribe(ST)": "243"
+    }
+  },
+  "HighVoltageEngineering": {
+    "National Institute of Technology Calicut": {
+      "General": "635",
+      "OtherBackwardClass(OBC-NCL)": "613",
+      "General-EWS": "559",
+      "ScheduleCaste(SC)": "464",
+      "ScheduleTribe(ST)": "324"
+    }
+  },
+  "IndustrialPower&Automation": {
+    "National Institute of Technology Calicut": {
+      "General": "664",
+      "OtherBackwardClass(OBC-NCL)": "609",
+      "General-EWS": "600",
+      "ScheduleCaste(SC)": "422",
+      "ScheduleTribe(ST)": "294"
+    }
+  },
+  "Instrumentation&ControlSystems": {
+    "National Institute of Technology Calicut": {
+      "General": "674",
+      "OtherBackwardClass(OBC-NCL)": "619",
+      "General-EWS": "613",
+      "ScheduleCaste(SC)": "426",
+      "ScheduleTribe(ST)": "294"
+    }
+  },
+  "IndustrialEngineering&Management": {
+    "National Institute of Technology Calicut": {
+      "General": "726",
+      "OtherBackwardClass(OBC-NCL)": "749",
+      "General-EWS": "708",
+      "ScheduleCaste(SC)": "495",
+      "ScheduleTribe(ST)": "403"
+    },
+    "National Institute of Technology Raipur": {
+      "General": "665",
+      "OtherBackwardClass(OBC-NCL)": "554",
+      "General-EWS": "492",
+      "ScheduleCaste(SC)": "370",
+      "ScheduleTribe(ST)": "329"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "805",
+      "General-EWS": "806",
+      "OtherBackwardClass(OBC-NCL)": "801",
+      "ScheduleCaste(SC)": "646",
+      "ScheduleTribe(ST)": "415"
+    }
+  },
+  "OffshoreStructures": {
+    "National Institute of Technology Calicut": {
+      "General": "558",
+      "OtherBackwardClass(OBC-NCL)": "551",
+      "General-EWS": "481",
+      "ScheduleCaste(SC)": "358",
+      "ScheduleTribe(ST)": "285"
+    }
+  },
+  "PowerElectronics": {
+    "National Institute of Technology Calicut": {
+      "General": "707",
+      "General-EWS": "681",
+      "OtherBackwardClass(OBC-NCL)": "660",
+      "ScheduleCaste(SC)": "506",
+      "ScheduleTribe(ST)": "379"
+    },
+    "National Institute of Technology Puducherry": {
+      "General": { "category": "General", "score": "566" },
+      "OtherBackwardClass(OBC-NCL)": "552",
+      "General-EWS": "507",
+      "ScheduleCaste(SC)": "383",
+      "ScheduleTribe(ST)": "298"
+    },
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "781",
+      "OtherBackwardClass(OBC-NCL)": "737",
+      "General-EWS": "732",
+      "ScheduleCaste(SC)": "673",
+      "ScheduleTribe(ST)": "464"
+    }
+  },
+  "Telecommunication": {
+    "National Institute of Technology Calicut": {
+      "General": "697",
+      "General-EWS": "680",
+      "OtherBackwardClass(OBC-NCL)": "645",
+      "ScheduleCaste(SC)": "434",
+      "ScheduleTribe(ST)": "344"
+    }
+  },
+  "ThermalSciences": {
+    "National Institute of Technology Calicut": {
+      "General": "729",
+      "OtherBackwardClass(OBC-NCL)": "709",
+      "General-EWS": "677",
+      "ScheduleCaste(SC)": "527",
+      "ScheduleTribe(ST)": "340"
+    }
+  },
+  "Traffic&TransportationPlanning": {
+    "National Institute of Technology Calicut": {
+      "General": "608",
+      "OtherBackwardClass(OBC-NCL)": "601",
+      "General-EWS": "555",
+      "ScheduleCaste(SC)": "399",
+      "ScheduleTribe(ST)": "324"
+    }
+  },
+  "ElectronicsandCommunicationEngineeringwithspecialisationinVLSI": {
+    "National Institute of Technology Delhi": {
+      "General-EWS": { "category": "General-EWS", "score": "680" },
+      "General": "677",
+      "OtherBackwardClass(OBC-NCL)": "616",
+      "ScheduleCaste(SC)": "486",
+      "ScheduleTribe(ST)": "365"
+    }
+  },
+  "ComputerScience&Engineering(Analytics)": {
+    "National Institute of Technology Delhi": {
+      "General": "682",
+      "OtherBackwardClass(OBC-NCL)": "608",
+      "ScheduleCaste(SC)": "507",
+      "ScheduleTribe(ST)": "374"
+    }
+  },
+  "EnvironmentalScience&Technology": {
+    "National Institute of Technology Durgapur": {
+      "General": "495",
+      "OtherBackwardClass(OBC-NCL)": "462",
+      "General-EWS": "428",
+      "ScheduleCaste(SC)": "358",
+      "ScheduleTribe(ST)": "256"
+    },
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "598",
+      "General-EWS": "571",
+      "OtherBackwardClass(OBC-NCL)": "539",
+      "ScheduleCaste(SC)": "309",
+      "ScheduleTribe(ST)": "230"
+    }
+  },
+  "FluidMechanicsandHeatTransfer": {
+    "National Institute of Technology Durgapur": {
+      "General": "606",
+      "OtherBackwardClass(OBC-NCL)": "537",
+      "General-EWS": "516",
+      "ScheduleCaste(SC)": "325"
+    }
+  },
+  "AdvancedMaterialScience&Technology": {
+    "National Institute of Technology Durgapur": {
+      "General": "509",
+      "General-EWS": "494",
+      "OtherBackwardClass(OBC-NCL)": "466",
+      "ScheduleCaste(SC)": "324"
+    }
+  },
+  "Microelectronics&VLSI": {
+    "National Institute of Technology Durgapur": {
+      "General": "611",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General-EWS": "523",
+      "ScheduleCaste(SC)": "377"
+    }
+  },
+  "MetallurgyandMaterialsTechnology": {
+    "National Institute of Technology Durgapur": {
+      "General-EWS": "419",
+      "General": "508",
+      "OtherBackwardClass(OBC-NCL)": "455",
+      "ScheduleCaste(SC)": "285",
+      "ScheduleTribe(ST)": "71"
+    }
+  },
+  "OperationsResearch": {
+    "National Institute of Technology Durgapur": {
+      "General": "571",
+      "OtherBackwardClass(OBC-NCL)": "508",
+      "General-EWS": "505",
+      "ScheduleCaste(SC)": "425",
+      "ScheduleTribe(ST)": "263"
+    }
+  },
+  "PowerElectronics&MachineDrives": {
+    "National Institute of Technology Durgapur": {
+      "General": "575",
+      "OtherBackwardClass(OBC-NCL)": "554",
+      "General-EWS": "532",
+      "ScheduleCaste(SC)": "456",
+      "ScheduleTribe(ST)": "285"
+    }
+  },
+  "TelecommunicationEngineering": {
+    "National Institute of Technology Durgapur": {
+      "General": "563",
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "General-EWS": "490",
+      "ScheduleCaste(SC)": "336",
+      "ScheduleTribe(ST)": "271"
+    }
+  },
+  "PowerElectronics&PowerSystems": {
+    "National Institute of Technology Goa": {
+      "General": "579",
+      "OtherBackwardClass(OBC-NCL)": "580",
+      "General-EWS": "528",
+      "ScheduleCaste(SC)": "353",
+      "ScheduleTribe(ST)": "302"
+    }
+  },
+  "VLSI": {
+    "National Institute of Technology Goa": {
+      "General": "613",
+      "OtherBackwardClass(OBC-NCL)": "620",
+      "General-EWS": "612",
+      "ScheduleCaste(SC)": "407",
+      "ScheduleTribe(ST)": "273"
+    }
+  },
+  "CivilEngineering(Environment)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "507",
+      "OtherBackwardClass(OBC-NCL)": "447",
+      "General-EWS": "432",
+      "ScheduleCaste(SC)": "372",
+      "ScheduleTribe(ST)": "281"
+    }
+  },
+  "CivilEngineering(Geotechnical)": {
+    "National Institute of Technology Hamirpur": {
+      "OtherBackwardClass(OBC-NCL)": "477",
+      "General": "537",
+      "General-EWS": "443",
+      "ScheduleCaste(SC)": "367",
+      "ScheduleTribe(ST)": "331"
+    }
+  },
+  "CivilEngineering(Structures)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "589",
+      "General-EWS": "563",
+      "OtherBackwardClass(OBC-NCL)": "540",
+      "ScheduleCaste(SC)": "443",
+      "ScheduleTribe(ST)": "339"
+    }
+  },
+  "CivilEngineering(Transportation)": {
+    "National Institute of Technology Hamirpur": {
+      "ScheduleCaste(SC)": "412",
+      "General": "533",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "General-EWS": "474",
+      "ScheduleTribe(ST)": "451"
+    }
+  },
+  "CivilEngineering(WaterResources)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "499",
+      "General-EWS": "462",
+      "OtherBackwardClass(OBC-NCL)": "447",
+      "ScheduleCaste(SC)": "376",
+      "ScheduleTribe(ST)": "294"
+    }
+  },
+  "MaterialsScienceandEngineering": {
+    "National Institute of Technology Hamirpur": {
+      "General": "501",
+      "OtherBackwardClass(OBC-NCL)": "440",
+      "General-EWS": "424",
+      "ScheduleCaste(SC)": "289"
+    }
+  },
+  "SustainableArchitecture": {
+    "National Institute of Technology Hamirpur": {
+      "General": "550",
+      "OtherBackwardClass(OBC-NCL)": "398",
+      "ScheduleCaste(SC)": "387",
+      "ScheduleTribe(ST)": "196"
+    },
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "ScheduleCaste(SC)": "460",
+      "General": "641",
+      "OtherBackwardClass(OBC-NCL)": "500",
+      "General-EWS": "410",
+      "ScheduleTribe(ST)": "184"
+    },
+    "Central University of Rajasthan": {
+      "General": "509",
+      "OtherBackwardClass(OBC-NCL)": "398",
+      "ScheduleCaste(SC)": "297",
+      "ScheduleTribe(ST)": "189"
+    }
+  },
+  "MechanicalEngineering(Design)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "579",
+      "OtherBackwardClass(OBC-NCL)": "554",
+      "General-EWS": "546",
+      "ScheduleCaste(SC)": "313"
+    }
+  },
+  "MechanicalEngineering(EnergyTechnology)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "516",
+      "OtherBackwardClass(OBC-NCL)": "487",
+      "General-EWS": "455",
+      "ScheduleCaste(SC)": "297"
+    }
+  },
+  "MechanicalEngineering(Manufacturing)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "555",
+      "OtherBackwardClass(OBC-NCL)": "503",
+      "General-EWS": "474",
+      "ScheduleCaste(SC)": "365"
+    }
+  },
+  "MechanicalEngineering(Thermal)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "634",
+      "OtherBackwardClass(OBC-NCL)": "618",
+      "General-EWS": "578",
+      "ScheduleCaste(SC)": "345"
+    }
+  },
+  "Electronics&CommunicationEngineering(CommunicationsSystemandNetworks)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "534",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "General-EWS": "442",
+      "ScheduleCaste(SC)": "352",
+      "ScheduleTribe(ST)": "255"
+    }
+  },
+  "Electronics&CommunicationEngineering(VLSIDesign)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "584",
+      "OtherBackwardClass(OBC-NCL)": "563",
+      "General-EWS": "478",
+      "ScheduleCaste(SC)": "377",
+      "ScheduleTribe(ST)": "283"
+    }
+  },
+  "ComputerScience&Engineering(ArtificialIntelligence)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "616",
+      "OtherBackwardClass(OBC-NCL)": "550",
+      "General-EWS": "515",
+      "ScheduleCaste(SC)": "395",
+      "ScheduleTribe(ST)": "294"
+    }
+  },
+  "ElectricalEngineering(ConditionMonitoringofPowerApparatus)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "513",
+      "General-EWS": "507",
+      "OtherBackwardClass(OBC-NCL)": "473",
+      "ScheduleCaste(SC)": "337",
+      "ScheduleTribe(ST)": "234"
+    }
+  },
+  "ElectricalEngineering(PowerSystem)": {
+    "National Institute of Technology Hamirpur": {
+      "OtherBackwardClass(OBC-NCL)": "520",
+      "General": "549",
+      "General-EWS": "494",
+      "ScheduleCaste(SC)": "387",
+      "ScheduleTribe(ST)": "324"
+    }
+  },
+  "ElectricalEngineering(SignalProcessing&Control)": {
+    "National Institute of Technology Hamirpur": {
+      "General": "532",
+      "OtherBackwardClass(OBC-NCL)": "475",
+      "General-EWS": "426",
+      "ScheduleCaste(SC)": "324",
+      "ScheduleTribe(ST)": "255"
+    }
+  },
+  "ComputationalandDataScience": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "794",
+      "General-EWS": "710",
+      "OtherBackwardClass(OBC-NCL)": "709",
+      "ScheduleCaste(SC)": "541",
+      "ScheduleTribe(ST)": "379"
+    }
+  },
+  "ConstructionTechnologyandManagement": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "OtherBackwardClass(OBC-NCL)": "663",
+      "General": "689",
+      "General-EWS": "597",
+      "ScheduleCaste(SC)": "468",
+      "ScheduleTribe(ST)": "388"
+    },
+    "National Institute of Technology, Warangal": {
+      "OtherBackwardClass(OBC-NCL)": "693",
+      "General": "704",
+      "General-EWS": "619",
+      "ScheduleTribe(ST)": "496",
+      "ScheduleCaste(SC)": "454"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "604",
+      "OtherBackwardClass(OBC-NCL)": "533",
+      "General-EWS": "530",
+      "ScheduleCaste(SC)": "395",
+      "ScheduleTribe(ST)": "298"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "OtherBackwardClass(OBC-NCL)": "551",
+      "General-EWS": "640",
+      "General": "615",
+      "ScheduleCaste(SC)": "416",
+      "ScheduleTribe(ST)": "298"
+    }
+  },
+  "CommunicationEngineeringandNetworks": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "714",
+      "General-EWS": "714",
+      "OtherBackwardClass(OBC-NCL)": "701",
+      "ScheduleCaste(SC)": "498",
+      "ScheduleTribe(ST)": "332"
+    }
+  },
+  "IndustrialBiotechnology": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "559",
+      "OtherBackwardClass(OBC-NCL)": "549",
+      "General-EWS": "461",
+      "ScheduleCaste(SC)": "325",
+      "ScheduleTribe(ST)": "218"
+    }
+  },
+  "InformationTechnology": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "741",
+      "General-EWS": "722",
+      "OtherBackwardClass(OBC-NCL)": "663",
+      "ScheduleCaste(SC)": "535",
+      "ScheduleTribe(ST)": "402"
+    },
+    "National Institute of Technology Raipur": {
+      "General": "558",
+      "General-EWS": "562",
+      "OtherBackwardClass(OBC-NCL)": "488",
+      "ScheduleCaste(SC)": "374",
+      "ScheduleTribe(ST)": "267"
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "General": "779",
+      "General-EWS": "698",
+      "OtherBackwardClass(OBC-NCL)": "644",
+      "ScheduleCaste(SC)": "546",
+      "ScheduleTribe(ST)": "379"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "562",
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "General-EWS": "504",
+      "ScheduleCaste(SC)": "441",
+      "ScheduleTribe(ST)": "255"
+    },
+    "University of Hyderabad": {
+      "General": "554",
+      "General-EWS": "492",
+      "OtherBackwardClass(OBC-NCL)": "488",
+      "ScheduleCaste(SC)": "356",
+      "ScheduleTribe(ST)": "313"
+    }
+  },
+  "MechanicalDesign": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "768",
+      "General-EWS": "777",
+      "OtherBackwardClass(OBC-NCL)": "717",
+      "ScheduleCaste(SC)": "571",
+      "ScheduleTribe(ST)": "515"
+    }
+  },
+  "MaterialsEngineering": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "674",
+      "OtherBackwardClass(OBC-NCL)": "630",
+      "General-EWS": "621",
+      "ScheduleCaste(SC)": "407",
+      "ScheduleTribe(ST)": "323"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "579",
+      "OtherBackwardClass(OBC-NCL)": "543",
+      "General-EWS": "483",
+      "ScheduleCaste(SC)": "325",
+      "ScheduleTribe(ST)": "213"
+    },
+    "University of Hyderabad": {
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "General": "546",
+      "ScheduleTribe(ST)": "483",
+      "General-EWS": "390",
+      "ScheduleCaste(SC)": "280"
+    }
+  },
+  "MarineStructures": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "578",
+      "OtherBackwardClass(OBC-NCL)": "563",
+      "General-EWS": "544",
+      "ScheduleCaste(SC)": "341",
+      "ScheduleTribe(ST)": "305"
+    }
+  },
+  "ManufacturingEngineering": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "718",
+      "General-EWS": "670",
+      "OtherBackwardClass(OBC-NCL)": "667",
+      "ScheduleCaste(SC)": "529",
+      "ScheduleTribe(ST)": "372"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "743",
+      "General-EWS": "713",
+      "OtherBackwardClass(OBC-NCL)": "697",
+      "ScheduleCaste(SC)": "539",
+      "ScheduleTribe(ST)": "523"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General": "613",
+      "ScheduleTribe(ST)": "602",
+      "General-EWS": "582",
+      "ScheduleCaste(SC)": "417"
+    },
+    "National Institute of Technology, Andhra Pradesh": {
+      "General": "546",
+      "OtherBackwardClass(OBC-NCL)": "498",
+      "General-EWS": "449",
+      "ScheduleCaste(SC)": "319"
+    },
+    "National Institute of Foundry &amp; Forge Technology, Hatia, Ranchi": {
+      "General": "567",
+      "General-EWS": "551",
+      "OtherBackwardClass(OBC-NCL)": "503",
+      "ScheduleCaste(SC)": "273"
+    }
+  },
+  "MechatronicsEngineering": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "735",
+      "OtherBackwardClass(OBC-NCL)": "686",
+      "General-EWS": "640",
+      "ScheduleCaste(SC)": "535",
+      "ScheduleTribe(ST)": "432"
+    }
+  },
+  "ProcessMetallurgy": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "644",
+      "General-EWS": "583",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "ScheduleCaste(SC)": "321",
+      "ScheduleTribe(ST)": "268"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "511",
+      "OtherBackwardClass(OBC-NCL)": "499",
+      "General-EWS": "440",
+      "ScheduleCaste(SC)": "293"
+    }
+  },
+  "Power&EnergySystems": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "698",
+      "General-EWS": "694",
+      "OtherBackwardClass(OBC-NCL)": "677",
+      "ScheduleCaste(SC)": "495",
+      "ScheduleTribe(ST)": "386"
+    },
+    "National Institute of Technology Meghalaya": {
+      "General": "498",
+      "OtherBackwardClass(OBC-NCL)": "451",
+      "ScheduleCaste(SC)": "307",
+      "ScheduleTribe(ST)": "270"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "592",
+      "OtherBackwardClass(OBC-NCL)": "545",
+      "General-EWS": "473",
+      "ScheduleCaste(SC)": "425",
+      "ScheduleTribe(ST)": "298"
+    }
+  },
+  "RemoteSensing&GeographicInformationSystems": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "598",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "533",
+      "ScheduleCaste(SC)": "359",
+      "ScheduleTribe(ST)": "320"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "581",
+      "OtherBackwardClass(OBC-NCL)": "600",
+      "General-EWS": "492",
+      "ScheduleCaste(SC)": "409",
+      "ScheduleTribe(ST)": "288"
+    }
+  },
+  "SignalProcessingandMachineLearning": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "754",
+      "General-EWS": "740",
+      "OtherBackwardClass(OBC-NCL)": "707",
+      "ScheduleCaste(SC)": "500",
+      "ScheduleTribe(ST)": "387"
+    }
+  },
+  "WaterResourcesEngineering&Management": {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "General": "583",
+      "OtherBackwardClass(OBC-NCL)": "563",
+      "General-EWS": "526",
+      "ScheduleCaste(SC)": "409",
+      "ScheduleTribe(ST)": "320"
+    }
+  },
+  "Fluids&ThermalEngineering": {
+    "National Institute of Technology Meghalaya": {
+      "General-EWS": { "category": "General-EWS", "score": "540" },
+      "General": "539",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "ScheduleCaste(SC)": "297",
+      "ScheduleTribe(ST)": "279"
+    },
+    "National Institute of Technology Arunachal Pradesh ": {
+      "General": "539",
+      "General-EWS": "482",
+      "OtherBackwardClass(OBC-NCL)": "453",
+      "ScheduleCaste(SC)": "268",
+      "ScheduleTribe(ST)": "218"
+    }
+  },
+  "VLSI&EmbeddedSystems": {
+    "National Institute of Technology Meghalaya": {
+      "OtherBackwardClass(OBC-NCL)": "504",
+      "General": "523",
+      "ScheduleCaste(SC)": "345",
+      "ScheduleTribe(ST)": "278"
+    },
+    "National Institute of Technology Raipur": {
+      "General": "576",
+      "OtherBackwardClass(OBC-NCL)": "542",
+      "General-EWS": "474",
+      "ScheduleTribe(ST)": "393",
+      "ScheduleCaste(SC)": "350"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "665",
+      "General-EWS": "653",
+      "OtherBackwardClass(OBC-NCL)": "636",
+      "ScheduleCaste(SC)": "430",
+      "ScheduleTribe(ST)": "332"
+    },
+    "Atal Bihari Vajpayee Indian Institute of Information Technology &amp; Management Gwalior": {
+      "General": "605",
+      "General-EWS": "562",
+      "OtherBackwardClass(OBC-NCL)": "537",
+      "ScheduleCaste(SC)": "344",
+      "ScheduleTribe(ST)": "255"
+    }
+  },
+  "PowerSystemsEngineering": {
+    "National Institute of Technology Nagaland": {
+      "General": "464",
+      "OtherBackwardClass(OBC-NCL)": "451",
+      "General-EWS": "409",
+      "ScheduleCaste(SC)": "319",
+      "ScheduleTribe(ST)": "221"
+    },
+    "National Institute of Technology, Jamshedpur": {
+      "OtherBackwardClass(OBC-NCL)": "515",
+      "General": "579",
+      "General-EWS": "473",
+      "ScheduleCaste(SC)": "387",
+      "ScheduleTribe(ST)": "336"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "715",
+      "General-EWS": "681",
+      "OtherBackwardClass(OBC-NCL)": "660",
+      "ScheduleTribe(ST)": "517",
+      "ScheduleCaste(SC)": "507"
+    }
+  },
+  "VLSISystems": {
+    "National Institute of Technology Nagaland": {
+      "General": "496",
+      "OtherBackwardClass(OBC-NCL)": "442",
+      "General-EWS": "413",
+      "ScheduleCaste(SC)": "344"
+    }
+  },
+  "MasterofArchitecture": {
+    "National Institute of Technology Patna": {
+      "General": "511",
+      "OtherBackwardClass(OBC-NCL)": "427",
+      "General-EWS": "365",
+      "ScheduleCaste(SC)": "241"
+    }
+  },
+  "ComputerNetworks": {
+    "National Institute of Technology Patna": {
+      "General": "558",
+      "OtherBackwardClass(OBC-NCL)": "542",
+      "General-EWS": "441",
+      "ScheduleCaste(SC)": "367",
+      "ScheduleTribe(ST)": "251"
+    }
+  },
+  "ControlSystemEngineering": {
+    "National Institute of Technology Patna": {
+      "General": "562",
+      "OtherBackwardClass(OBC-NCL)": "554",
+      "General-EWS": "490",
+      "ScheduleCaste(SC)": "387",
+      "ScheduleTribe(ST)": "243"
+    }
+  },
+  "Urban&RegionalPlanning": {
+    "National Institute of Technology Patna": {
+      "General": "494",
+      "OtherBackwardClass(OBC-NCL)": "432",
+      "General-EWS": "370",
+      "ScheduleCaste(SC)": "303",
+      "ScheduleTribe(ST)": "173"
+    },
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "General": "607",
+      "OtherBackwardClass(OBC-NCL)": "607",
+      "General-EWS": "428",
+      "ScheduleCaste(SC)": "415",
+      "ScheduleTribe(ST)": "279"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "595",
+      "General-EWS": "452",
+      "OtherBackwardClass(OBC-NCL)": "451",
+      "ScheduleCaste(SC)": "299",
+      "ScheduleTribe(ST)": "264"
+    }
+  },
+  "PowerSystem&Control": {
+    "National Institute of Technology Raipur": {
+      "General": "554",
+      "OtherBackwardClass(OBC-NCL)": "531",
+      "General-EWS": "468",
+      "ScheduleCaste(SC)": "379",
+      "ScheduleTribe(ST)": "270"
+    },
+    "National Institute of Technology Uttarakhand": {
+      "General": "513",
+      "OtherBackwardClass(OBC-NCL)": "477",
+      "General-EWS": "443",
+      "ScheduleCaste(SC)": "332"
+    }
+  },
+  "WaterResourcesDevelopment&IrrigationEngineering": {
+    "National Institute of Technology Raipur": {
+      "General": "510",
+      "OtherBackwardClass(OBC-NCL)": "501",
+      "ScheduleCaste(SC)": "463",
+      "General-EWS": "420",
+      "ScheduleTribe(ST)": "292"
+    }
+  },
+  "ElectricalEngineering(SpecializationinControlPowerandElectricDrives)": {
+    "National Institute of Technology Sikkim": {
+      "General": "481",
+      "OtherBackwardClass(OBC-NCL)": "481",
+      "General-EWS": "405",
+      "ScheduleCaste(SC)": "315",
+      "ScheduleTribe(ST)": "260"
+    }
+  },
+  "RenewableEnergyandEnergyManagement": {
+    "National Institute of Technology Arunachal Pradesh ": {
+      "General": "468",
+      "OtherBackwardClass(OBC-NCL)": "430",
+      "General-EWS": "400",
+      "ScheduleCaste(SC)": "315",
+      "ScheduleTribe(ST)": "217"
+    }
+  },
+  "CommunicationSystemsEngineering": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "539",
+      "OtherBackwardClass(OBC-NCL)": "486",
+      "General-EWS": "429",
+      "ScheduleCaste(SC)": "320",
+      "ScheduleTribe(ST)": "247"
+    }
+  },
+  "EnergySystemsEngineering": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "520",
+      "OtherBackwardClass(OBC-NCL)": "495",
+      "General-EWS": "444",
+      "ScheduleCaste(SC)": "336",
+      "ScheduleTribe(ST)": "247"
+    }
+  },
+  "EmbeddedSystemsEngineering": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "592",
+      "OtherBackwardClass(OBC-NCL)": "543",
+      "General-EWS": "496",
+      "ScheduleCaste(SC)": "344"
+    }
+  },
+  "FoundryTechnology": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "487",
+      "OtherBackwardClass(OBC-NCL)": "463",
+      "General-EWS": "390",
+      "ScheduleCaste(SC)": "253"
+    }
+  },
+  "ManufacturingSystemsEngineering": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "531",
+      "General-EWS": "407",
+      "ScheduleCaste(SC)": "297"
+    }
+  },
+  "InformationSystemsSecurityEngineering": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "562",
+      "General-EWS": "535",
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "ScheduleCaste(SC)": "367",
+      "ScheduleTribe(ST)": "290"
+    }
+  },
+  "SurfaceScience&Engineering": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "470",
+      "OtherBackwardClass(OBC-NCL)": "448",
+      "General-EWS": "369",
+      "ScheduleCaste(SC)": "287"
+    }
+  },
+  "MaterialsTechnology": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "482",
+      "OtherBackwardClass(OBC-NCL)": "428",
+      "General-EWS": "411",
+      "ScheduleCaste(SC)": "277"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "651",
+      "OtherBackwardClass(OBC-NCL)": "621",
+      "General-EWS": "614",
+      "ScheduleCaste(SC)": "372",
+      "ScheduleTribe(ST)": "313"
+    }
+  },
+  "ComputerIntegratedDesign&Manufacturing": {
+    "National Institute of Technology, Jamshedpur": {
+      "General": "543",
+      "OtherBackwardClass(OBC-NCL)": "523",
+      "General-EWS": "511",
+      "ScheduleCaste(SC)": "316"
+    }
+  },
+  "ComputerEngineering(CyberSecurity)": {
+    "National Institute of Technology, Kurukshetra": {
+      "General": "636",
+      "OtherBackwardClass(OBC-NCL)": "620",
+      "General-EWS": "585",
+      "ScheduleCaste(SC)": "418",
+      "ScheduleTribe(ST)": "325"
+    }
+  },
+  "NanomaterialsandNanotechnology": {
+    "National Institute of Technology, Kurukshetra": {
+      "General": "568",
+      "OtherBackwardClass(OBC-NCL)": "499",
+      "General-EWS": "428",
+      "ScheduleCaste(SC)": "371",
+      "ScheduleTribe(ST)": "256"
+    }
+  },
+  "ControlSystem": {
+    "National Institute of Technology, Kurukshetra": {
+      "General": "596",
+      "OtherBackwardClass(OBC-NCL)": "579",
+      "General-EWS": "531",
+      "ScheduleCaste(SC)": "460",
+      "ScheduleTribe(ST)": "302"
+    }
+  },
+  "Production&IndustrialEngineering": {
+    "National Institute of Technology, Kurukshetra": {
+      "General": "630",
+      "General-EWS": "586",
+      "OtherBackwardClass(OBC-NCL)": "582",
+      "ScheduleCaste(SC)": "438",
+      "ScheduleTribe(ST)": "257"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "495",
+      "General-EWS": "400",
+      "ScheduleCaste(SC)": "372"
+    }
+  },
+  "Instrumentation": {
+    "National Institute of Technology, Kurukshetra": {
+      "OtherBackwardClass(OBC-NCL)": "524",
+      "General-EWS": "579",
+      "General": "566",
+      "ScheduleCaste(SC)": "361",
+      "ScheduleTribe(ST)": "247"
+    }
+  },
+  "RenewableEnergySystems": {
+    "National Institute of Technology, Kurukshetra": {
+      "General": "574",
+      "OtherBackwardClass(OBC-NCL)": "529",
+      "General-EWS": "511",
+      "ScheduleCaste(SC)": "383",
+      "ScheduleTribe(ST)": "253"
+    }
+  },
+  "EmbeddedSystemDesign": {
+    "National Institute of Technology, Kurukshetra": {
+      "General": "612",
+      "General-EWS": "584",
+      "OtherBackwardClass(OBC-NCL)": "567",
+      "ScheduleCaste(SC)": "411",
+      "ScheduleTribe(ST)": "273"
+    }
+  },
+  "EnvironmentalandWaterResourcesEngineering": {
+    "National Institute of Technology, Manipur": {
+      "General": "462",
+      "OtherBackwardClass(OBC-NCL)": "428",
+      "ScheduleCaste(SC)": "305",
+      "ScheduleTribe(ST)": "263"
+    }
+  },
+  "PowerSystemandControlSystem": {
+    "National Institute of Technology, Manipur": {
+      "General": "494",
+      "OtherBackwardClass(OBC-NCL)": "460",
+      "ScheduleCaste(SC)": "294",
+      "ScheduleTribe(ST)": "241"
+    }
+  },
+  "Thermal&FluidsEngineering": {
+    "National Institute of Technology, Manipur": {
+      "General": "544",
+      "OtherBackwardClass(OBC-NCL)": "491",
+      "ScheduleTribe(ST)": "289",
+      "ScheduleCaste(SC)": "269"
+    }
+  },
+  "ComputerScience": {
+    "National Institute of Technology, Manipur": {
+      "General": "558",
+      "OtherBackwardClass(OBC-NCL)": "441",
+      "ScheduleCaste(SC)": "379",
+      "ScheduleTribe(ST)": "255"
+    },
+    "National Institute of Technology, Rourkela": {
+      "General": "733",
+      "General-EWS": "675",
+      "OtherBackwardClass(OBC-NCL)": "671",
+      "ScheduleCaste(SC)": "523",
+      "ScheduleTribe(ST)": "430"
+    },
+    "Indian Institute of Information Technology, Lucknow": {
+      "General": "632",
+      "OtherBackwardClass(OBC-NCL)": "566",
+      "General-EWS": "550",
+      "ScheduleCaste(SC)": "406",
+      "ScheduleTribe(ST)": "270"
+    },
+    "University of Hyderabad": {
+      "General": "603",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "General-EWS": "531",
+      "ScheduleTribe(ST)": "398",
+      "ScheduleCaste(SC)": "383"
+    }
+  },
+  "AtmosphereandOceanScience": {
+    "National Institute of Technology, Rourkela": {
+      "General": "530",
+      "OtherBackwardClass(OBC-NCL)": "586",
+      "General-EWS": "530",
+      "ScheduleCaste(SC)": "423",
+      "ScheduleTribe(ST)": "333"
+    }
+  },
+  "Control&Automation": {
+    "National Institute of Technology, Rourkela": {
+      "General": "678",
+      "OtherBackwardClass(OBC-NCL)": "622",
+      "General-EWS": "608",
+      "ScheduleCaste(SC)": "430",
+      "ScheduleTribe(ST)": "353"
+    }
+  },
+  "Cryogenics&VacuumTechnology": {
+    "National Institute of Technology, Rourkela": {
+      "General": "672",
+      "OtherBackwardClass(OBC-NCL)": "638",
+      "General-EWS": "511",
+      "ScheduleCaste(SC)": "499",
+      "ScheduleTribe(ST)": "261"
+    }
+  },
+  "Communication&Networks": {
+    "National Institute of Technology, Rourkela": {
+      "General": "701",
+      "General-EWS": "653",
+      "OtherBackwardClass(OBC-NCL)": "612",
+      "ScheduleCaste(SC)": "454",
+      "ScheduleTribe(ST)": "327"
+    }
+  },
+  "EnergyandEnvironmentalEngineering": {
+    "National Institute of Technology, Rourkela": {
+      "General": "634",
+      "General-EWS": "630",
+      "OtherBackwardClass(OBC-NCL)": "575",
+      "ScheduleCaste(SC)": "432",
+      "ScheduleTribe(ST)": "324"
+    }
+  },
+  "ElectronicSystems&Communication": {
+    "National Institute of Technology, Rourkela": {
+      "General": "681",
+      "OtherBackwardClass(OBC-NCL)": "626",
+      "General-EWS": "624",
+      "ScheduleCaste(SC)": "425",
+      "ScheduleTribe(ST)": "315"
+    }
+  },
+  "ElectronicsandInstrumentationEngineering": {
+    "National Institute of Technology, Rourkela": {
+      "General-EWS": "612",
+      "General": "653",
+      "OtherBackwardClass(OBC-NCL)": "588",
+      "ScheduleCaste(SC)": "450",
+      "ScheduleTribe(ST)": "315"
+    }
+  },
+  "FoodProcessEngineering": {
+    "National Institute of Technology, Rourkela": {
+      "OtherBackwardClass(OBC-NCL)": "522",
+      "General-EWS": "567",
+      "General": "552",
+      "ScheduleCaste(SC)": "417",
+      "ScheduleTribe(ST)": "249"
+    }
+  },
+  "IndustrialCeramics": {
+    "National Institute of Technology, Rourkela": {
+      "General": "520",
+      "OtherBackwardClass(OBC-NCL)": "512",
+      "General-EWS": "432",
+      "ScheduleCaste(SC)": "313",
+      "ScheduleTribe(ST)": "172"
+    }
+  },
+  "MicrowaveandRadarEngineering": {
+    "National Institute of Technology, Rourkela": {
+      "General-EWS": "580",
+      "General": "634",
+      "OtherBackwardClass(OBC-NCL)": "592",
+      "ScheduleCaste(SC)": "492",
+      "ScheduleTribe(ST)": "365"
+    }
+  },
+  "MachineDesign&Analysis": {
+    "National Institute of Technology, Rourkela": {
+      "General": "745",
+      "OtherBackwardClass(OBC-NCL)": "729",
+      "General-EWS": "723",
+      "ScheduleCaste(SC)": "546",
+      "ScheduleTribe(ST)": "352"
+    }
+  },
+  "MiningEngineering": {
+    "National Institute of Technology, Rourkela": {
+      "OtherBackwardClass(OBC-NCL)": "539",
+      "General": "551",
+      "General-EWS": "447",
+      "ScheduleCaste(SC)": "368",
+      "ScheduleTribe(ST)": "255"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "453",
+      "OtherBackwardClass(OBC-NCL)": "434",
+      "General-EWS": "424",
+      "ScheduleCaste(SC)": "251",
+      "ScheduleTribe(ST)": "236"
+    }
+  },
+  "Signal&ImageProcessing": {
+    "National Institute of Technology, Rourkela": {
+      "General": "689",
+      "OtherBackwardClass(OBC-NCL)": "647",
+      "General-EWS": "616",
+      "ScheduleCaste(SC)": "439",
+      "ScheduleTribe(ST)": "328"
+    }
+  },
+  "Geo-technicalEngineering": {
+    "National Institute of Technology, Rourkela": {
+      "OtherBackwardClass(OBC-NCL)": "585",
+      "General": "608",
+      "General-EWS": "558",
+      "ScheduleCaste(SC)": "419",
+      "ScheduleTribe(ST)": "398"
+    },
+    "National Institute of Technology, Srinagar": {
+      "General": "604",
+      "General-EWS": "469",
+      "ScheduleTribe(ST)": "440",
+      "OtherBackwardClass(OBC-NCL)": "436",
+      "ScheduleCaste(SC)": "305"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "650",
+      "OtherBackwardClass(OBC-NCL)": "630",
+      "General-EWS": "604",
+      "ScheduleCaste(SC)": "483",
+      "ScheduleTribe(ST)": "410"
+    }
+  },
+  "Control&IndustrialAutomation": {
+    "National Institute of Technology, Silchar": {
+      "General": "511",
+      "General-EWS": "485",
+      "OtherBackwardClass(OBC-NCL)": "485",
+      "ScheduleCaste(SC)": "353",
+      "ScheduleTribe(ST)": "247"
+    }
+  },
+  "CAD-CAM&Automation": {
+    "National Institute of Technology, Silchar": {
+      "General": "535",
+      "General-EWS": "567",
+      "OtherBackwardClass(OBC-NCL)": "512",
+      "ScheduleCaste(SC)": "339"
+    }
+  },
+  "Design&Manufacturing": {
+    "National Institute of Technology, Silchar": {
+      "General": "621",
+      "OtherBackwardClass(OBC-NCL)": "529",
+      "General-EWS": "487",
+      "ScheduleCaste(SC)": "364"
+    }
+  },
+  "Material&ManufacturingTechnology": {
+    "National Institute of Technology, Silchar": {
+      "General": "523",
+      "OtherBackwardClass(OBC-NCL)": "495",
+      "General-EWS": "432",
+      "ScheduleCaste(SC)": "290"
+    }
+  },
+  "Power&EnergySystemsEngineering": {
+    "National Institute of Technology, Silchar": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "510",
+      "General-EWS": "468",
+      "ScheduleCaste(SC)": "358",
+      "ScheduleTribe(ST)": "268"
+    }
+  },
+  "StructuralDynamics&EarthquakeEngineering": {
+    "National Institute of Technology, Silchar": {
+      "General": "481",
+      "OtherBackwardClass(OBC-NCL)": "432",
+      "General-EWS": "412",
+      "ScheduleCaste(SC)": "305",
+      "ScheduleTribe(ST)": "278"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "589",
+      "OtherBackwardClass(OBC-NCL)": "585",
+      "General-EWS": "555",
+      "ScheduleCaste(SC)": "443",
+      "ScheduleTribe(ST)": "281"
+    }
+  },
+  "Communication&SignalProcessing": {
+    "National Institute of Technology, Silchar": {
+      "General": "559",
+      "OtherBackwardClass(OBC-NCL)": "511",
+      "General-EWS": "442",
+      "ScheduleCaste(SC)": "373",
+      "ScheduleTribe(ST)": "247"
+    }
+  },
+  "Communication&InformationTechnology": {
+    "National Institute of Technology, Srinagar": {
+      "General": "539",
+      "OtherBackwardClass(OBC-NCL)": "464",
+      "General-EWS": "405",
+      "ScheduleTribe(ST)": "352",
+      "ScheduleCaste(SC)": "317"
+    }
+  },
+  "ElectricalPowerandEnergySystem": {
+    "National Institute of Technology, Srinagar": {
+      "General": "490",
+      "OtherBackwardClass(OBC-NCL)": "430",
+      "General-EWS": "413",
+      "ScheduleTribe(ST)": "362",
+      "ScheduleCaste(SC)": "311"
+    }
+  },
+  "IndustrialTribology&MaintenanceManagement": {
+    "National Institute of Technology, Srinagar": {
+      "General": "459",
+      "General-EWS": "396",
+      "OtherBackwardClass(OBC-NCL)": "394",
+      "ScheduleCaste(SC)": "260"
+    }
+  },
+  "MechanicalSystemDesign": {
+    "National Institute of Technology, Srinagar": {
+      "General": "523",
+      "OtherBackwardClass(OBC-NCL)": "440",
+      "General-EWS": "436",
+      "ScheduleCaste(SC)": "264",
+      "ScheduleTribe(ST)": "253"
+    }
+  },
+  "PowerElectronics&ElectricalDrives": {
+    "National Institute of Technology, Srinagar": {
+      "General": "507",
+      "OtherBackwardClass(OBC-NCL)": "447",
+      "General-EWS": "405",
+      "ScheduleCaste(SC)": "315",
+      "ScheduleTribe(ST)": "247"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "651",
+      "General-EWS": "652",
+      "OtherBackwardClass(OBC-NCL)": "612",
+      "ScheduleCaste(SC)": "471",
+      "ScheduleTribe(ST)": "298"
+    }
+  },
+  "Microelectronics": {
+    "National Institute of Technology, Srinagar": {
+      "General": "515",
+      "OtherBackwardClass(OBC-NCL)": "515",
+      "General-EWS": "450",
+      "ScheduleTribe(ST)": "304",
+      "ScheduleCaste(SC)": "301"
+    }
+  },
+  "TransportationEngineering&Planning": {
+    "National Institute of Technology, Srinagar": {
+      "General": "565",
+      "General-EWS": "456",
+      "OtherBackwardClass(OBC-NCL)": "427",
+      "ScheduleCaste(SC)": "324",
+      "ScheduleTribe(ST)": "278"
+    },
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "576",
+      "General-EWS": "537",
+      "OtherBackwardClass(OBC-NCL)": "533",
+      "ScheduleTribe(ST)": "436",
+      "ScheduleCaste(SC)": "384"
+    }
+  },
+  "DataAnalytics": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General-EWS": "725",
+      "General": "760",
+      "OtherBackwardClass(OBC-NCL)": "709",
+      "ScheduleCaste(SC)": "581",
+      "ScheduleTribe(ST)": "441"
+    }
+  },
+  "EnergyEfficient&SustainableArchitecture": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "629",
+      "OtherBackwardClass(OBC-NCL)": "635",
+      "ScheduleCaste(SC)": "382",
+      "General-EWS": "359"
+    }
+  },
+  "EnergyEngineering": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "743",
+      "OtherBackwardClass(OBC-NCL)": "705",
+      "General-EWS": "683",
+      "ScheduleCaste(SC)": "524",
+      "ScheduleTribe(ST)": "432"
+    }
+  },
+  "IndustrialSafetyEngineering": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General-EWS": "713",
+      "General": "760",
+      "OtherBackwardClass(OBC-NCL)": "733",
+      "ScheduleCaste(SC)": "574",
+      "ScheduleTribe(ST)": "428"
+    }
+  },
+  "IndustrialAutomation": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "743",
+      "OtherBackwardClass(OBC-NCL)": "725",
+      "General-EWS": "670",
+      "ScheduleCaste(SC)": "525",
+      "ScheduleTribe(ST)": "239"
+    }
+  },
+  "IndustrialMetallurgy": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "680",
+      "OtherBackwardClass(OBC-NCL)": "666",
+      "General-EWS": "655",
+      "ScheduleCaste(SC)": "459",
+      "ScheduleTribe(ST)": "325"
+    },
+    "National Institute of Technology, Warangal": {
+      "General": "667",
+      "OtherBackwardClass(OBC-NCL)": "638",
+      "General-EWS": "571",
+      "ScheduleCaste(SC)": "415",
+      "ScheduleTribe(ST)": "253"
+    }
+  },
+  "NonDestructiveTesting": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "705",
+      "OtherBackwardClass(OBC-NCL)": "684",
+      "General-EWS": "674",
+      "ScheduleCaste(SC)": "563",
+      "ScheduleTribe(ST)": "340"
+    }
+  },
+  "ProcessControlandInstrumentation": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "720",
+      "OtherBackwardClass(OBC-NCL)": "736",
+      "General-EWS": "707",
+      "ScheduleCaste(SC)": "529",
+      "ScheduleTribe(ST)": "293"
+    }
+  },
+  "TransportationEngineering&Management": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "727",
+      "General-EWS": "714",
+      "OtherBackwardClass(OBC-NCL)": "693",
+      "ScheduleCaste(SC)": "611",
+      "ScheduleTribe(ST)": "412"
+    }
+  },
+  "ThermalPowerEngineering": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "OtherBackwardClass(OBC-NCL)": "773",
+      "General": "794",
+      "General-EWS": "768",
+      "ScheduleCaste(SC)": "596",
+      "ScheduleTribe(ST)": "571"
+    }
+  },
+  "VLSISystem": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "OtherBackwardClass(OBC-NCL)": "806",
+      "General": "835",
+      "General-EWS": "826",
+      "ScheduleCaste(SC)": "596",
+      "ScheduleTribe(ST)": "494"
+    }
+  },
+  "WeldingEngineering": {
+    "National Institute of Technology, Tiruchirappalli": {
+      "General": "726",
+      "OtherBackwardClass(OBC-NCL)": "697",
+      "General-EWS": "688",
+      "ScheduleCaste(SC)": "554",
+      "ScheduleTribe(ST)": "352"
+    }
+  },
+  "AdditiveManufacturing": {
+    "National Institute of Technology, Warangal": {
+      "General": "672",
+      "General-EWS": "666",
+      "OtherBackwardClass(OBC-NCL)": "659",
+      "ScheduleCaste(SC)": "448"
+    }
+  },
+  "AutomobileEngineering": {
+    "National Institute of Technology, Warangal": {
+      "General": "725",
+      "OtherBackwardClass(OBC-NCL)": "697",
+      "General-EWS": "689",
+      "ScheduleCaste(SC)": "525",
+      "ScheduleTribe(ST)": "390"
+    }
+  },
+  "AdvancedCommunicationSystems": {
+    "National Institute of Technology, Warangal": {
+      "General": "734",
+      "General-EWS": "697",
+      "OtherBackwardClass(OBC-NCL)": "697",
+      "ScheduleCaste(SC)": "549",
+      "ScheduleTribe(ST)": "413"
+    }
+  },
+  "WasteManagement": {
+    "National Institute of Technology, Warangal": {
+      "General": "618",
+      "OtherBackwardClass(OBC-NCL)": "571",
+      "General-EWS": "541",
+      "ScheduleCaste(SC)": "407",
+      "ScheduleTribe(ST)": "363"
+    }
+  },
+  "SmartElectricGrid": {
+    "National Institute of Technology, Warangal": {
+      "General": "727",
+      "OtherBackwardClass(OBC-NCL)": "656",
+      "General-EWS": "622",
+      "ScheduleCaste(SC)": "499",
+      "ScheduleTribe(ST)": "387"
+    }
+  },
+  "ComputerScience&InformationSecurity": {
+    "National Institute of Technology, Warangal": {
+      "General": "764",
+      "General-EWS": "756",
+      "OtherBackwardClass(OBC-NCL)": "744",
+      "ScheduleCaste(SC)": "566",
+      "ScheduleTribe(ST)": "488"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "523",
+      "OtherBackwardClass(OBC-NCL)": "503",
+      "General-EWS": "426",
+      "ScheduleCaste(SC)": "383",
+      "ScheduleTribe(ST)": "298"
+    }
+  },
+  "ElectronicsInstrumentation": {
+    "National Institute of Technology, Warangal": {
+      "General": "734",
+      "General-EWS": "738",
+      "OtherBackwardClass(OBC-NCL)": "681",
+      "ScheduleCaste(SC)": "502",
+      "ScheduleTribe(ST)": "357"
+    }
+  },
+  "EngineeringStructures": {
+    "National Institute of Technology, Warangal": {
+      "General": "738",
+      "OtherBackwardClass(OBC-NCL)": "742",
+      "General-EWS": "701",
+      "ScheduleCaste(SC)": "522",
+      "ScheduleTribe(ST)": "507"
+    }
+  },
+  "MaterialsandSystemsEngineeringDesign": {
+    "National Institute of Technology, Warangal": {
+      "General": "680",
+      "OtherBackwardClass(OBC-NCL)": "693",
+      "General-EWS": "634",
+      "ScheduleCaste(SC)": "470",
+      "ScheduleTribe(ST)": "382"
+    }
+  },
+  "ProcessControl": {
+    "National Institute of Technology, Warangal": {
+      "General": "694",
+      "OtherBackwardClass(OBC-NCL)": "670",
+      "General-EWS": "626",
+      "ScheduleCaste(SC)": "409",
+      "ScheduleTribe(ST)": "332"
+    }
+  },
+  "VLSISystemsDesign": {
+    "National Institute of Technology, Warangal": {
+      "General": "774",
+      "General-EWS": "758",
+      "OtherBackwardClass(OBC-NCL)": "753",
+      "ScheduleCaste(SC)": "608",
+      "ScheduleTribe(ST)": "498"
+    }
+  },
+  "CAD-CAM": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "594",
+      "OtherBackwardClass(OBC-NCL)": "574",
+      "General-EWS": "573",
+      "ScheduleTribe(ST)": "372",
+      "ScheduleCaste(SC)": "344"
+    },
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "678",
+      "OtherBackwardClass(OBC-NCL)": "659",
+      "General-EWS": "571",
+      "ScheduleCaste(SC)": "445",
+      "ScheduleTribe(ST)": "260"
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "535",
+      "OtherBackwardClass(OBC-NCL)": "503",
+      "General-EWS": "440",
+      "ScheduleCaste(SC)": "293",
+      "ScheduleTribe(ST)": "245"
+    }
+  },
+  "InstrumentationandControl": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "580",
+      "OtherBackwardClass(OBC-NCL)": "566",
+      "General-EWS": "554",
+      "ScheduleCaste(SC)": "370",
+      "ScheduleTribe(ST)": "341"
+    }
+  },
+  "MechanicalEngineering": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "676",
+      "OtherBackwardClass(OBC-NCL)": "642",
+      "General-EWS": "642",
+      "ScheduleCaste(SC)": "448",
+      "ScheduleTribe(ST)": "419"
+    },
+    "Punjab Engineering College, Chandigarh": {
+      "General": "567",
+      "General-EWS": "424",
+      "ScheduleCaste(SC)": "360"
+    },
+    "Shri Mata Vaishno Devi University, Katra": {
+      "General": "448",
+      "OtherBackwardClass(OBC-NCL)": "420",
+      "General-EWS": "356",
+      "ScheduleCaste(SC)": "256"
+    }
+  },
+  "CommunicationSystem": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "604",
+      "General-EWS": "576",
+      "OtherBackwardClass(OBC-NCL)": "555",
+      "ScheduleCaste(SC)": "389",
+      "ScheduleTribe(ST)": "296"
+    }
+  },
+  "SoilMechanics&FoundationEngineering": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "566",
+      "OtherBackwardClass(OBC-NCL)": "608",
+      "General-EWS": "555",
+      "ScheduleCaste(SC)": "455",
+      "ScheduleTribe(ST)": "324"
+    }
+  },
+  "ThermalSystemsDesign": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "663",
+      "General-EWS": "667",
+      "OtherBackwardClass(OBC-NCL)": "622",
+      "ScheduleTribe(ST)": "452",
+      "ScheduleCaste(SC)": "440"
+    }
+  },
+  "TurboMachines": {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "General": "618",
+      "General-EWS": "571",
+      "OtherBackwardClass(OBC-NCL)": "569",
+      "ScheduleCaste(SC)": "386",
+      "ScheduleTribe(ST)": "269"
+    }
+  },
+  "CommunicationSystemEngineering": {
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "641",
+      "OtherBackwardClass(OBC-NCL)": "592",
+      "General-EWS": "576",
+      "ScheduleCaste(SC)": "434",
+      "ScheduleTribe(ST)": "304"
+    }
+  },
+  "ExcavationEngineering": {
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "484",
+      "OtherBackwardClass(OBC-NCL)": "476",
+      "General-EWS": "437",
+      "ScheduleCaste(SC)": "346",
+      "ScheduleTribe(ST)": "257"
+    }
+  },
+  "HeatPowerEngineering": {
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "OtherBackwardClass(OBC-NCL)": "621",
+      "General": "676",
+      "General-EWS": "622",
+      "ScheduleCaste(SC)": "417",
+      "ScheduleTribe(ST)": "273"
+    }
+  },
+  "IntegratedPowerSystems": {
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "General": "613",
+      "OtherBackwardClass(OBC-NCL)": "583",
+      "General-EWS": "534",
+      "ScheduleCaste(SC)": "422",
+      "ScheduleTribe(ST)": "349"
+    }
+  },
+  "ComputingSystems": {
+    "National Institute of Technology Uttarakhand": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "444",
+      "ScheduleCaste(SC)": "317"
+    }
+  },
+  "AdvancedCommunicationSystemsandSignalProcessing": {
+    "National Institute of Technology, Andhra Pradesh": {
+      "General": "584",
+      "General-EWS": "539",
+      "OtherBackwardClass(OBC-NCL)": "507",
+      "ScheduleCaste(SC)": "462",
+      "ScheduleTribe(ST)": "271"
+    }
+  },
+  "ComputerScienceandDataAnalytics": {
+    "National Institute of Technology, Andhra Pradesh": {
+      "OtherBackwardClass(OBC-NCL)": "539",
+      "General": "558",
+      "General-EWS": "437",
+      "ScheduleCaste(SC)": "360",
+      "ScheduleTribe(ST)": "263"
+    }
+  },
+  "ComputerNetworking": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology &amp; Management Gwalior": {
+      "General": "605",
+      "General-EWS": "531",
+      "OtherBackwardClass(OBC-NCL)": "511",
+      "ScheduleCaste(SC)": "371",
+      "ScheduleTribe(ST)": "278"
+    }
+  },
+  "ElectronicsandCommunicationEngineering(Spl:CommunicationSystemsDesign)": {
+    "Indian Institute of Information Technology, Design &amp; Manufacturing Kancheepuram, Chennai": {
+      "General": "563",
+      "OtherBackwardClass(OBC-NCL)": "519",
+      "General-EWS": "446",
+      "ScheduleCaste(SC)": "369"
+    }
+  },
+  "ElectronicsandCommunicationEngineering(Spl:ElectronicsSystemsDesign)": {
+    "Indian Institute of Information Technology, Design &amp; Manufacturing Kancheepuram, Chennai": {
+      "General": "611",
+      "OtherBackwardClass(OBC-NCL)": "545",
+      "General-EWS": "466",
+      "ScheduleCaste(SC)": "332",
+      "ScheduleTribe(ST)": "290"
+    }
+  },
+  "MechanicalEngineering(Spl:SmartManufacturing)": {
+    "Indian Institute of Information Technology, Design &amp; Manufacturing Kancheepuram, Chennai": {
+      "General-EWS": "447",
+      "General": "617",
+      "OtherBackwardClass(OBC-NCL)": "598",
+      "ScheduleCaste(SC)": "305",
+      "ScheduleTribe(ST)": "225"
+    }
+  },
+  "MechanicalEngineering(Spl:MechanicalSystemsDesign)": {
+    "Indian Institute of Information Technology, Design &amp; Manufacturing Kancheepuram, Chennai": {
+      "OtherBackwardClass(OBC-NCL)": "555",
+      "General": "579",
+      "General-EWS": "529",
+      "ScheduleCaste(SC)": "386",
+      "ScheduleTribe(ST)": "218"
+    }
+  },
+  "Design": {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "555",
+      "General-EWS": "498",
+      "OtherBackwardClass(OBC-NCL)": "482",
+      "ScheduleCaste(SC)": "308"
+    }
+  },
+  "Manufacturing": {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "537",
+      "OtherBackwardClass(OBC-NCL)": "455",
+      "General-EWS": "444",
+      "ScheduleCaste(SC)": "356"
+    }
+  },
+  "Mechatronics": {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "535",
+      "OtherBackwardClass(OBC-NCL)": "551",
+      "General-EWS": "466",
+      "ScheduleCaste(SC)": "297"
+    },
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "567",
+      "OtherBackwardClass(OBC-NCL)": "579",
+      "General-EWS": "525",
+      "ScheduleCaste(SC)": "370",
+      "ScheduleTribe(ST)": "315"
+    }
+  },
+  "MicroNanoElectronics": {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "520",
+      "General-EWS": "486",
+      "OtherBackwardClass(OBC-NCL)": "447",
+      "ScheduleCaste(SC)": "305"
+    }
+  },
+  "Power&Control": {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "527",
+      "OtherBackwardClass(OBC-NCL)": "490",
+      "General-EWS": "468",
+      "ScheduleCaste(SC)": "328"
+    }
+  },
+  "Microwave&CommunicationEngineering": {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "General": "507",
+      "OtherBackwardClass(OBC-NCL)": "450",
+      "General-EWS": "438",
+      "ScheduleCaste(SC)": "296",
+      "ScheduleTribe(ST)": "243"
+    }
+  },
+  "ComputerScienceandEngineeringwithspecializationinDataAnalyticsandDecisionSciences": {
+    "Indian Institute of Information Technology, Design and Manufacturing, Kurnool": {
+      "General": "519",
+      "OtherBackwardClass(OBC-NCL)": "492",
+      "General-EWS": "422",
+      "ScheduleCaste(SC)": "356",
+      "ScheduleTribe(ST)": "248"
+    }
+  },
+  "ElectronicsSystemDesign": {
+    "Indian Institute of Information Technology, Design and Manufacturing, Kurnool": {
+      "General": "498",
+      "OtherBackwardClass(OBC-NCL)": "478",
+      "General-EWS": "413",
+      "ScheduleCaste(SC)": "409",
+      "ScheduleTribe(ST)": "267"
+    }
+  },
+  "SmartManufacturing": {
+    "Indian Institute of Information Technology, Design and Manufacturing, Kurnool": {
+      "OtherBackwardClass(OBC-NCL)": "448",
+      "General": "487",
+      "General-EWS": "386",
+      "ScheduleCaste(SC)": "277"
+    }
+  },
+  "FoundryForgeTechnology": {
+    "National Institute of Foundry &amp; Forge Technology, Hatia, Ranchi": {
+      "General": "561",
+      "OtherBackwardClass(OBC-NCL)": "583",
+      "General-EWS": "523",
+      "ScheduleCaste(SC)": "319"
+    }
+  },
+  "FoodEngineering&Technology": {
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "512",
+      "OtherBackwardClass(OBC-NCL)": "442",
+      "ScheduleCaste(SC)": "406",
+      "General-EWS": "387",
+      "ScheduleTribe(ST)": "199"
+    },
+    "Central Institute of Technology, Kokrajhar": {
+      "General": "480",
+      "OtherBackwardClass(OBC-NCL)": "376"
+    }
+  },
+  "Instrumentation&ControlEngineering": {
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "502",
+      "OtherBackwardClass(OBC-NCL)": "426",
+      "General-EWS": "375",
+      "ScheduleCaste(SC)": "311",
+      "ScheduleTribe(ST)": "217"
+    }
+  },
+  "ManufacturingSystemEngineering": {
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "478",
+      "OtherBackwardClass(OBC-NCL)": "421",
+      "General-EWS": "393",
+      "ScheduleCaste(SC)": "261"
+    }
+  },
+  "Welding&Fabrication": {
+    "Sant Longowal Institute of Engineering and Technology": {
+      "General": "452",
+      "OtherBackwardClass(OBC-NCL)": "419",
+      "General-EWS": "364",
+      "ScheduleCaste(SC)": "268"
+    }
+  },
+  "ArchitecturalConservation": {
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "General": "556",
+      "OtherBackwardClass(OBC-NCL)": "443",
+      "ScheduleCaste(SC)": "258"
+    }
+  },
+  "BuildingEngineeringandManagement": {
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "General": "624",
+      "OtherBackwardClass(OBC-NCL)": "550",
+      "General-EWS": "505",
+      "ScheduleCaste(SC)": "472",
+      "ScheduleTribe(ST)": "331"
+    }
+  },
+  "EnvironmentalPlanning&Management": {
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "General": "562",
+      "OtherBackwardClass(OBC-NCL)": "466",
+      "General-EWS": "437",
+      "ScheduleCaste(SC)": "317",
+      "ScheduleTribe(ST)": "261"
+    }
+  },
+  "LandscapeArchitecture": {
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "General": "545",
+      "OtherBackwardClass(OBC-NCL)": "494",
+      "ScheduleCaste(SC)": "325",
+      "ScheduleTribe(ST)": "230"
+    }
+  },
+  "TransportationandInfrastructurePlanning": {
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "General": "550",
+      "OtherBackwardClass(OBC-NCL)": "487",
+      "General-EWS": "413",
+      "ScheduleCaste(SC)": "376",
+      "ScheduleTribe(ST)": "308"
+    }
+  },
+  "ControlSystem&Instrumentation": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "562",
+      "OtherBackwardClass(OBC-NCL)": "511",
+      "General-EWS": "500",
+      "ScheduleCaste(SC)": "417"
+    }
+  },
+  "CommunicationEngineering&SignalProcessing": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "OtherBackwardClass(OBC-NCL)": "462",
+      "General": "600",
+      "General-EWS": "490",
+      "ScheduleCaste(SC)": "316"
+    }
+  },
+  "ManufacturingScience": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "588",
+      "OtherBackwardClass(OBC-NCL)": "547",
+      "General-EWS": "539",
+      "ScheduleCaste(SC)": "396"
+    }
+  },
+  "Mechanicsoffluids": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "583",
+      "OtherBackwardClass(OBC-NCL)": "599",
+      "General-EWS": "478",
+      "ScheduleCaste(SC)": "368"
+    }
+  },
+  "IronandSteelTechnology": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General-EWS": "424",
+      "General": "492",
+      "OtherBackwardClass(OBC-NCL)": "484",
+      "ScheduleCaste(SC)": "255",
+      "ScheduleTribe(ST)": "214"
+    }
+  },
+  "PowerElectronics,MachinesandDrives": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "668",
+      "OtherBackwardClass(OBC-NCL)": "583",
+      "General-EWS": "524",
+      "ScheduleCaste(SC)": "434",
+      "ScheduleTribe(ST)": "285"
+    }
+  },
+  "RenewableEnergyScienceandTechnology": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "586",
+      "General-EWS": "487",
+      "OtherBackwardClass(OBC-NCL)": "471",
+      "ScheduleCaste(SC)": "362",
+      "ScheduleTribe(ST)": "243"
+    }
+  },
+  "SafetyandOccupationalHealthEngineering": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "507",
+      "General-EWS": "468",
+      "OtherBackwardClass(OBC-NCL)": "451",
+      "ScheduleCaste(SC)": "384"
+    }
+  },
+  "MechanicsofSolids": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "586",
+      "OtherBackwardClass(OBC-NCL)": "556",
+      "General-EWS": "516",
+      "ScheduleCaste(SC)": "457",
+      "ScheduleTribe(ST)": "242"
+    }
+  },
+  "SurfaceEngineering": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "515",
+      "OtherBackwardClass(OBC-NCL)": "413",
+      "General-EWS": "396",
+      "ScheduleCaste(SC)": "300"
+    }
+  },
+  "MicrowaveCommunication": {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "General": "539",
+      "OtherBackwardClass(OBC-NCL)": "494",
+      "ScheduleCaste(SC)": "292"
+    }
+  },
+  "ElectronicsEngineering": {
+    "Punjab Engineering College, Chandigarh": {
+      "General": "490",
+      "OtherBackwardClass(OBC-NCL)": "457",
+      "General-EWS": "413",
+      "ScheduleCaste(SC)": "324",
+      "ScheduleTribe(ST)": "239"
+    }
+  },
+  "IndustrialMaterials&Metallurgy": {
+    "Punjab Engineering College, Chandigarh": {
+      "General": "479",
+      "General-EWS": "391",
+      "ScheduleCaste(SC)": "261",
+      "ScheduleTribe(ST)": "233"
+    }
+  },
+  "Electronics(VLSIDesign)": {
+    "Punjab Engineering College, Chandigarh": {
+      "General": "543",
+      "OtherBackwardClass(OBC-NCL)": "535",
+      "General-EWS": "438",
+      "ScheduleCaste(SC)": "316"
+    }
+  },
+  "ElectricalEngineering": {
+    "Punjab Engineering College, Chandigarh": {
+      "General": "579",
+      "General-EWS": "520",
+      "OtherBackwardClass(OBC-NCL)": "513",
+      "ScheduleCaste(SC)": "353",
+      "ScheduleTribe(ST)": "217"
+    }
+  },
+  "M.Plan.(EnvironmentalPlanning)": {
+    "School of Planning and Architecture, Bhopal": {
+      "General": "629",
+      "OtherBackwardClass(OBC-NCL)": "466",
+      "General-EWS": "391",
+      "ScheduleCaste(SC)": "286",
+      "ScheduleTribe(ST)": "201"
+    }
+  },
+  "M.Arch.(Landscape)": {
+    "School of Planning and Architecture, Bhopal": {
+      "General": "550",
+      "OtherBackwardClass(OBC-NCL)": "562",
+      "ScheduleCaste(SC)": "296",
+      "ScheduleTribe(ST)": "213"
+    }
+  },
+  "M.Plan.(TransportPlanningandLogisticsManagement)": {
+    "School of Planning and Architecture, Bhopal": {
+      "General-EWS": { "category": "General-EWS", "score": "680" },
+      "OtherBackwardClass(OBC-NCL)": "601",
+      "General": "598",
+      "ScheduleCaste(SC)": "375"
+    }
+  },
+  "M.Arch.(UrbanDesign)": {
+    "School of Planning and Architecture, Bhopal": {
+      "General-EWS": "483",
+      "General": "699",
+      "OtherBackwardClass(OBC-NCL)": "595",
+      "ScheduleTribe(ST)": "353",
+      "ScheduleCaste(SC)": "313"
+    }
+  },
+  "M.Plan.(UrbanandRegionalPlanning)": {
+    "School of Planning and Architecture, Bhopal": {
+      "General": "691",
+      "OtherBackwardClass(OBC-NCL)": "624",
+      "ScheduleCaste(SC)": "579",
+      "General-EWS": "398",
+      "ScheduleTribe(ST)": "297"
+    }
+  },
+  "M.Arch.(Conservation)": {
+    "School of Planning and Architecture, Bhopal": {
+      "General": "525",
+      "OtherBackwardClass(OBC-NCL)": "438",
+      "ScheduleCaste(SC)": "359"
+    }
+  },
+  "GreenEnergyTechnology": {
+    "Central Institute of Technology, Kokrajhar": {
+      "General": { "category": "General", "score": "486" },
+      "OtherBackwardClass(OBC-NCL)": "434",
+      "General-EWS": "391",
+      "ScheduleTribe(ST)": "263"
+    }
+  },
+  "WaterResourcesandHydraulicsEngineering": {
+    "Central Institute of Technology, Kokrajhar": {
+      "General": { "category": "General", "score": "462" },
+      "OtherBackwardClass(OBC-NCL)": "423",
+      "General-EWS": "402",
+      "ScheduleCaste(SC)": "294"
+    }
+  },
+  "ManufacturingScienceandEngineering": {
+    "University of Hyderabad": {
+      "General": "662",
+      "OtherBackwardClass(OBC-NCL)": "586",
+      "General-EWS": "444",
+      "ScheduleCaste(SC)": "404",
+      "ScheduleTribe(ST)": "314"
+    }
+  },
+  "NanoscienceandTechnology": {
+    "University of Hyderabad": {
+      "OtherBackwardClass(OBC-NCL)": "452",
+      "General": "535",
+      "General-EWS": "442",
+      "ScheduleCaste(SC)": "277",
+      "ScheduleTribe(ST)": "268"
+    }
+  }
+}

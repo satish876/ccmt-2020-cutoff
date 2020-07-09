@@ -1,0 +1,4147 @@
+[
+  {
+    "Dr. B R Ambedkar National Institute of Technology, Jalandhar": {
+      "Biotechnology": {
+        "OPEN": { "category": "OPEN", "score": "495" },
+        "OBC": { "category": "OBC", "score": "357" },
+        "SC": { "category": "SC", "score": "155" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "397" },
+        "OBC": { "category": "OBC", "score": "311" },
+        "SC": { "category": "SC", "score": "249" }
+      },
+      "ControlandInstrumentationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "508" },
+        "EWS": { "category": "EWS", "score": "434" },
+        "OBC": { "category": "OBC", "score": "439" },
+        "SC": { "category": "SC", "score": "260" },
+        "ST": { "category": "ST", "score": "272" }
+      },
+      "DesignEngineering": {
+        "OPEN": { "category": "OPEN", "score": "558" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "519" },
+        "SC": { "category": "SC", "score": "344" },
+        "ST": { "category": "ST", "score": "218" }
+      },
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "461" },
+        "EWS": { "category": "EWS", "score": "442" },
+        "SC": { "category": "SC", "score": "327" },
+        "ST": { "category": "ST", "score": "239" }
+      },
+      "Geotechnical&Geo-environmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "OBC": { "category": "OBC", "score": "455" },
+        "EWS": { "category": "EWS", "score": "459" },
+        "ST": { "category": "ST", "score": "409" },
+        "SC": { "category": "SC", "score": "359" }
+      },
+      "IndustrialEngineering": {
+        "OPEN": { "category": "OPEN", "score": "531" },
+        "OBC": { "category": "OBC", "score": "453" },
+        "EWS": { "category": "EWS", "score": "448" },
+        "SC": { "category": "SC", "score": "360" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "ManufacturingTechnology": {
+        "OPEN": { "category": "OPEN", "score": "512" },
+        "EWS": { "category": "EWS", "score": "452" },
+        "OBC": { "category": "OBC", "score": "451" },
+        "SC": { "category": "SC", "score": "305" }
+      },
+      "RenewableEnergy": {
+        "OPEN": { "category": "OPEN", "score": "528" },
+        "OBC": { "category": "OBC", "score": "477" },
+        "EWS": { "category": "EWS", "score": "434" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "447" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "272" }
+      },
+      "StructuralandConstructionEngineering": {
+        "OPEN": { "category": "OPEN", "score": "529" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "OBC": { "category": "OBC", "score": "462" },
+        "SC": { "category": "SC", "score": "363" },
+        "ST": { "category": "ST", "score": "310" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "588" },
+        "OBC": { "category": "OBC", "score": "527" },
+        "EWS": { "category": "EWS", "score": "537" },
+        "SC": { "category": "SC", "score": "428" }
+      },
+      "TextileEngineeringandManagement": {
+        "OPEN": { "category": "OPEN", "score": "476" },
+        "OBC": { "category": "OBC", "score": "327" },
+        "EWS": { "category": "EWS", "score": "378" },
+        "SC": { "category": "SC", "score": "205" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "580" },
+        "OBC": { "category": "OBC", "score": "523" },
+        "EWS": { "category": "EWS", "score": "559" },
+        "SC": { "category": "SC", "score": "381" },
+        "ST": { "category": "ST", "score": "259" }
+      },
+      "ComputerScience&Engineering(InformationSecurity)": {
+        "OPEN": { "category": "OPEN", "score": "570" },
+        "OBC": { "category": "OBC", "score": "504" },
+        "EWS": { "category": "EWS", "score": "504" },
+        "SC": { "category": "SC", "score": "395" },
+        "ST": { "category": "ST", "score": "239" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "589" },
+        "EWS": { "category": "EWS", "score": "535" },
+        "OBC": { "category": "OBC", "score": "515" },
+        "SC": { "category": "SC", "score": "406" },
+        "ST": { "category": "ST", "score": "255" }
+      }
+    }
+  },
+  {
+    "Malaviya National Institute of Technology Jaipur": {
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "421" },
+        "ST": { "category": "ST", "score": "393" },
+        "SC": { "category": "SC", "score": "212" },
+        "OBC": { "category": "OBC", "score": "350" },
+        "EWS": { "category": "EWS", "score": "358" }
+      },
+      "DisasterAssessmentandMitigation": {
+        "OPEN": { "category": "OPEN", "score": "473" },
+        "OBC": { "category": "OBC", "score": "440" },
+        "ST": { "category": "ST", "score": "395" },
+        "EWS": { "category": "EWS", "score": "404" },
+        "SC": { "category": "SC", "score": "348" }
+      },
+      "DesignEngineering": {
+        "OPEN": { "category": "OPEN", "score": "655" },
+        "OBC": { "category": "OBC", "score": "590" },
+        "EWS": { "category": "EWS", "score": "606" },
+        "SC": { "category": "SC", "score": "424" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "366" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "344" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "542" },
+        "EWS": { "category": "EWS", "score": "555" },
+        "OBC": { "category": "OBC", "score": "523" },
+        "SC": { "category": "SC", "score": "377" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "EarthquakeEngineering": {
+        "OPEN": { "category": "OPEN", "score": "507" },
+        "OBC": { "category": "OBC", "score": "428" },
+        "EWS": { "category": "EWS", "score": "416" },
+        "ST": { "category": "ST", "score": "370" },
+        "SC": { "category": "SC", "score": "343" }
+      },
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "596" },
+        "OBC": { "category": "OBC", "score": "539" },
+        "EWS": { "category": "EWS", "score": "515" },
+        "ST": { "category": "ST", "score": "332" },
+        "SC": { "category": "SC", "score": "389" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "568" },
+        "OBC": { "category": "OBC", "score": "533" },
+        "ST": { "category": "ST", "score": "413" },
+        "SC": { "category": "SC", "score": "436" },
+        "EWS": { "category": "EWS", "score": "505" }
+      },
+      "Metallurgical&MaterialsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "352" },
+        "OBC": { "category": "OBC", "score": "258" },
+        "SC": { "category": "SC", "score": "220" }
+      },
+      "IndustrialEngineering": {
+        "OPEN": { "category": "OPEN", "score": "586" },
+        "OBC": { "category": "OBC", "score": "547" },
+        "EWS": { "category": "EWS", "score": "541" },
+        "SC": { "category": "SC", "score": "376" },
+        "ST": { "category": "ST", "score": "318" }
+      },
+      "MaterialScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "387" },
+        "OBC": { "category": "OBC", "score": "499" },
+        "EWS": { "category": "EWS", "score": "501" },
+        "SC": { "category": "SC", "score": "218" },
+        "ST": { "category": "ST", "score": "260" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "622" },
+        "OBC": { "category": "OBC", "score": "563" },
+        "EWS": { "category": "EWS", "score": "534" },
+        "SC": { "category": "SC", "score": "392" },
+        "ST": { "category": "ST", "score": "379" }
+      },
+      "PowerSystemsManagement": {
+        "OPEN": { "category": "OPEN", "score": "554" },
+        "OBC": { "category": "OBC", "score": "537" },
+        "ST": { "category": "ST", "score": "409" },
+        "EWS": { "category": "EWS", "score": "481" },
+        "SC": { "category": "SC", "score": "362" }
+      },
+      "PowerSystems": {
+        "OPEN": { "category": "OPEN", "score": "600" },
+        "OBC": { "category": "OBC", "score": "552" },
+        "EWS": { "category": "EWS", "score": "537" },
+        "SC": { "category": "SC", "score": "396" },
+        "ST": { "category": "ST", "score": "477" }
+      },
+      "ProductionEngineering": {
+        "OPEN": { "category": "OPEN", "score": "597" },
+        "OBC": { "category": "OBC", "score": "559" },
+        "EWS": { "category": "EWS", "score": "578" },
+        "SC": { "category": "SC", "score": "396" },
+        "ST": { "category": "ST", "score": "251" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "229" }
+      },
+      "RenewableEnergy": {
+        "OPEN": { "category": "OPEN", "score": "518" },
+        "OBC": { "category": "OBC", "score": "498" },
+        "EWS": { "category": "EWS", "score": "451" },
+        "ST": { "category": "ST", "score": "309" },
+        "SC": { "category": "SC", "score": "335" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "294" }
+      },
+      "SteelTechnology": {
+        "OPEN": { "category": "OPEN", "score": "356" },
+        "ST": { "category": "ST", "score": "503" },
+        "OBC": { "category": "OBC", "score": "262" },
+        "EWS": { "category": "EWS", "score": "440" },
+        "SC": { "category": "SC", "score": "208" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "696" },
+        "OBC": { "category": "OBC", "score": "596" },
+        "SC": { "category": "SC", "score": "514" },
+        "EWS": { "category": "EWS", "score": "611" },
+        "ST": { "category": "ST", "score": "566" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "609" },
+        "OBC": { "category": "OBC", "score": "572" },
+        "ST": { "category": "ST", "score": "593" },
+        "EWS": { "category": "EWS", "score": "555" },
+        "SC": { "category": "SC", "score": "471" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "650" },
+        "OBC": { "category": "OBC", "score": "583" },
+        "EWS": { "category": "EWS", "score": "594" },
+        "SC": { "category": "SC", "score": "436" },
+        "ST": { "category": "ST", "score": "329" }
+      },
+      "UrbanPlanning": {
+        "OPEN": { "category": "OPEN", "score": "556" },
+        "OBC": { "category": "OBC", "score": "454" },
+        "SC": { "category": "SC", "score": "314" },
+        "EWS": { "category": "EWS", "score": "359" },
+        "ST": { "category": "ST", "score": "348" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "665" },
+        "OBC": { "category": "OBC", "score": "604" },
+        "EWS": { "category": "EWS", "score": "596" },
+        "SC": { "category": "SC", "score": "466" },
+        "ST": { "category": "ST", "score": "377" }
+      },
+      "Wireless&OpticalCommunication": {
+        "OPEN": { "category": "OPEN", "score": "571" },
+        "OBC": { "category": "OBC", "score": "502" },
+        "EWS": { "category": "EWS", "score": "474" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "328" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "484" },
+        "ST": { "category": "ST", "score": "452" },
+        "SC": { "category": "SC", "score": "395" }
+      },
+      "ComputerEngineering&InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "636" },
+        "EWS": { "category": "EWS", "score": "589" },
+        "OBC": { "category": "OBC", "score": "566" },
+        "SC": { "category": "SC", "score": "434" },
+        "ST": { "category": "ST", "score": "278" }
+      },
+      "ComputerEngineering": {
+        "OPEN": { "category": "OPEN", "score": "655" },
+        "OBC": { "category": "OBC", "score": "577" },
+        "EWS": { "category": "EWS", "score": "593" },
+        "SC": { "category": "SC", "score": "461" },
+        "ST": { "category": "ST", "score": "270" }
+      }
+    }
+  },
+  {
+    "Maulana Azad National Institute of Technology Bhopal": {
+      "ArtificialIntelligence": {
+        "OPEN": { "category": "OPEN", "score": "646" },
+        "EWS": { "category": "EWS", "score": "632" },
+        "OBC": { "category": "OBC", "score": "576" },
+        "SC": { "category": "SC", "score": "441" },
+        "ST": { "category": "ST", "score": "329" }
+      },
+      "Bio-informatics": {
+        "OPEN": { "category": "OPEN", "score": "544" },
+        "EWS": { "category": "EWS", "score": "387" },
+        "OBC": { "category": "OBC", "score": "410" },
+        "SC": { "category": "SC", "score": "317" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "Biotechnology": {
+        "OPEN": { "category": "OPEN", "score": "495" },
+        "EWS": { "category": "EWS", "score": "457" },
+        "SC": { "category": "SC", "score": "172" },
+        "OBC": { "category": "OBC", "score": "350" }
+      },
+      "Computational&SystemsBiology": {
+        "OPEN": { "category": "OPEN", "score": "562" },
+        "EWS": { "category": "EWS", "score": "375" },
+        "OBC": { "category": "OBC", "score": "399" },
+        "SC": { "category": "SC", "score": "301" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "417" },
+        "OBC": { "category": "OBC", "score": "338" },
+        "SC": { "category": "SC", "score": "189" }
+      },
+      "DigitalCommunication": {
+        "OPEN": { "category": "OPEN", "score": "559" },
+        "OBC": { "category": "OBC", "score": "502" },
+        "EWS": { "category": "EWS", "score": "498" },
+        "SC": { "category": "SC", "score": "344" },
+        "ST": { "category": "ST", "score": "283" }
+      },
+      "ElectricalDrives": {
+        "OPEN": { "category": "OPEN", "score": "573" },
+        "OBC": { "category": "OBC", "score": "541" },
+        "EWS": { "category": "EWS", "score": "520" },
+        "SC": { "category": "SC", "score": "392" },
+        "ST": { "category": "ST", "score": "311" }
+      },
+      "EngineeringMaterials": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "OBC": { "category": "OBC", "score": "448" },
+        "EWS": { "category": "EWS", "score": "440" },
+        "ST": { "category": "ST", "score": "293" },
+        "SC": { "category": "SC", "score": "268" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "549" },
+        "OBC": { "category": "OBC", "score": "508" },
+        "EWS": { "category": "EWS", "score": "519" },
+        "SC": { "category": "SC", "score": "398" },
+        "ST": { "category": "ST", "score": "317" }
+      },
+      "Geoinformatics&ItsApplications": {
+        "OPEN": { "category": "OPEN", "score": "504" },
+        "OBC": { "category": "OBC", "score": "446" },
+        "EWS": { "category": "EWS", "score": "405" },
+        "SC": { "category": "SC", "score": "316" },
+        "ST": { "category": "ST", "score": "309" }
+      },
+      "HydroPowerEngineering": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "452" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "350" },
+        "ST": { "category": "ST", "score": "260" }
+      },
+      "Housing": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "OBC": { "category": "OBC", "score": "428" },
+        "EWS": { "category": "EWS", "score": "398" },
+        "SC": { "category": "SC", "score": "302" },
+        "ST": { "category": "ST", "score": "231" }
+      },
+      "IndustrialDesign": {
+        "OPEN": { "category": "OPEN", "score": "602" },
+        "EWS": { "category": "EWS", "score": "582" },
+        "OBC": { "category": "OBC", "score": "529" },
+        "SC": { "category": "SC", "score": "348" },
+        "ST": { "category": "ST", "score": "277" }
+      },
+      "InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "581" },
+        "EWS": { "category": "EWS", "score": "574" },
+        "OBC": { "category": "OBC", "score": "539" },
+        "SC": { "category": "SC", "score": "399" },
+        "ST": { "category": "ST", "score": "270" }
+      },
+      "MaterialsScience&Technology": {
+        "OPEN": { "category": "OPEN", "score": "503" },
+        "OBC": { "category": "OBC", "score": "444" },
+        "EWS": { "category": "EWS", "score": "445" },
+        "SC": { "category": "SC", "score": "273" }
+      },
+      "MaintenanceEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "525" },
+        "OBC": { "category": "OBC", "score": "447" },
+        "EWS": { "category": "EWS", "score": "410" },
+        "SC": { "category": "SC", "score": "281" }
+      },
+      "EnvironmentEngineering": {
+        "OPEN": { "category": "OPEN", "score": "522" },
+        "EWS": { "category": "EWS", "score": "518" },
+        "OBC": { "category": "OBC", "score": "492" },
+        "SC": { "category": "SC", "score": "395" },
+        "ST": { "category": "ST", "score": "309" }
+      },
+      "Nanotechnology": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "EWS": { "category": "EWS", "score": "470" },
+        "OBC": { "category": "OBC", "score": "477" },
+        "SC": { "category": "SC", "score": "374" },
+        "ST": { "category": "ST", "score": "260" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "632" },
+        "OBC": { "category": "OBC", "score": "570" },
+        "EWS": { "category": "EWS", "score": "570" },
+        "SC": { "category": "SC", "score": "421" },
+        "ST": { "category": "ST", "score": "369" }
+      },
+      "Stress&VibrationAnalysis": {
+        "OPEN": { "category": "OPEN", "score": "550" },
+        "OBC": { "category": "OBC", "score": "515" },
+        "EWS": { "category": "EWS", "score": "461" },
+        "SC": { "category": "SC", "score": "281" },
+        "ST": { "category": "ST", "score": "261" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "OBC": { "category": "OBC", "score": "510" },
+        "EWS": { "category": "EWS", "score": "512" },
+        "SC": { "category": "SC", "score": "399" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "EWS": { "category": "EWS", "score": "622" },
+        "OBC": { "category": "OBC", "score": "575" },
+        "SC": { "category": "SC", "score": "412" },
+        "ST": { "category": "ST", "score": "376" }
+      },
+      "PowerSystem": {
+        "OPEN": { "category": "OPEN", "score": "571" },
+        "OBC": { "category": "OBC", "score": "537" },
+        "EWS": { "category": "EWS", "score": "494" },
+        "SC": { "category": "SC", "score": "392" },
+        "ST": { "category": "ST", "score": "336" }
+      },
+      "UrbanPlanning": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "OBC": { "category": "OBC", "score": "447" },
+        "EWS": { "category": "EWS", "score": "421" },
+        "SC": { "category": "SC", "score": "320" },
+        "ST": { "category": "ST", "score": "320" }
+      },
+      "VLSIDesign&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "624" },
+        "EWS": { "category": "EWS", "score": "600" },
+        "OBC": { "category": "OBC", "score": "588" },
+        "SC": { "category": "SC", "score": "434" },
+        "ST": { "category": "ST", "score": "308" }
+      },
+      "WaterResourceEngineering": {
+        "OPEN": { "category": "OPEN", "score": "508" },
+        "OBC": { "category": "OBC", "score": "484" },
+        "EWS": { "category": "EWS", "score": "467" },
+        "ST": { "category": "ST", "score": "443" },
+        "SC": { "category": "SC", "score": "361" }
+      },
+      "ComputerScience&EngineeringwithspecializationinAdvanceComputing": {
+        "OPEN": { "category": "OPEN", "score": "608" },
+        "EWS": { "category": "EWS", "score": "585" },
+        "OBC": { "category": "OBC", "score": "546" },
+        "SC": { "category": "SC", "score": "434" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "329" },
+        "ST": { "category": "ST", "score": "274" }
+      },
+      "ComputerScience&EngineeringwithspecializationinComputerNetworking": {
+        "OPEN": { "category": "OPEN", "score": "577" },
+        "EWS": { "category": "EWS", "score": "566" },
+        "OBC": { "category": "OBC", "score": "541" },
+        "SC": { "category": "SC", "score": "406" },
+        "ST": { "category": "ST", "score": "270" }
+      },
+      "EnergywithspecializationinRenewableEnergy": {
+        "OPEN": { "category": "OPEN", "score": "549" },
+        "OBC": { "category": "OBC", "score": "475" },
+        "EWS": { "category": "EWS", "score": "464" },
+        "SC": { "category": "SC", "score": "349" },
+        "ST": { "category": "ST", "score": "279" }
+      },
+      "EnergywithspecializationinEnergySystemManagement": {
+        "OPEN": { "category": "OPEN", "score": "528" },
+        "EWS": { "category": "EWS", "score": "439" },
+        "OBC": { "category": "OBC", "score": "468" },
+        "SC": { "category": "SC", "score": "319" },
+        "ST": { "category": "ST", "score": "255" }
+      }
+    }
+  },
+  {
+    "Motilal Nehru National Institute of Technology Allahabad": {
+      "BiomedicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "541" },
+        "OBC": { "category": "OBC", "score": "455" },
+        "EWS": { "category": "EWS", "score": "501" },
+        "SC": { "category": "SC", "score": "255" },
+        "ST": { "category": "ST", "score": "334" }
+      },
+      "Biotechnology": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "EWS": { "category": "EWS", "score": "481" },
+        "OBC": { "category": "OBC", "score": "399" },
+        "SC": { "category": "SC", "score": "267" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "465" },
+        "OBC": { "category": "OBC", "score": "378" },
+        "SC": { "category": "SC", "score": "262" },
+        "EWS": { "category": "EWS", "score": "386" }
+      },
+      "Control&Instrumentation": {
+        "OPEN": { "category": "OPEN", "score": "600" },
+        "OBC": { "category": "OBC", "score": "579" },
+        "EWS": { "category": "EWS", "score": "575" },
+        "SC": { "category": "SC", "score": "383" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "CommunicationSystems": {
+        "OPEN": { "category": "OPEN", "score": "645" },
+        "OBC": { "category": "OBC", "score": "604" },
+        "EWS": { "category": "EWS", "score": "615" },
+        "SC": { "category": "SC", "score": "413" },
+        "ST": { "category": "ST", "score": "308" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "300" }
+      },
+      "DesignEngineering": {
+        "OPEN": { "category": "OPEN", "score": "693" },
+        "EWS": { "category": "EWS", "score": "658" },
+        "OBC": { "category": "OBC", "score": "639" },
+        "SC": { "category": "SC", "score": "466" },
+        "ST": { "category": "ST", "score": "289" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "570" },
+        "OBC": { "category": "OBC", "score": "545" },
+        "EWS": { "category": "EWS", "score": "548" },
+        "SC": { "category": "SC", "score": "434" },
+        "ST": { "category": "ST", "score": "302" }
+      },
+      "FluidsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "617" },
+        "OBC": { "category": "OBC", "score": "575" },
+        "EWS": { "category": "EWS", "score": "592" },
+        "SC": { "category": "SC", "score": "388" },
+        "ST": { "category": "ST", "score": "253" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "637" },
+        "OBC": { "category": "OBC", "score": "597" },
+        "EWS": { "category": "EWS", "score": "592" },
+        "SC": { "category": "SC", "score": "441" },
+        "ST": { "category": "ST", "score": "331" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "234" }
+      },
+      "Geoinformatics": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "EWS": { "category": "EWS", "score": "483" },
+        "SC": { "category": "SC", "score": "388" },
+        "ST": { "category": "ST", "score": "286" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "246" }
+      },
+      "InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "690" },
+        "EWS": { "category": "EWS", "score": "655" },
+        "OBC": { "category": "OBC", "score": "624" },
+        "SC": { "category": "SC", "score": "461" },
+        "ST": { "category": "ST", "score": "296" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "274" }
+      },
+      "EngineeringMechanicsandDesign": {
+        "OPEN": { "category": "OPEN", "score": "634" },
+        "EWS": { "category": "EWS", "score": "630" },
+        "OBC": { "category": "OBC", "score": "578" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "360" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "709" },
+        "EWS": { "category": "EWS", "score": "693" },
+        "OBC": { "category": "OBC", "score": "665" },
+        "SC": { "category": "SC", "score": "482" },
+        "ST": { "category": "ST", "score": "361" }
+      },
+      "MaterialScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "558" },
+        "OBC": { "category": "OBC", "score": "525" },
+        "EWS": { "category": "EWS", "score": "529" },
+        "SC": { "category": "SC", "score": "324" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "669" },
+        "OBC": { "category": "OBC", "score": "622" },
+        "EWS": { "category": "EWS", "score": "633" },
+        "SC": { "category": "SC", "score": "478" },
+        "ST": { "category": "ST", "score": "365" }
+      },
+      "ProductionEngineering": {
+        "OPEN": { "category": "OPEN", "score": "634" },
+        "OBC": { "category": "OBC", "score": "582" },
+        "EWS": { "category": "EWS", "score": "606" },
+        "SC": { "category": "SC", "score": "432" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "463" },
+        "ST": { "category": "ST", "score": "239" }
+      },
+      "ProductDesignandDevelopment": {
+        "OPEN": { "category": "OPEN", "score": "602" },
+        "EWS": { "category": "EWS", "score": "555" },
+        "OBC": { "category": "OBC", "score": "568" },
+        "SC": { "category": "SC", "score": "337" }
+      },
+      "SoftwareEngineering": {
+        "OPEN": { "category": "OPEN", "score": "671" },
+        "EWS": { "category": "EWS", "score": "652" },
+        "OBC": { "category": "OBC", "score": "605" },
+        "SC": { "category": "SC", "score": "449" },
+        "ST": { "category": "ST", "score": "325" }
+      },
+      "SignalProcessing": {
+        "OPEN": { "category": "OPEN", "score": "641" },
+        "EWS": { "category": "EWS", "score": "620" },
+        "OBC": { "category": "OBC", "score": "584" },
+        "SC": { "category": "SC", "score": "401" },
+        "ST": { "category": "ST", "score": "308" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "668" },
+        "OBC": { "category": "OBC", "score": "604" },
+        "EWS": { "category": "EWS", "score": "607" },
+        "SC": { "category": "SC", "score": "480" },
+        "ST": { "category": "ST", "score": "425" },
+        "SC-PwD": { "category": "SC-PwD", "score": "338" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "611" },
+        "OBC": { "category": "OBC", "score": "568" },
+        "EWS": { "category": "EWS", "score": "592" },
+        "SC": { "category": "SC", "score": "451" },
+        "ST": { "category": "ST", "score": "343" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "688" },
+        "EWS": { "category": "EWS", "score": "658" },
+        "OBC": { "category": "OBC", "score": "638" },
+        "SC": { "category": "SC", "score": "479" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "503" },
+        "ST": { "category": "ST", "score": "312" }
+      },
+      "PowerSystem": {
+        "OPEN": { "category": "OPEN", "score": "637" },
+        "EWS": { "category": "EWS", "score": "596" },
+        "OBC": { "category": "OBC", "score": "592" },
+        "SC": { "category": "SC", "score": "400" },
+        "ST": { "category": "ST", "score": "315" }
+      },
+      "ComputerAidedDesign&Manufacturing": {
+        "OPEN": { "category": "OPEN", "score": "596" },
+        "EWS": { "category": "EWS", "score": "579" },
+        "OBC": { "category": "OBC", "score": "562" },
+        "SC": { "category": "SC", "score": "408" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "717" },
+        "EWS": { "category": "EWS", "score": "663" },
+        "OBC": { "category": "OBC", "score": "632" },
+        "SC": { "category": "SC", "score": "507" },
+        "ST": { "category": "ST", "score": "387" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "286" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology  Agartala": {
+      "ArtificialIntelligence": {
+        "OPEN": { "category": "OPEN", "score": "620" },
+        "OBC": { "category": "OBC", "score": "461" },
+        "EWS": { "category": "EWS", "score": "519" },
+        "SC": { "category": "SC", "score": "367" },
+        "ST": { "category": "ST", "score": "255" }
+      },
+      "AutomotiveEngineering": {
+        "OPEN": { "category": "OPEN", "score": "600" },
+        "OBC": { "category": "OBC", "score": "455" },
+        "SC": { "category": "SC", "score": "277" }
+      },
+      "Biotechnology&BiochemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "492" },
+        "OBC": { "category": "OBC", "score": "406" },
+        "EWS": { "category": "EWS", "score": "371" },
+        "SC": { "category": "SC", "score": "290" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "423" },
+        "OBC": { "category": "OBC", "score": "368" },
+        "EWS": { "category": "EWS", "score": "385" }
+      },
+      "CommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "498" },
+        "OBC": { "category": "OBC", "score": "442" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "SC": { "category": "SC", "score": "307" },
+        "ST": { "category": "ST", "score": "296" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "466" },
+        "OBC": { "category": "OBC", "score": "436" },
+        "SC": { "category": "SC", "score": "310" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "481" },
+        "OBC": { "category": "OBC", "score": "432" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "341" },
+        "ST": { "category": "ST", "score": "370" }
+      },
+      "HydroInformaticsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "465" },
+        "OBC": { "category": "OBC", "score": "417" },
+        "EWS": { "category": "EWS", "score": "407" },
+        "SC": { "category": "SC", "score": "299" },
+        "ST": { "category": "ST", "score": "244" }
+      },
+      "InstrumentationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "OBC": { "category": "OBC", "score": "438" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "302" }
+      },
+      "IntegratedEnergySystem": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "434" },
+        "SC": { "category": "SC", "score": "307" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "560" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "SC": { "category": "SC", "score": "333" }
+      },
+      "ManufacturingTechnology": {
+        "OPEN": { "category": "OPEN", "score": "482" },
+        "OBC": { "category": "OBC", "score": "432" },
+        "EWS": { "category": "EWS", "score": "428" },
+        "SC": { "category": "SC", "score": "268" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "308" }
+      },
+      "MaterialScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "466" },
+        "OBC": { "category": "OBC", "score": "449" },
+        "EWS": { "category": "EWS", "score": "398" },
+        "SC": { "category": "SC", "score": "251" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "459" },
+        "EWS": { "category": "EWS", "score": "425" },
+        "SC": { "category": "SC", "score": "328" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "PowerSystemEngineering": {
+        "OPEN": { "category": "OPEN", "score": "498" },
+        "OBC": { "category": "OBC", "score": "447" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "319" },
+        "ST": { "category": "ST", "score": "238" }
+      },
+      "SeismicScienceandEngineering": {
+        "OPEN": { "category": "OPEN", "score": "458" },
+        "OBC": { "category": "OBC", "score": "420" },
+        "SC": { "category": "SC", "score": "295" },
+        "ST": { "category": "ST", "score": "242" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "533" },
+        "OBC": { "category": "OBC", "score": "444" },
+        "EWS": { "category": "EWS", "score": "462" },
+        "SC": { "category": "SC", "score": "322" },
+        "ST": { "category": "ST", "score": "261" }
+      },
+      "ThermalScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "525" },
+        "OBC": { "category": "OBC", "score": "470" },
+        "EWS": { "category": "EWS", "score": "495" },
+        "SC": { "category": "SC", "score": "281" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "481" },
+        "OBC": { "category": "OBC", "score": "427" },
+        "EWS": { "category": "EWS", "score": "416" },
+        "SC": { "category": "SC", "score": "313" },
+        "ST": { "category": "ST", "score": "287" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "551" },
+        "OBC": { "category": "OBC", "score": "478" },
+        "EWS": { "category": "EWS", "score": "467" },
+        "SC": { "category": "SC", "score": "373" },
+        "ST": { "category": "ST", "score": "275" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "466" },
+        "OBC": { "category": "OBC", "score": "427" },
+        "SC": { "category": "SC", "score": "309" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "527" },
+        "OBC": { "category": "OBC", "score": "472" },
+        "EWS": { "category": "EWS", "score": "492" },
+        "SC": { "category": "SC", "score": "399" },
+        "ST": { "category": "ST", "score": "266" }
+      },
+      "ComputerIntegratedManufacturing": {
+        "OPEN": { "category": "OPEN", "score": "476" },
+        "EWS": { "category": "EWS", "score": "449" },
+        "OBC": { "category": "OBC", "score": "424" },
+        "SC": { "category": "SC", "score": "289" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Calicut": {
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "441" },
+        "EWS": { "category": "EWS", "score": "425" },
+        "OBC": { "category": "OBC", "score": "409" },
+        "SC": { "category": "SC", "score": "230" }
+      },
+      "EnvironmentalGeotechnology": {
+        "OPEN": { "category": "OPEN", "score": "561" },
+        "OBC": { "category": "OBC", "score": "537" },
+        "EWS": { "category": "EWS", "score": "503" },
+        "SC": { "category": "SC", "score": "367" },
+        "ST": { "category": "ST", "score": "309" }
+      },
+      "EnergyEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "615" },
+        "OBC": { "category": "OBC", "score": "568" },
+        "EWS": { "category": "EWS", "score": "551" },
+        "SC": { "category": "SC", "score": "341" },
+        "ST": { "category": "ST", "score": "257" }
+      },
+      "ElectronicsDesign&Technology": {
+        "OPEN": { "category": "OPEN", "score": "690" },
+        "EWS": { "category": "EWS", "score": "673" },
+        "OBC": { "category": "OBC", "score": "645" },
+        "SC": { "category": "SC", "score": "454" },
+        "ST": { "category": "ST", "score": "350" }
+      },
+      "HighVoltageEngineering": {
+        "OPEN": { "category": "OPEN", "score": "612" },
+        "OBC": { "category": "OBC", "score": "587" },
+        "EWS": { "category": "EWS", "score": "559" },
+        "SC": { "category": "SC", "score": "464" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "IndustrialPower&Automation": {
+        "OPEN": { "category": "OPEN", "score": "617" },
+        "OBC": { "category": "OBC", "score": "588" },
+        "EWS": { "category": "EWS", "score": "583" },
+        "SC": { "category": "SC", "score": "413" },
+        "ST": { "category": "ST", "score": "290" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "247" }
+      },
+      "Instrumentation&ControlSystems": {
+        "OPEN": { "category": "OPEN", "score": "620" },
+        "OBC": { "category": "OBC", "score": "560" },
+        "EWS": { "category": "EWS", "score": "591" },
+        "SC": { "category": "SC", "score": "360" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "IndustrialEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "676" },
+        "EWS": { "category": "EWS", "score": "638" },
+        "OBC": { "category": "OBC", "score": "622" },
+        "SC": { "category": "SC", "score": "481" },
+        "ST": { "category": "ST", "score": "323" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "729" },
+        "EWS": { "category": "EWS", "score": "691" },
+        "OBC": { "category": "OBC", "score": "674" },
+        "SC": { "category": "SC", "score": "533" },
+        "ST": { "category": "ST", "score": "428" }
+      },
+      "ManufacturingTechnology": {
+        "OPEN": { "category": "OPEN", "score": "670" },
+        "OBC": { "category": "OBC", "score": "642" },
+        "EWS": { "category": "EWS", "score": "630" },
+        "SC": { "category": "SC", "score": "452" },
+        "ST": { "category": "ST", "score": "297" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "734" },
+        "EWS": { "category": "EWS", "score": "726" },
+        "OBC": { "category": "OBC", "score": "689" },
+        "SC": { "category": "SC", "score": "507" },
+        "ST": { "category": "ST", "score": "466" }
+      },
+      "MaterialsScience&Technology": {
+        "OPEN": { "category": "OPEN", "score": "582" },
+        "EWS": { "category": "EWS", "score": "554" },
+        "OBC": { "category": "OBC", "score": "555" },
+        "SC": { "category": "SC", "score": "289" },
+        "ST": { "category": "ST", "score": "253" }
+      },
+      "Nanotechnology": {
+        "OPEN": { "category": "OPEN", "score": "564" },
+        "OBC": { "category": "OBC", "score": "541" },
+        "EWS": { "category": "EWS", "score": "530" },
+        "SC": { "category": "SC", "score": "287" },
+        "ST": { "category": "ST", "score": "230" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "208" }
+      },
+      "OffshoreStructures": {
+        "OPEN": { "category": "OPEN", "score": "530" },
+        "OBC": { "category": "OBC", "score": "499" },
+        "EWS": { "category": "EWS", "score": "476" },
+        "SC": { "category": "SC", "score": "328" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "PowerElectronics": {
+        "OPEN": { "category": "OPEN", "score": "673" },
+        "EWS": { "category": "EWS", "score": "630" },
+        "OBC": { "category": "OBC", "score": "630" },
+        "SC": { "category": "SC", "score": "467" },
+        "ST": { "category": "ST", "score": "379" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "217" }
+      },
+      "PowerSystems": {
+        "OPEN": { "category": "OPEN", "score": "652" },
+        "OBC": { "category": "OBC", "score": "612" },
+        "EWS": { "category": "EWS", "score": "598" },
+        "SC": { "category": "SC", "score": "434" },
+        "ST": { "category": "ST", "score": "349" }
+      },
+      "SignalProcessing": {
+        "OPEN": { "category": "OPEN", "score": "673" },
+        "EWS": { "category": "EWS", "score": "673" },
+        "OBC": { "category": "OBC", "score": "632" },
+        "SC": { "category": "SC", "score": "421" },
+        "ST": { "category": "ST", "score": "316" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "663" },
+        "OBC": { "category": "OBC", "score": "636" },
+        "EWS": { "category": "EWS", "score": "630" },
+        "SC": { "category": "SC", "score": "443" },
+        "ST": { "category": "ST", "score": "395" },
+        "SC-PwD": { "category": "SC-PwD", "score": "283" }
+      },
+      "Telecommunication": {
+        "OPEN": { "category": "OPEN", "score": "684" },
+        "EWS": { "category": "EWS", "score": "669" },
+        "OBC": { "category": "OBC", "score": "641" },
+        "SC": { "category": "SC", "score": "417" },
+        "ST": { "category": "ST", "score": "344" }
+      },
+      "ThermalSciences": {
+        "OPEN": { "category": "OPEN", "score": "709" },
+        "OBC": { "category": "OBC", "score": "663" },
+        "EWS": { "category": "EWS", "score": "676" },
+        "SC": { "category": "SC", "score": "495" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "415" },
+        "ST": { "category": "ST", "score": "331" }
+      },
+      "Traffic&TransportationPlanning": {
+        "OPEN": { "category": "OPEN", "score": "583" },
+        "OBC": { "category": "OBC", "score": "554" },
+        "EWS": { "category": "EWS", "score": "533" },
+        "SC": { "category": "SC", "score": "395" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "UrbanPlanning": {
+        "OPEN": { "category": "OPEN", "score": "607" },
+        "OBC": { "category": "OBC", "score": "523" },
+        "EWS": { "category": "EWS", "score": "467" },
+        "SC": { "category": "SC", "score": "366" },
+        "ST": { "category": "ST", "score": "279" }
+      },
+      "WaterResourceEngineering": {
+        "OPEN": { "category": "OPEN", "score": "565" },
+        "OBC": { "category": "OBC", "score": "522" },
+        "EWS": { "category": "EWS", "score": "488" },
+        "SC": { "category": "SC", "score": "376" },
+        "ST": { "category": "ST", "score": "306" }
+      },
+      "ComputerScience&Engineering(InformationSecurity)": {
+        "OPEN": { "category": "OPEN", "score": "713" },
+        "EWS": { "category": "EWS", "score": "694" },
+        "OBC": { "category": "OBC", "score": "639" },
+        "SC": { "category": "SC", "score": "496" },
+        "ST": { "category": "ST", "score": "360" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "251" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "729" },
+        "EWS": { "category": "EWS", "score": "709" },
+        "OBC": { "category": "OBC", "score": "655" },
+        "SC": { "category": "SC", "score": "535" },
+        "ST": { "category": "ST", "score": "383" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "321" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Delhi": {
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "584" },
+        "OBC": { "category": "OBC", "score": "538" },
+        "SC": { "category": "SC", "score": "401" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "613" },
+        "OBC": { "category": "OBC", "score": "575" },
+        "SC": { "category": "SC", "score": "421" },
+        "ST": { "category": "ST", "score": "353" }
+      },
+      "ElectronicsandCommunicationEngineeringwithspecialisationinVLSI": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "OBC": { "category": "OBC", "score": "576" },
+        "SC": { "category": "SC", "score": "442" },
+        "ST": { "category": "ST", "score": "365" }
+      },
+      "ComputerAidedDesign&Manufacturing": {
+        "OPEN": { "category": "OPEN", "score": "600" },
+        "SC": { "category": "SC", "score": "516" },
+        "OBC": { "category": "OBC", "score": "547" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "ComputerScience&Engineering(Analytics)": {
+        "OPEN": { "category": "OPEN", "score": "655" },
+        "OBC": { "category": "OBC", "score": "570" },
+        "SC": { "category": "SC", "score": "500" },
+        "ST": { "category": "ST", "score": "374" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "274" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Durgapur": {
+      "Biotechnology": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "SC": { "category": "SC", "score": "238" },
+        "OBC": { "category": "OBC", "score": "354" },
+        "EWS": { "category": "EWS", "score": "354" },
+        "ST": { "category": "ST", "score": "208" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "461" },
+        "EWS": { "category": "EWS", "score": "373" },
+        "OBC": { "category": "OBC", "score": "386" },
+        "SC": { "category": "SC", "score": "257" }
+      },
+      "EnvironmentalScience&Technology": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "451" },
+        "EWS": { "category": "EWS", "score": "428" },
+        "SC": { "category": "SC", "score": "329" },
+        "ST": { "category": "ST", "score": "246" }
+      },
+      "FluidMechanicsandHeatTransfer": {
+        "OPEN": { "category": "OPEN", "score": "586" },
+        "OBC": { "category": "OBC", "score": "511" },
+        "EWS": { "category": "EWS", "score": "511" },
+        "SC": { "category": "SC", "score": "317" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "EWS": { "category": "EWS", "score": "448" },
+        "SC": { "category": "SC", "score": "365" },
+        "ST": { "category": "ST", "score": "271" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "602" },
+        "OBC": { "category": "OBC", "score": "546" },
+        "EWS": { "category": "EWS", "score": "537" },
+        "SC": { "category": "SC", "score": "376" },
+        "ST": { "category": "ST", "score": "293" }
+      },
+      "AdvancedMaterialScience&Technology": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "EWS": { "category": "EWS", "score": "470" },
+        "OBC": { "category": "OBC", "score": "458" },
+        "SC": { "category": "SC", "score": "285" }
+      },
+      "Microelectronics&VLSI": {
+        "OPEN": { "category": "OPEN", "score": "549" },
+        "OBC": { "category": "OBC", "score": "498" },
+        "EWS": { "category": "EWS", "score": "494" },
+        "SC": { "category": "SC", "score": "340" }
+      },
+      "MetallurgyandMaterialsTechnology": {
+        "OPEN": { "category": "OPEN", "score": "482" },
+        "OBC": { "category": "OBC", "score": "437" },
+        "EWS": { "category": "EWS", "score": "412" },
+        "SC": { "category": "SC", "score": "273" },
+        "ST": { "category": "ST", "score": "71" }
+      },
+      "OperationsResearch": {
+        "OPEN": { "category": "OPEN", "score": "550" },
+        "OBC": { "category": "OBC", "score": "495" },
+        "EWS": { "category": "EWS", "score": "459" },
+        "SC": { "category": "SC", "score": "379" },
+        "ST": { "category": "ST", "score": "255" }
+      },
+      "PowerElectronics&MachineDrives": {
+        "OPEN": { "category": "OPEN", "score": "558" },
+        "OBC": { "category": "OBC", "score": "513" },
+        "EWS": { "category": "EWS", "score": "528" },
+        "SC": { "category": "SC", "score": "372" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "551" },
+        "EWS": { "category": "EWS", "score": "503" },
+        "OBC": { "category": "OBC", "score": "493" },
+        "SC": { "category": "SC", "score": "391" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "606" },
+        "OBC": { "category": "OBC", "score": "546" },
+        "EWS": { "category": "EWS", "score": "538" },
+        "SC": { "category": "SC", "score": "348" },
+        "ST": { "category": "ST", "score": "213" }
+      },
+      "PowerSystem": {
+        "OPEN": { "category": "OPEN", "score": "549" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "515" },
+        "SC": { "category": "SC", "score": "366" },
+        "ST": { "category": "ST", "score": "281" }
+      },
+      "TelecommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "535" },
+        "OBC": { "category": "OBC", "score": "486" },
+        "EWS": { "category": "EWS", "score": "490" },
+        "SC": { "category": "SC", "score": "328" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "EWS": { "category": "EWS", "score": "492" },
+        "OBC": { "category": "OBC", "score": "484" },
+        "SC": { "category": "SC", "score": "391" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "414" },
+        "ST": { "category": "ST", "score": "282" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Goa": {
+      "PowerElectronics&PowerSystems": {
+        "OPEN": { "category": "OPEN", "score": "549" },
+        "EWS": { "category": "EWS", "score": "464" },
+        "OBC": { "category": "OBC", "score": "477" },
+        "SC": { "category": "SC", "score": "353" },
+        "ST": { "category": "ST", "score": "302" },
+        "ST-PwD": { "category": "ST-PwD", "score": "221" }
+      },
+      "VLSI": {
+        "OPEN": { "category": "OPEN", "score": "600" },
+        "OBC": { "category": "OBC", "score": "523" },
+        "EWS": { "category": "EWS", "score": "535" },
+        "SC": { "category": "SC", "score": "377" },
+        "ST": { "category": "ST", "score": "255" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "566" },
+        "EWS": { "category": "EWS", "score": "480" },
+        "OBC": { "category": "OBC", "score": "500" },
+        "SC": { "category": "SC", "score": "383" },
+        "ST": { "category": "ST", "score": "278" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Hamirpur": {
+      "CivilEngineering(Environment)": {
+        "OPEN": { "category": "OPEN", "score": "492" },
+        "OBC": { "category": "OBC", "score": "443" },
+        "EWS": { "category": "EWS", "score": "421" },
+        "SC": { "category": "SC", "score": "345" },
+        "ST": { "category": "ST", "score": "281" }
+      },
+      "CivilEngineering(Geotechnical)": {
+        "OPEN": { "category": "OPEN", "score": "512" },
+        "OBC": { "category": "OBC", "score": "451" },
+        "EWS": { "category": "EWS", "score": "440" },
+        "SC": { "category": "SC", "score": "359" },
+        "ST": { "category": "ST", "score": "331" }
+      },
+      "CivilEngineering(Structures)": {
+        "OPEN": { "category": "OPEN", "score": "558" },
+        "OBC": { "category": "OBC", "score": "494" },
+        "EWS": { "category": "EWS", "score": "514" },
+        "SC": { "category": "SC", "score": "398" },
+        "ST": { "category": "ST", "score": "267" }
+      },
+      "CivilEngineering(Transportation)": {
+        "OPEN": { "category": "OPEN", "score": "505" },
+        "OBC": { "category": "OBC", "score": "455" },
+        "EWS": { "category": "EWS", "score": "474" },
+        "ST": { "category": "ST", "score": "451" },
+        "SC": { "category": "SC", "score": "405" }
+      },
+      "CivilEngineering(WaterResources)": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "OBC": { "category": "OBC", "score": "437" },
+        "SC": { "category": "SC", "score": "366" },
+        "ST": { "category": "ST", "score": "294" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "381" },
+        "OBC": { "category": "OBC", "score": "314" }
+      },
+      "MaterialsScienceandEngineering": {
+        "OPEN": { "category": "OPEN", "score": "475" },
+        "OBC": { "category": "OBC", "score": "428" },
+        "EWS": { "category": "EWS", "score": "411" },
+        "SC": { "category": "SC", "score": "269" }
+      },
+      "SustainableArchitecture": {
+        "OPEN": { "category": "OPEN", "score": "517" },
+        "OBC": { "category": "OBC", "score": "382" },
+        "SC": { "category": "SC", "score": "320" },
+        "ST": { "category": "ST", "score": "196" }
+      },
+      "MechanicalEngineering(Design)": {
+        "OPEN": { "category": "OPEN", "score": "554" },
+        "EWS": { "category": "EWS", "score": "546" },
+        "OBC": { "category": "OBC", "score": "512" },
+        "SC": { "category": "SC", "score": "289" }
+      },
+      "MechanicalEngineering(EnergyTechnology)": {
+        "OPEN": { "category": "OPEN", "score": "503" },
+        "OBC": { "category": "OBC", "score": "436" },
+        "EWS": { "category": "EWS", "score": "412" },
+        "SC": { "category": "SC", "score": "269" }
+      },
+      "MechanicalEngineering(Manufacturing)": {
+        "OPEN": { "category": "OPEN", "score": "525" },
+        "OBC": { "category": "OBC", "score": "475" },
+        "EWS": { "category": "EWS", "score": "474" },
+        "SC": { "category": "SC", "score": "305" }
+      },
+      "MechanicalEngineering(Thermal)": {
+        "OPEN": { "category": "OPEN", "score": "598" },
+        "EWS": { "category": "EWS", "score": "567" },
+        "OBC": { "category": "OBC", "score": "520" },
+        "SC": { "category": "SC", "score": "327" }
+      },
+      "Electronics&CommunicationEngineering(CommunicationsSystemandNetworks)": {
+        "OPEN": { "category": "OPEN", "score": "507" },
+        "OBC": { "category": "OBC", "score": "462" },
+        "EWS": { "category": "EWS", "score": "429" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "255" }
+      },
+      "Electronics&CommunicationEngineering(VLSIDesign)": {
+        "OPEN": { "category": "OPEN", "score": "559" },
+        "OBC": { "category": "OBC", "score": "511" },
+        "EWS": { "category": "EWS", "score": "478" },
+        "SC": { "category": "SC", "score": "361" },
+        "ST": { "category": "ST", "score": "275" }
+      },
+      "ComputerScience&Engineering(ArtificialIntelligence)": {
+        "OPEN": { "category": "OPEN", "score": "585" },
+        "OBC": { "category": "OBC", "score": "488" },
+        "EWS": { "category": "EWS", "score": "504" },
+        "SC": { "category": "SC", "score": "379" },
+        "ST": { "category": "ST", "score": "294" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "574" },
+        "EWS": { "category": "EWS", "score": "515" },
+        "OBC": { "category": "OBC", "score": "492" },
+        "SC": { "category": "SC", "score": "387" },
+        "ST": { "category": "ST", "score": "344" }
+      },
+      "ElectricalEngineering(ConditionMonitoringofPowerApparatus)": {
+        "OPEN": { "category": "OPEN", "score": "502" },
+        "OBC": { "category": "OBC", "score": "447" },
+        "EWS": { "category": "EWS", "score": "426" },
+        "SC": { "category": "SC", "score": "319" },
+        "ST": { "category": "ST", "score": "234" }
+      },
+      "ElectricalEngineering(PowerSystem)": {
+        "OPEN": { "category": "OPEN", "score": "520" },
+        "OBC": { "category": "OBC", "score": "481" },
+        "EWS": { "category": "EWS", "score": "460" },
+        "SC": { "category": "SC", "score": "341" },
+        "ST": { "category": "ST", "score": "294" }
+      },
+      "ElectricalEngineering(SignalProcessing&Control)": {
+        "OPEN": { "category": "OPEN", "score": "506" },
+        "OBC": { "category": "OBC", "score": "456" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "SC": { "category": "SC", "score": "319" },
+        "ST": { "category": "ST", "score": "255" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Karnataka, Surathkal": {
+      "ComputationalandDataScience": {
+        "OPEN": { "category": "OPEN", "score": "748" },
+        "EWS": { "category": "EWS", "score": "706" },
+        "OBC": { "category": "OBC", "score": "666" },
+        "SC": { "category": "SC", "score": "526" },
+        "ST": { "category": "ST", "score": "356" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "321" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "509" },
+        "EWS": { "category": "EWS", "score": "505" },
+        "OBC": { "category": "OBC", "score": "421" },
+        "SC": { "category": "SC", "score": "322" }
+      },
+      "ConstructionTechnologyandManagement": {
+        "OPEN": { "category": "OPEN", "score": "637" },
+        "OBC": { "category": "OBC", "score": "570" },
+        "EWS": { "category": "EWS", "score": "578" },
+        "SC": { "category": "SC", "score": "420" },
+        "ST": { "category": "ST", "score": "346" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "246" }
+      },
+      "CommunicationEngineeringandNetworks": {
+        "OPEN": { "category": "OPEN", "score": "701" },
+        "EWS": { "category": "EWS", "score": "681" },
+        "OBC": { "category": "OBC", "score": "645" },
+        "SC": { "category": "SC", "score": "462" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "344" },
+        "ST": { "category": "ST", "score": "332" }
+      },
+      "EnvironmentalScience&Technology": {
+        "OPEN": { "category": "OPEN", "score": "441" },
+        "OBC": { "category": "OBC", "score": "358" },
+        "EWS": { "category": "EWS", "score": "369" },
+        "SC": { "category": "SC", "score": "254" },
+        "ST": { "category": "ST", "score": "230" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "604" },
+        "EWS": { "category": "EWS", "score": "559" },
+        "OBC": { "category": "OBC", "score": "540" },
+        "SC": { "category": "SC", "score": "399" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "328" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "634" },
+        "OBC": { "category": "OBC", "score": "590" },
+        "EWS": { "category": "EWS", "score": "563" },
+        "SC": { "category": "SC", "score": "469" },
+        "ST": { "category": "ST", "score": "395" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "239" }
+      },
+      "IndustrialBiotechnology": {
+        "OPEN": { "category": "OPEN", "score": "500" },
+        "OBC": { "category": "OBC", "score": "427" },
+        "EWS": { "category": "EWS", "score": "374" },
+        "SC": { "category": "SC", "score": "210" },
+        "ST": { "category": "ST", "score": "218" }
+      },
+      "InformationTechnology": {
+        "OPEN": { "category": "OPEN", "score": "721" },
+        "EWS": { "category": "EWS", "score": "702" },
+        "OBC": { "category": "OBC", "score": "647" },
+        "SC": { "category": "SC", "score": "507" },
+        "ST": { "category": "ST", "score": "367" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "321" }
+      },
+      "MechanicalDesign": {
+        "OPEN": { "category": "OPEN", "score": "750" },
+        "EWS": { "category": "EWS", "score": "745" },
+        "OBC": { "category": "OBC", "score": "705" },
+        "SC": { "category": "SC", "score": "558" },
+        "ST": { "category": "ST", "score": "515" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "368" }
+      },
+      "MaterialsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "622" },
+        "EWS": { "category": "EWS", "score": "602" },
+        "OBC": { "category": "OBC", "score": "578" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "264" }
+      },
+      "MarineStructures": {
+        "OPEN": { "category": "OPEN", "score": "544" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "496" },
+        "SC": { "category": "SC", "score": "327" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "ManufacturingEngineering": {
+        "OPEN": { "category": "OPEN", "score": "701" },
+        "EWS": { "category": "EWS", "score": "663" },
+        "OBC": { "category": "OBC", "score": "658" },
+        "SC": { "category": "SC", "score": "516" },
+        "ST": { "category": "ST", "score": "372" }
+      },
+      "MechatronicsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "636" },
+        "OBC": { "category": "OBC", "score": "575" },
+        "EWS": { "category": "EWS", "score": "523" },
+        "SC": { "category": "SC", "score": "466" },
+        "ST": { "category": "ST", "score": "300" }
+      },
+      "Nanotechnology": {
+        "OPEN": { "category": "OPEN", "score": "628" },
+        "OBC": { "category": "OBC", "score": "584" },
+        "EWS": { "category": "EWS", "score": "567" },
+        "SC": { "category": "SC", "score": "426" },
+        "ST": { "category": "ST", "score": "300" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "239" }
+      },
+      "ProcessMetallurgy": {
+        "OPEN": { "category": "OPEN", "score": "610" },
+        "EWS": { "category": "EWS", "score": "516" },
+        "OBC": { "category": "OBC", "score": "554" },
+        "SC": { "category": "SC", "score": "293" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "Power&EnergySystems": {
+        "OPEN": { "category": "OPEN", "score": "677" },
+        "OBC": { "category": "OBC", "score": "637" },
+        "EWS": { "category": "EWS", "score": "635" },
+        "SC": { "category": "SC", "score": "477" },
+        "ST": { "category": "ST", "score": "366" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "298" }
+      },
+      "RemoteSensing&GeographicInformationSystems": {
+        "OPEN": { "category": "OPEN", "score": "540" },
+        "EWS": { "category": "EWS", "score": "466" },
+        "OBC": { "category": "OBC", "score": "496" },
+        "SC": { "category": "SC", "score": "348" },
+        "ST": { "category": "ST", "score": "290" }
+      },
+      "SignalProcessingandMachineLearning": {
+        "OPEN": { "category": "OPEN", "score": "714" },
+        "OBC": { "category": "OBC", "score": "661" },
+        "EWS": { "category": "EWS", "score": "689" },
+        "SC": { "category": "SC", "score": "490" },
+        "ST": { "category": "ST", "score": "362" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "270" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "714" },
+        "OBC": { "category": "OBC", "score": "654" },
+        "EWS": { "category": "EWS", "score": "647" },
+        "SC": { "category": "SC", "score": "480" },
+        "ST": { "category": "ST", "score": "441" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "466" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "622" },
+        "OBC": { "category": "OBC", "score": "572" },
+        "EWS": { "category": "EWS", "score": "565" },
+        "SC": { "category": "SC", "score": "410" },
+        "ST": { "category": "ST", "score": "352" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "733" },
+        "OBC": { "category": "OBC", "score": "705" },
+        "EWS": { "category": "EWS", "score": "693" },
+        "SC": { "category": "SC", "score": "550" },
+        "ST": { "category": "ST", "score": "411" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "214" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "758" },
+        "EWS": { "category": "EWS", "score": "742" },
+        "OBC": { "category": "OBC", "score": "707" },
+        "SC": { "category": "SC", "score": "547" },
+        "ST": { "category": "ST", "score": "438" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "277" }
+      },
+      "WaterResourcesEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "OBC": { "category": "OBC", "score": "522" },
+        "EWS": { "category": "EWS", "score": "526" },
+        "SC": { "category": "SC", "score": "384" },
+        "ST": { "category": "ST", "score": "320" }
+      },
+      "ComputerScience&Engineering(InformationSecurity)": {
+        "OPEN": { "category": "OPEN", "score": "729" },
+        "EWS": { "category": "EWS", "score": "717" },
+        "OBC": { "category": "OBC", "score": "659" },
+        "SC": { "category": "SC", "score": "523" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "449" },
+        "ST": { "category": "ST", "score": "410" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "756" },
+        "EWS": { "category": "EWS", "score": "737" },
+        "OBC": { "category": "OBC", "score": "686" },
+        "SC": { "category": "SC", "score": "566" },
+        "ST": { "category": "ST", "score": "434" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "453" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Meghalaya": {
+      "Fluids&ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "505" },
+        "OBC": { "category": "OBC", "score": "432" },
+        "SC": { "category": "SC", "score": "294" },
+        "ST": { "category": "ST", "score": "239" }
+      },
+      "Power&EnergySystems": {
+        "OPEN": { "category": "OPEN", "score": "478" },
+        "OBC": { "category": "OBC", "score": "434" },
+        "SC": { "category": "SC", "score": "302" },
+        "ST": { "category": "ST", "score": "270" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "481" },
+        "OBC": { "category": "OBC", "score": "436" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "313" }
+      },
+      "VLSI&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "498" },
+        "OBC": { "category": "OBC", "score": "454" },
+        "SC": { "category": "SC", "score": "298" },
+        "ST": { "category": "ST", "score": "278" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "504" },
+        "OBC": { "category": "OBC", "score": "437" },
+        "ST": { "category": "ST", "score": "344" },
+        "SC": { "category": "SC", "score": "348" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Nagaland": {
+      "CommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "466" },
+        "OBC": { "category": "OBC", "score": "405" },
+        "EWS": { "category": "EWS", "score": "381" },
+        "SC": { "category": "SC", "score": "279" }
+      },
+      "PowerSystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "456" },
+        "OBC": { "category": "OBC", "score": "426" },
+        "EWS": { "category": "EWS", "score": "409" },
+        "SC": { "category": "SC", "score": "311" },
+        "ST": { "category": "ST", "score": "221" }
+      },
+      "VLSISystems": {
+        "OPEN": { "category": "OPEN", "score": "482" },
+        "OBC": { "category": "OBC", "score": "423" },
+        "EWS": { "category": "EWS", "score": "393" },
+        "SC": { "category": "SC", "score": "296" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "406" },
+        "EWS": { "category": "EWS", "score": "402" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "247" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Patna": {
+      "MasterofArchitecture": {
+        "OPEN": { "category": "OPEN", "score": "483" },
+        "OBC": { "category": "OBC", "score": "393" },
+        "EWS": { "category": "EWS", "score": "365" },
+        "SC": { "category": "SC", "score": "230" }
+      },
+      "ComputerNetworks": {
+        "OPEN": { "category": "OPEN", "score": "519" },
+        "OBC": { "category": "OBC", "score": "457" },
+        "EWS": { "category": "EWS", "score": "430" },
+        "SC": { "category": "SC", "score": "340" },
+        "ST": { "category": "ST", "score": "251" }
+      },
+      "ControlSystemEngineering": {
+        "OPEN": { "category": "OPEN", "score": "507" },
+        "OBC": { "category": "OBC", "score": "468" },
+        "EWS": { "category": "EWS", "score": "460" },
+        "SC": { "category": "SC", "score": "362" },
+        "ST": { "category": "ST", "score": "230" }
+      },
+      "CommunicationSystems": {
+        "OPEN": { "category": "OPEN", "score": "498" },
+        "OBC": { "category": "OBC", "score": "454" },
+        "EWS": { "category": "EWS", "score": "446" },
+        "SC": { "category": "SC", "score": "300" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "332" }
+      },
+      "DesignEngineering": {
+        "OPEN": { "category": "OPEN", "score": "555" },
+        "EWS": { "category": "EWS", "score": "533" },
+        "OBC": { "category": "OBC", "score": "499" },
+        "SC": { "category": "SC", "score": "327" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "487" },
+        "OBC": { "category": "OBC", "score": "462" },
+        "EWS": { "category": "EWS", "score": "451" },
+        "SC": { "category": "SC", "score": "317" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "274" },
+        "ST": { "category": "ST", "score": "256" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "EWS": { "category": "EWS", "score": "463" },
+        "SC": { "category": "SC", "score": "331" },
+        "ST": { "category": "ST", "score": "257" }
+      },
+      "InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "507" },
+        "OBC": { "category": "OBC", "score": "457" },
+        "EWS": { "category": "EWS", "score": "437" },
+        "SC": { "category": "SC", "score": "340" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "547" },
+        "OBC": { "category": "OBC", "score": "498" },
+        "EWS": { "category": "EWS", "score": "515" },
+        "SC": { "category": "SC", "score": "352" },
+        "ST": { "category": "ST", "score": "300" }
+      },
+      "PowerSystemEngineering": {
+        "OPEN": { "category": "OPEN", "score": "566" },
+        "OBC": { "category": "OBC", "score": "515" },
+        "EWS": { "category": "EWS", "score": "541" },
+        "SC": { "category": "SC", "score": "397" },
+        "ST": { "category": "ST", "score": "230" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "220" }
+      },
+      "ProductionEngineering": {
+        "OPEN": { "category": "OPEN", "score": "516" },
+        "OBC": { "category": "OBC", "score": "475" },
+        "EWS": { "category": "EWS", "score": "449" },
+        "SC": { "category": "SC", "score": "282" },
+        "ST": { "category": "ST", "score": "352" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "544" },
+        "OBC": { "category": "OBC", "score": "510" },
+        "EWS": { "category": "EWS", "score": "492" },
+        "SC": { "category": "SC", "score": "349" },
+        "ST": { "category": "ST", "score": "341" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "506" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "EWS": { "category": "EWS", "score": "458" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "274" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "242" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "555" },
+        "OBC": { "category": "OBC", "score": "525" },
+        "EWS": { "category": "EWS", "score": "491" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "420" },
+        "SC": { "category": "SC", "score": "331" }
+      },
+      "Urban&RegionalPlanning": {
+        "OPEN": { "category": "OPEN", "score": "483" },
+        "OBC": { "category": "OBC", "score": "398" },
+        "EWS": { "category": "EWS", "score": "370" },
+        "SC": { "category": "SC", "score": "275" },
+        "ST": { "category": "ST", "score": "173" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "471" },
+        "OBC": { "category": "OBC", "score": "448" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "SC": { "category": "SC", "score": "320" },
+        "ST": { "category": "ST", "score": "250" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Puducherry": {
+      "PowerElectronics": {
+        "OPEN": { "category": "OPEN", "score": "549" },
+        "OBC": { "category": "OBC", "score": "511" },
+        "EWS": { "category": "EWS", "score": "507" },
+        "SC": { "category": "SC", "score": "383" },
+        "ST": { "category": "ST", "score": "298" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "571" },
+        "OBC": { "category": "OBC", "score": "539" },
+        "EWS": { "category": "EWS", "score": "494" },
+        "SC": { "category": "SC", "score": "332" },
+        "ST": { "category": "ST", "score": "312" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "527" },
+        "OBC": { "category": "OBC", "score": "476" },
+        "EWS": { "category": "EWS", "score": "434" },
+        "SC": { "category": "SC", "score": "340" },
+        "ST": { "category": "ST", "score": "286" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Raipur": {
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "374" },
+        "OBC": { "category": "OBC", "score": "310" },
+        "SC": { "category": "SC", "score": "210" }
+      },
+      "InformationTechnology": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "OBC": { "category": "OBC", "score": "463" },
+        "EWS": { "category": "EWS", "score": "445" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "267" }
+      },
+      "IndustrialEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "574" },
+        "OBC": { "category": "OBC", "score": "523" },
+        "EWS": { "category": "EWS", "score": "479" },
+        "SC": { "category": "SC", "score": "358" },
+        "ST": { "category": "ST", "score": "329" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "582" },
+        "OBC": { "category": "OBC", "score": "562" },
+        "EWS": { "category": "EWS", "score": "543" },
+        "SC": { "category": "SC", "score": "317" },
+        "ST": { "category": "ST", "score": "341" }
+      },
+      "PowerSystem&Control": {
+        "OPEN": { "category": "OPEN", "score": "531" },
+        "OBC": { "category": "OBC", "score": "481" },
+        "EWS": { "category": "EWS", "score": "447" },
+        "SC": { "category": "SC", "score": "341" },
+        "ST": { "category": "ST", "score": "270" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "554" },
+        "EWS": { "category": "EWS", "score": "529" },
+        "OBC": { "category": "OBC", "score": "496" },
+        "SC": { "category": "SC", "score": "370" },
+        "ST": { "category": "ST", "score": "359" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "583" },
+        "EWS": { "category": "EWS", "score": "562" },
+        "OBC": { "category": "OBC", "score": "543" },
+        "SC": { "category": "SC", "score": "335" },
+        "ST": { "category": "ST", "score": "273" }
+      },
+      "VLSI&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "531" },
+        "OBC": { "category": "OBC", "score": "478" },
+        "EWS": { "category": "EWS", "score": "450" },
+        "ST": { "category": "ST", "score": "393" },
+        "SC": { "category": "SC", "score": "340" }
+      },
+      "WaterResourcesDevelopment&IrrigationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "481" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "SC": { "category": "SC", "score": "350" },
+        "EWS": { "category": "EWS", "score": "420" },
+        "ST": { "category": "ST", "score": "292" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Sikkim": {
+      "ElectricalEngineering(SpecializationinControlPowerandElectricDrives)": {
+        "OPEN": { "category": "OPEN", "score": "468" },
+        "OBC": { "category": "OBC", "score": "439" },
+        "EWS": { "category": "EWS", "score": "392" },
+        "SC": { "category": "SC", "score": "302" },
+        "ST": { "category": "ST", "score": "260" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "490" },
+        "OBC": { "category": "OBC", "score": "456" },
+        "EWS": { "category": "EWS", "score": "409" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "235" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "OBC": { "category": "OBC", "score": "434" },
+        "EWS": { "category": "EWS", "score": "399" },
+        "SC": { "category": "SC", "score": "336" },
+        "ST": { "category": "ST", "score": "256" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "255" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Arunachal Pradesh ": {
+      "Fluids&ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "467" },
+        "OBC": { "category": "OBC", "score": "419" },
+        "EWS": { "category": "EWS", "score": "382" },
+        "SC": { "category": "SC", "score": "245" },
+        "ST": { "category": "ST", "score": "214" }
+      },
+      "RenewableEnergyandEnergyManagement": {
+        "OPEN": { "category": "OPEN", "score": "447" },
+        "OBC": { "category": "OBC", "score": "421" },
+        "EWS": { "category": "EWS", "score": "383" },
+        "SC": { "category": "SC", "score": "291" },
+        "ST": { "category": "ST", "score": "217" }
+      },
+      "VLSIDesign&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "470" },
+        "OBC": { "category": "OBC", "score": "425" },
+        "EWS": { "category": "EWS", "score": "405" },
+        "SC": { "category": "SC", "score": "288" },
+        "ST": { "category": "ST", "score": "239" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "480" },
+        "OBC": { "category": "OBC", "score": "415" },
+        "EWS": { "category": "EWS", "score": "371" },
+        "SC": { "category": "SC", "score": "313" },
+        "ST": { "category": "ST", "score": "239" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Jamshedpur": {
+      "CommunicationSystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "458" },
+        "EWS": { "category": "EWS", "score": "425" },
+        "SC": { "category": "SC", "score": "316" },
+        "ST": { "category": "ST", "score": "247" }
+      },
+      "EnergySystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "460" },
+        "EWS": { "category": "EWS", "score": "444" },
+        "SC": { "category": "SC", "score": "311" },
+        "ST": { "category": "ST", "score": "247" }
+      },
+      "EmbeddedSystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "531" },
+        "OBC": { "category": "OBC", "score": "480" },
+        "EWS": { "category": "EWS", "score": "486" },
+        "SC": { "category": "SC", "score": "328" }
+      },
+      "FoundryTechnology": {
+        "OPEN": { "category": "OPEN", "score": "455" },
+        "OBC": { "category": "OBC", "score": "415" },
+        "EWS": { "category": "EWS", "score": "368" },
+        "SC": { "category": "SC", "score": "242" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "462" },
+        "EWS": { "category": "EWS", "score": "428" },
+        "SC": { "category": "SC", "score": "339" },
+        "ST": { "category": "ST", "score": "274" }
+      },
+      "ManufacturingSystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "495" },
+        "OBC": { "category": "OBC", "score": "452" },
+        "EWS": { "category": "EWS", "score": "403" },
+        "SC": { "category": "SC", "score": "273" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "555" },
+        "OBC": { "category": "OBC", "score": "513" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "SC": { "category": "SC", "score": "345" },
+        "ST": { "category": "ST", "score": "247" }
+      },
+      "PowerSystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "532" },
+        "OBC": { "category": "OBC", "score": "494" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "SC": { "category": "SC", "score": "344" },
+        "ST": { "category": "ST", "score": "272" }
+      },
+      "InformationSystemsSecurityEngineering": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "EWS": { "category": "EWS", "score": "527" },
+        "OBC": { "category": "OBC", "score": "476" },
+        "SC": { "category": "SC", "score": "360" },
+        "ST": { "category": "ST", "score": "290" }
+      },
+      "SurfaceScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "453" },
+        "OBC": { "category": "OBC", "score": "404" },
+        "EWS": { "category": "EWS", "score": "369" },
+        "SC": { "category": "SC", "score": "241" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "514" },
+        "EWS": { "category": "EWS", "score": "496" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "SC": { "category": "SC", "score": "369" },
+        "ST": { "category": "ST", "score": "287" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "595" },
+        "EWS": { "category": "EWS", "score": "531" },
+        "OBC": { "category": "OBC", "score": "533" },
+        "SC": { "category": "SC", "score": "348" },
+        "ST": { "category": "ST", "score": "249" }
+      },
+      "MaterialsTechnology": {
+        "OPEN": { "category": "OPEN", "score": "471" },
+        "OBC": { "category": "OBC", "score": "411" },
+        "EWS": { "category": "EWS", "score": "390" },
+        "SC": { "category": "SC", "score": "269" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "473" },
+        "OBC": { "category": "OBC", "score": "443" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "317" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "593" },
+        "EWS": { "category": "EWS", "score": "574" },
+        "OBC": { "category": "OBC", "score": "527" },
+        "SC": { "category": "SC", "score": "383" },
+        "ST": { "category": "ST", "score": "274" }
+      },
+      "ComputerIntegratedDesign&Manufacturing": {
+        "OPEN": { "category": "OPEN", "score": "508" },
+        "OBC": { "category": "OBC", "score": "457" },
+        "EWS": { "category": "EWS", "score": "483" },
+        "SC": { "category": "SC", "score": "295" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Kurukshetra": {
+      "ComputerEngineering(CyberSecurity)": {
+        "OPEN": { "category": "OPEN", "score": "620" },
+        "EWS": { "category": "EWS", "score": "585" },
+        "OBC": { "category": "OBC", "score": "539" },
+        "SC": { "category": "SC", "score": "414" },
+        "ST": { "category": "ST", "score": "305" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "282" }
+      },
+      "NanomaterialsandNanotechnology": {
+        "OPEN": { "category": "OPEN", "score": "544" },
+        "OBC": { "category": "OBC", "score": "472" },
+        "EWS": { "category": "EWS", "score": "409" },
+        "SC": { "category": "SC", "score": "344" },
+        "ST": { "category": "ST", "score": "256" }
+      },
+      "ControlSystem": {
+        "OPEN": { "category": "OPEN", "score": "559" },
+        "OBC": { "category": "OBC", "score": "528" },
+        "EWS": { "category": "EWS", "score": "515" },
+        "SC": { "category": "SC", "score": "383" },
+        "ST": { "category": "ST", "score": "302" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "247" }
+      },
+      "CommunicationSystems": {
+        "OPEN": { "category": "OPEN", "score": "571" },
+        "OBC": { "category": "OBC", "score": "519" },
+        "EWS": { "category": "EWS", "score": "519" },
+        "SC": { "category": "SC", "score": "361" },
+        "ST": { "category": "ST", "score": "255" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "EWS": { "category": "EWS", "score": "448" },
+        "SC": { "category": "SC", "score": "381" },
+        "ST": { "category": "ST", "score": "324" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "246" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "555" },
+        "OBC": { "category": "OBC", "score": "494" },
+        "EWS": { "category": "EWS", "score": "488" },
+        "SC": { "category": "SC", "score": "368" },
+        "ST": { "category": "ST", "score": "345" }
+      },
+      "Production&IndustrialEngineering": {
+        "OPEN": { "category": "OPEN", "score": "594" },
+        "EWS": { "category": "EWS", "score": "578" },
+        "OBC": { "category": "OBC", "score": "531" },
+        "SC": { "category": "SC", "score": "388" },
+        "ST": { "category": "ST", "score": "225" }
+      },
+      "Instrumentation": {
+        "OPEN": { "category": "OPEN", "score": "532" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "EWS": { "category": "EWS", "score": "462" },
+        "SC": { "category": "SC", "score": "322" },
+        "ST": { "category": "ST", "score": "221" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "EWS": { "category": "EWS", "score": "600" },
+        "OBC": { "category": "OBC", "score": "579" },
+        "SC": { "category": "SC", "score": "420" },
+        "ST": { "category": "ST", "score": "245" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "580" },
+        "OBC": { "category": "OBC", "score": "566" },
+        "EWS": { "category": "EWS", "score": "524" },
+        "SC": { "category": "SC", "score": "407" },
+        "ST": { "category": "ST", "score": "277" }
+      },
+      "RenewableEnergySystems": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "253" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "596" },
+        "SC": { "category": "SC", "score": "443" },
+        "OBC": { "category": "OBC", "score": "563" },
+        "EWS": { "category": "EWS", "score": "561" },
+        "ST": { "category": "ST", "score": "326" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "338" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "570" },
+        "OBC": { "category": "OBC", "score": "522" },
+        "EWS": { "category": "EWS", "score": "488" },
+        "ST": { "category": "ST", "score": "331" },
+        "SC": { "category": "SC", "score": "410" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "EWS": { "category": "EWS", "score": "596" },
+        "OBC": { "category": "OBC", "score": "571" },
+        "SC": { "category": "SC", "score": "403" },
+        "ST": { "category": "ST", "score": "314" }
+      },
+      "PowerSystem": {
+        "OPEN": { "category": "OPEN", "score": "558" },
+        "OBC": { "category": "OBC", "score": "524" },
+        "EWS": { "category": "EWS", "score": "490" },
+        "SC": { "category": "SC", "score": "400" },
+        "ST": { "category": "ST", "score": "336" }
+      },
+      "EmbeddedSystemDesign": {
+        "OPEN": { "category": "OPEN", "score": "588" },
+        "EWS": { "category": "EWS", "score": "539" },
+        "OBC": { "category": "OBC", "score": "531" },
+        "SC": { "category": "SC", "score": "381" },
+        "ST": { "category": "ST", "score": "235" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "628" },
+        "EWS": { "category": "EWS", "score": "600" },
+        "OBC": { "category": "OBC", "score": "571" },
+        "SC": { "category": "SC", "score": "429" },
+        "ST": { "category": "ST", "score": "288" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "454" },
+        "OBC": { "category": "OBC", "score": "446" },
+        "EWS": { "category": "EWS", "score": "462" },
+        "SC": { "category": "SC", "score": "366" },
+        "ST": { "category": "ST", "score": "320" }
+      },
+      "ComputerEngineering": {
+        "OPEN": { "category": "OPEN", "score": "636" },
+        "EWS": { "category": "EWS", "score": "597" },
+        "OBC": { "category": "OBC", "score": "550" },
+        "SC": { "category": "SC", "score": "441" },
+        "ST": { "category": "ST", "score": "321" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Manipur": {
+      "EnvironmentalandWaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "455" },
+        "OBC": { "category": "OBC", "score": "410" },
+        "SC": { "category": "SC", "score": "302" },
+        "ST": { "category": "ST", "score": "263" }
+      },
+      "PowerSystemandControlSystem": {
+        "OPEN": { "category": "OPEN", "score": "468" },
+        "OBC": { "category": "OBC", "score": "439" },
+        "SC": { "category": "SC", "score": "290" },
+        "ST": { "category": "ST", "score": "241" }
+      },
+      "Thermal&FluidsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "487" },
+        "OBC": { "category": "OBC", "score": "424" },
+        "ST": { "category": "ST", "score": "289" },
+        "SC": { "category": "SC", "score": "269" }
+      },
+      "VLSIDesign&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "470" },
+        "OBC": { "category": "OBC", "score": "426" },
+        "SC": { "category": "SC", "score": "298" },
+        "ST": { "category": "ST", "score": "261" }
+      },
+      "ComputerScience": {
+        "OPEN": { "category": "OPEN", "score": "488" },
+        "OBC": { "category": "OBC", "score": "414" },
+        "SC": { "category": "SC", "score": "325" },
+        "ST": { "category": "ST", "score": "255" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Rourkela": {
+      "AtmosphereandOceanScience": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "OBC": { "category": "OBC", "score": "452" },
+        "EWS": { "category": "EWS", "score": "443" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "278" }
+      },
+      "BiomedicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "565" },
+        "OBC": { "category": "OBC", "score": "521" },
+        "EWS": { "category": "EWS", "score": "495" },
+        "SC": { "category": "SC", "score": "381" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "Biotechnology": {
+        "OPEN": { "category": "OPEN", "score": "573" },
+        "OBC": { "category": "OBC", "score": "452" },
+        "SC": { "category": "SC", "score": "413" },
+        "EWS": { "category": "EWS", "score": "354" },
+        "ST": { "category": "ST", "score": "272" }
+      },
+      "Control&Automation": {
+        "OPEN": { "category": "OPEN", "score": "622" },
+        "OBC": { "category": "OBC", "score": "605" },
+        "EWS": { "category": "EWS", "score": "594" },
+        "SC": { "category": "SC", "score": "409" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "469" },
+        "EWS": { "category": "EWS", "score": "425" },
+        "OBC": { "category": "OBC", "score": "374" },
+        "SC": { "category": "SC", "score": "275" },
+        "ST": { "category": "ST", "score": "246" }
+      },
+      "Cryogenics&VacuumTechnology": {
+        "OPEN": { "category": "OPEN", "score": "579" },
+        "OBC": { "category": "OBC", "score": "537" },
+        "EWS": { "category": "EWS", "score": "471" },
+        "SC": { "category": "SC", "score": "368" },
+        "ST": { "category": "ST", "score": "217" }
+      },
+      "Communication&Networks": {
+        "OPEN": { "category": "OPEN", "score": "641" },
+        "EWS": { "category": "EWS", "score": "612" },
+        "OBC": { "category": "OBC", "score": "588" },
+        "SC": { "category": "SC", "score": "403" },
+        "ST": { "category": "ST", "score": "312" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "283" }
+      },
+      "EnergyandEnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "561" },
+        "OBC": { "category": "OBC", "score": "518" },
+        "EWS": { "category": "EWS", "score": "495" },
+        "SC": { "category": "SC", "score": "395" },
+        "ST": { "category": "ST", "score": "317" }
+      },
+      "ElectronicSystems&Communication": {
+        "OPEN": { "category": "OPEN", "score": "632" },
+        "OBC": { "category": "OBC", "score": "580" },
+        "EWS": { "category": "EWS", "score": "620" },
+        "SC": { "category": "SC", "score": "397" },
+        "ST": { "category": "ST", "score": "312" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "261" }
+      },
+      "ElectronicsandInstrumentationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "615" },
+        "EWS": { "category": "EWS", "score": "592" },
+        "OBC": { "category": "OBC", "score": "571" },
+        "SC": { "category": "SC", "score": "389" },
+        "ST": { "category": "ST", "score": "304" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "251" }
+      },
+      "FoodProcessEngineering": {
+        "OPEN": { "category": "OPEN", "score": "518" },
+        "EWS": { "category": "EWS", "score": "510" },
+        "OBC": { "category": "OBC", "score": "451" },
+        "SC": { "category": "SC", "score": "286" },
+        "ST": { "category": "ST", "score": "249" }
+      },
+      "Metallurgical&MaterialsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "606" },
+        "OBC": { "category": "OBC", "score": "529" },
+        "EWS": { "category": "EWS", "score": "487" },
+        "SC": { "category": "SC", "score": "352" },
+        "ST": { "category": "ST", "score": "213" }
+      },
+      "IndustrialCeramics": {
+        "OPEN": { "category": "OPEN", "score": "508" },
+        "OBC": { "category": "OBC", "score": "440" },
+        "EWS": { "category": "EWS", "score": "377" },
+        "SC": { "category": "SC", "score": "276" },
+        "ST": { "category": "ST", "score": "172" }
+      },
+      "IndustrialDesign": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "OBC": { "category": "OBC", "score": "590" },
+        "EWS": { "category": "EWS", "score": "601" },
+        "SC": { "category": "SC", "score": "432" },
+        "ST": { "category": "ST", "score": "300" }
+      },
+      "InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "655" },
+        "EWS": { "category": "EWS", "score": "616" },
+        "OBC": { "category": "OBC", "score": "593" },
+        "SC": { "category": "SC", "score": "453" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "356" },
+        "ST": { "category": "ST", "score": "352" }
+      },
+      "MicrowaveandRadarEngineering": {
+        "OPEN": { "category": "OPEN", "score": "608" },
+        "OBC": { "category": "OBC", "score": "592" },
+        "EWS": { "category": "EWS", "score": "580" },
+        "SC": { "category": "SC", "score": "396" },
+        "ST": { "category": "ST", "score": "365" }
+      },
+      "MachineDesign&Analysis": {
+        "OPEN": { "category": "OPEN", "score": "713" },
+        "OBC": { "category": "OBC", "score": "678" },
+        "EWS": { "category": "EWS", "score": "667" },
+        "SC": { "category": "SC", "score": "495" },
+        "ST": { "category": "ST", "score": "352" }
+      },
+      "MiningEngineering": {
+        "OPEN": { "category": "OPEN", "score": "525" },
+        "OBC": { "category": "OBC", "score": "468" },
+        "EWS": { "category": "EWS", "score": "444" },
+        "SC": { "category": "SC", "score": "313" },
+        "ST": { "category": "ST", "score": "249" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "669" },
+        "OBC": { "category": "OBC", "score": "626" },
+        "EWS": { "category": "EWS", "score": "622" },
+        "SC": { "category": "SC", "score": "481" },
+        "ST": { "category": "ST", "score": "387" }
+      },
+      "PowerSystemEngineering": {
+        "OPEN": { "category": "OPEN", "score": "633" },
+        "OBC": { "category": "OBC", "score": "600" },
+        "EWS": { "category": "EWS", "score": "598" },
+        "SC": { "category": "SC", "score": "443" },
+        "ST": { "category": "ST", "score": "358" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "209" }
+      },
+      "ProductionEngineering": {
+        "OPEN": { "category": "OPEN", "score": "646" },
+        "EWS": { "category": "EWS", "score": "625" },
+        "OBC": { "category": "OBC", "score": "621" },
+        "SC": { "category": "SC", "score": "459" },
+        "ST": { "category": "ST", "score": "306" }
+      },
+      "SoftwareEngineering": {
+        "OPEN": { "category": "OPEN", "score": "643" },
+        "OBC": { "category": "OBC", "score": "581" },
+        "EWS": { "category": "EWS", "score": "612" },
+        "SC": { "category": "SC", "score": "457" },
+        "ST": { "category": "ST", "score": "348" }
+      },
+      "Signal&ImageProcessing": {
+        "OPEN": { "category": "OPEN", "score": "643" },
+        "OBC": { "category": "OBC", "score": "588" },
+        "EWS": { "category": "EWS", "score": "603" },
+        "SC": { "category": "SC", "score": "392" },
+        "ST": { "category": "ST", "score": "328" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "654" },
+        "EWS": { "category": "EWS", "score": "604" },
+        "OBC": { "category": "OBC", "score": "601" },
+        "SC": { "category": "SC", "score": "447" },
+        "ST": { "category": "ST", "score": "421" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "360" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "579" },
+        "SC": { "category": "SC", "score": "420" },
+        "OBC": { "category": "OBC", "score": "555" },
+        "EWS": { "category": "EWS", "score": "540" },
+        "ST": { "category": "ST", "score": "384" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "706" },
+        "OBC": { "category": "OBC", "score": "666" },
+        "EWS": { "category": "EWS", "score": "666" },
+        "SC": { "category": "SC", "score": "475" },
+        "ST": { "category": "ST", "score": "337" }
+      },
+      "Geo-technicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "581" },
+        "EWS": { "category": "EWS", "score": "537" },
+        "OBC": { "category": "OBC", "score": "540" },
+        "SC": { "category": "SC", "score": "396" },
+        "ST": { "category": "ST", "score": "380" }
+      },
+      "VLSIDesign&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "722" },
+        "EWS": { "category": "EWS", "score": "699" },
+        "OBC": { "category": "OBC", "score": "661" },
+        "SC": { "category": "SC", "score": "507" },
+        "ST": { "category": "ST", "score": "389" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "247" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "OBC": { "category": "OBC", "score": "499" },
+        "EWS": { "category": "EWS", "score": "498" },
+        "SC": { "category": "SC", "score": "391" },
+        "ST": { "category": "ST", "score": "318" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "292" }
+      },
+      "ComputerScience": {
+        "OPEN": { "category": "OPEN", "score": "696" },
+        "EWS": { "category": "EWS", "score": "655" },
+        "OBC": { "category": "OBC", "score": "624" },
+        "SC": { "category": "SC", "score": "507" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "457" },
+        "ST": { "category": "ST", "score": "426" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Silchar": {
+      "Control&IndustrialAutomation": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "OBC": { "category": "OBC", "score": "460" },
+        "SC": { "category": "SC", "score": "311" },
+        "ST": { "category": "ST", "score": "247" }
+      },
+      "CAD-CAM&Automation": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "OBC": { "category": "OBC", "score": "452" },
+        "EWS": { "category": "EWS", "score": "452" },
+        "SC": { "category": "SC", "score": "329" }
+      },
+      "Design&Manufacturing": {
+        "OPEN": { "category": "OPEN", "score": "541" },
+        "OBC": { "category": "OBC", "score": "482" },
+        "EWS": { "category": "EWS", "score": "467" },
+        "SC": { "category": "SC", "score": "309" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "443" },
+        "EWS": { "category": "EWS", "score": "437" },
+        "ST": { "category": "ST", "score": "329" },
+        "SC": { "category": "SC", "score": "327" }
+      },
+      "InstrumentationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "525" },
+        "OBC": { "category": "OBC", "score": "401" },
+        "EWS": { "category": "EWS", "score": "405" },
+        "SC": { "category": "SC", "score": "276" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "OBC": { "category": "OBC", "score": "519" },
+        "EWS": { "category": "EWS", "score": "519" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "356" }
+      },
+      "Material&ManufacturingTechnology": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "455" },
+        "EWS": { "category": "EWS", "score": "432" },
+        "SC": { "category": "SC", "score": "245" }
+      },
+      "Power&EnergySystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "510" },
+        "OBC": { "category": "OBC", "score": "473" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "SC": { "category": "SC", "score": "331" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "StructuralDynamics&EarthquakeEngineering": {
+        "OPEN": { "category": "OPEN", "score": "459" },
+        "OBC": { "category": "OBC", "score": "421" },
+        "EWS": { "category": "EWS", "score": "405" },
+        "SC": { "category": "SC", "score": "298" },
+        "ST": { "category": "ST", "score": "257" }
+      },
+      "Communication&SignalProcessing": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "OBC": { "category": "OBC", "score": "462" },
+        "EWS": { "category": "EWS", "score": "438" },
+        "SC": { "category": "SC", "score": "312" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "519" },
+        "OBC": { "category": "OBC", "score": "488" },
+        "EWS": { "category": "EWS", "score": "477" },
+        "SC": { "category": "SC", "score": "349" },
+        "ST": { "category": "ST", "score": "335" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "490" },
+        "OBC": { "category": "OBC", "score": "447" },
+        "EWS": { "category": "EWS", "score": "455" },
+        "SC": { "category": "SC", "score": "343" },
+        "ST": { "category": "ST", "score": "295" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "553" },
+        "OBC": { "category": "OBC", "score": "511" },
+        "EWS": { "category": "EWS", "score": "516" },
+        "SC": { "category": "SC", "score": "302" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "467" },
+        "OBC": { "category": "OBC", "score": "428" },
+        "EWS": { "category": "EWS", "score": "421" },
+        "SC": { "category": "SC", "score": "313" },
+        "ST": { "category": "ST", "score": "264" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "554" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "SC": { "category": "SC", "score": "406" },
+        "EWS": { "category": "EWS", "score": "449" },
+        "ST": { "category": "ST", "score": "289" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Srinagar": {
+      "ChemicalEngineering": { "OPEN": { "category": "OPEN", "score": "358" } },
+      "Communication&InformationTechnology": {
+        "OPEN": { "category": "OPEN", "score": "482" },
+        "OBC": { "category": "OBC", "score": "413" },
+        "EWS": { "category": "EWS", "score": "396" },
+        "ST": { "category": "ST", "score": "329" },
+        "SC": { "category": "SC", "score": "298" }
+      },
+      "ElectricalPowerandEnergySystem": {
+        "OPEN": { "category": "OPEN", "score": "468" },
+        "OBC": { "category": "OBC", "score": "417" },
+        "EWS": { "category": "EWS", "score": "387" },
+        "ST": { "category": "ST", "score": "345" },
+        "SC": { "category": "SC", "score": "294" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "286" }
+      },
+      "IndustrialTribology&MaintenanceManagement": {
+        "OPEN": { "category": "OPEN", "score": "440" },
+        "EWS": { "category": "EWS", "score": "386" },
+        "OBC": { "category": "OBC", "score": "373" },
+        "SC": { "category": "SC", "score": "241" }
+      },
+      "MechanicalSystemDesign": {
+        "OPEN": { "category": "OPEN", "score": "478" },
+        "OBC": { "category": "OBC", "score": "407" },
+        "EWS": { "category": "EWS", "score": "420" },
+        "SC": { "category": "SC", "score": "245" },
+        "ST": { "category": "ST", "score": "218" }
+      },
+      "PowerElectronics&ElectricalDrives": {
+        "OPEN": { "category": "OPEN", "score": "468" },
+        "OBC": { "category": "OBC", "score": "425" },
+        "EWS": { "category": "EWS", "score": "392" },
+        "SC": { "category": "SC", "score": "302" },
+        "ST": { "category": "ST", "score": "247" }
+      },
+      "Microelectronics": {
+        "OPEN": { "category": "OPEN", "score": "492" },
+        "OBC": { "category": "OBC", "score": "434" },
+        "EWS": { "category": "EWS", "score": "450" },
+        "ST": { "category": "ST", "score": "304" },
+        "SC": { "category": "SC", "score": "294" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "579" },
+        "EWS": { "category": "EWS", "score": "455" },
+        "OBC": { "category": "OBC", "score": "419" },
+        "ST": { "category": "ST", "score": "283" },
+        "SC": { "category": "SC", "score": "302" }
+      },
+      "Geo-technicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "565" },
+        "EWS": { "category": "EWS", "score": "430" },
+        "ST": { "category": "ST", "score": "440" },
+        "OBC": { "category": "OBC", "score": "416" },
+        "SC": { "category": "SC", "score": "299" }
+      },
+      "TransportationEngineering&Planning": {
+        "OPEN": { "category": "OPEN", "score": "551" },
+        "EWS": { "category": "EWS", "score": "455" },
+        "OBC": { "category": "OBC", "score": "412" },
+        "SC": { "category": "SC", "score": "317" },
+        "ST": { "category": "ST", "score": "278" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "544" },
+        "OBC": { "category": "OBC", "score": "411" },
+        "EWS": { "category": "EWS", "score": "428" },
+        "SC": { "category": "SC", "score": "298" },
+        "ST": { "category": "ST", "score": "271" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Tiruchirappalli": {
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "476" },
+        "EWS": { "category": "EWS", "score": "541" },
+        "OBC": { "category": "OBC", "score": "389" },
+        "SC": { "category": "SC", "score": "358" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "286" },
+        "ST": { "category": "ST", "score": "286" }
+      },
+      "CommunicationSystems": {
+        "OPEN": { "category": "OPEN", "score": "734" },
+        "EWS": { "category": "EWS", "score": "718" },
+        "OBC": { "category": "OBC", "score": "685" },
+        "SC": { "category": "SC", "score": "507" },
+        "ST": { "category": "ST", "score": "361" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "373" }
+      },
+      "DataAnalytics": {
+        "OPEN": { "category": "OPEN", "score": "741" },
+        "EWS": { "category": "EWS", "score": "721" },
+        "OBC": { "category": "OBC", "score": "678" },
+        "SC": { "category": "SC", "score": "546" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "476" },
+        "ST": { "category": "ST", "score": "364" }
+      },
+      "EnergyEfficient&SustainableArchitecture": {
+        "OPEN": { "category": "OPEN", "score": "567" },
+        "OBC": { "category": "OBC", "score": "472" },
+        "SC": { "category": "SC", "score": "308" },
+        "EWS": { "category": "EWS", "score": "359" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "EWS": { "category": "EWS", "score": "378" },
+        "OBC": { "category": "OBC", "score": "437" },
+        "SC": { "category": "SC", "score": "286" },
+        "ST": { "category": "ST", "score": "416" }
+      },
+      "EnergyEngineering": {
+        "OPEN": { "category": "OPEN", "score": "447" },
+        "OBC": { "category": "OBC", "score": "369" },
+        "EWS": { "category": "EWS", "score": "646" },
+        "SC": { "category": "SC", "score": "322" },
+        "ST": { "category": "ST", "score": "432" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "643" },
+        "OBC": { "category": "OBC", "score": "590" },
+        "EWS": { "category": "EWS", "score": "608" },
+        "SC": { "category": "SC", "score": "456" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "451" },
+        "ST": { "category": "ST", "score": "420" }
+      },
+      "IndustrialSafetyEngineering": {
+        "OPEN": { "category": "OPEN", "score": "609" },
+        "OBC": { "category": "OBC", "score": "453" },
+        "EWS": { "category": "EWS", "score": "669" },
+        "SC": { "category": "SC", "score": "441" },
+        "ST": { "category": "ST", "score": "369" }
+      },
+      "IndustrialAutomation": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "OBC": { "category": "OBC", "score": "603" },
+        "EWS": { "category": "EWS", "score": "608" },
+        "SC": { "category": "SC", "score": "425" },
+        "ST": { "category": "ST", "score": "239" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "235" }
+      },
+      "IndustrialEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "773" },
+        "OBC": { "category": "OBC", "score": "726" },
+        "EWS": { "category": "EWS", "score": "735" },
+        "SC": { "category": "SC", "score": "558" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "515" },
+        "ST": { "category": "ST", "score": "373" }
+      },
+      "IndustrialMetallurgy": {
+        "OPEN": { "category": "OPEN", "score": "382" },
+        "OBC": { "category": "OBC", "score": "322" },
+        "EWS": { "category": "EWS", "score": "370" },
+        "SC": { "category": "SC", "score": "268" },
+        "ST": { "category": "ST", "score": "89" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "241" }
+      },
+      "ManufacturingTechnology": {
+        "OPEN": { "category": "OPEN", "score": "733" },
+        "OBC": { "category": "OBC", "score": "697" },
+        "EWS": { "category": "EWS", "score": "710" },
+        "SC": { "category": "SC", "score": "546" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "457" },
+        "ST": { "category": "ST", "score": "384" }
+      },
+      "MaterialScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "454" },
+        "OBC": { "category": "OBC", "score": "418" },
+        "EWS": { "category": "EWS", "score": "394" },
+        "SC": { "category": "SC", "score": "223" },
+        "ST": { "category": "ST", "score": "148" }
+      },
+      "NonDestructiveTesting": {
+        "OPEN": { "category": "OPEN", "score": "682" },
+        "OBC": { "category": "OBC", "score": "653" },
+        "EWS": { "category": "EWS", "score": "654" },
+        "SC": { "category": "SC", "score": "459" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "356" },
+        "ST": { "category": "ST", "score": "331" }
+      },
+      "ProcessControlandInstrumentation": {
+        "OPEN": { "category": "OPEN", "score": "501" },
+        "OBC": { "category": "OBC", "score": "429" },
+        "EWS": { "category": "EWS", "score": "466" },
+        "SC": { "category": "SC", "score": "350" },
+        "ST": { "category": "ST", "score": "293" }
+      },
+      "PowerElectronics": {
+        "OPEN": { "category": "OPEN", "score": "749" },
+        "OBC": { "category": "OBC", "score": "700" },
+        "EWS": { "category": "EWS", "score": "721" },
+        "SC": { "category": "SC", "score": "548" },
+        "ST": { "category": "ST", "score": "457" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "226" }
+      },
+      "PowerSystems": {
+        "OPEN": { "category": "OPEN", "score": "725" },
+        "OBC": { "category": "OBC", "score": "669" },
+        "EWS": { "category": "EWS", "score": "700" },
+        "SC": { "category": "SC", "score": "528" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "439" },
+        "ST": { "category": "ST", "score": "413" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "749" },
+        "OBC": { "category": "OBC", "score": "696" },
+        "EWS": { "category": "EWS", "score": "701" },
+        "SC": { "category": "SC", "score": "554" },
+        "ST": { "category": "ST", "score": "508" },
+        "EWS-PwD": { "category": "EWS-PwD", "score": "365" }
+      },
+      "TransportationEngineering&Management": {
+        "OPEN": { "category": "OPEN", "score": "693" },
+        "OBC": { "category": "OBC", "score": "634" },
+        "EWS": { "category": "EWS", "score": "650" },
+        "SC": { "category": "SC", "score": "458" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "436" },
+        "ST": { "category": "ST", "score": "412" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "352" }
+      },
+      "ThermalPowerEngineering": {
+        "OPEN": { "category": "OPEN", "score": "768" },
+        "EWS": { "category": "EWS", "score": "757" },
+        "OBC": { "category": "OBC", "score": "737" },
+        "EWS-PwD": { "category": "EWS-PwD", "score": "621" },
+        "SC": { "category": "SC", "score": "578" },
+        "ST": { "category": "ST", "score": "539" }
+      },
+      "VLSISystem": {
+        "OPEN": { "category": "OPEN", "score": "795" },
+        "OBC": { "category": "OBC", "score": "737" },
+        "EWS": { "category": "EWS", "score": "746" },
+        "SC": { "category": "SC", "score": "545" },
+        "ST": { "category": "ST", "score": "460" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "389" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "319" }
+      },
+      "WeldingEngineering": {
+        "OPEN": { "category": "OPEN", "score": "430" },
+        "EWS": { "category": "EWS", "score": "398" },
+        "OBC": { "category": "OBC", "score": "346" },
+        "SC": { "category": "SC", "score": "268" },
+        "ST": { "category": "ST", "score": "310" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "317" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "118" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "779" },
+        "EWS": { "category": "EWS", "score": "764" },
+        "OBC": { "category": "OBC", "score": "659" },
+        "SC": { "category": "SC", "score": "486" },
+        "ST": { "category": "ST", "score": "312" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "515" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "265" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Warangal": {
+      "AdditiveManufacturing": {
+        "OPEN": { "category": "OPEN", "score": "666" },
+        "OBC": { "category": "OBC", "score": "642" },
+        "EWS": { "category": "EWS", "score": "646" },
+        "SC": { "category": "SC", "score": "440" }
+      },
+      "AutomobileEngineering": {
+        "OPEN": { "category": "OPEN", "score": "697" },
+        "OBC": { "category": "OBC", "score": "662" },
+        "EWS": { "category": "EWS", "score": "686" },
+        "SC": { "category": "SC", "score": "495" },
+        "ST": { "category": "ST", "score": "390" }
+      },
+      "AdvancedCommunicationSystems": {
+        "OPEN": { "category": "OPEN", "score": "701" },
+        "EWS": { "category": "EWS", "score": "685" },
+        "OBC": { "category": "OBC", "score": "661" },
+        "SC": { "category": "SC", "score": "470" },
+        "ST": { "category": "ST", "score": "356" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "243" }
+      },
+      "Biotechnology": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "EWS": { "category": "EWS", "score": "500" },
+        "OBC": { "category": "OBC", "score": "297" },
+        "SC": { "category": "SC", "score": "226" }
+      },
+      "WasteManagement": {
+        "OPEN": { "category": "OPEN", "score": "558" },
+        "EWS": { "category": "EWS", "score": "537" },
+        "OBC": { "category": "OBC", "score": "518" },
+        "SC": { "category": "SC", "score": "343" },
+        "ST": { "category": "ST", "score": "298" }
+      },
+      "SmartElectricGrid": {
+        "OPEN": { "category": "OPEN", "score": "656" },
+        "OBC": { "category": "OBC", "score": "605" },
+        "EWS": { "category": "EWS", "score": "596" },
+        "SC": { "category": "SC", "score": "428" },
+        "ST": { "category": "ST", "score": "358" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "521" },
+        "EWS": { "category": "EWS", "score": "461" },
+        "OBC": { "category": "OBC", "score": "421" },
+        "SC": { "category": "SC", "score": "322" },
+        "ST": { "category": "ST", "score": "205" }
+      },
+      "ConstructionTechnologyandManagement": {
+        "OPEN": { "category": "OPEN", "score": "637" },
+        "OBC": { "category": "OBC", "score": "592" },
+        "EWS": { "category": "EWS", "score": "581" },
+        "ST": { "category": "ST", "score": "454" },
+        "SC": { "category": "SC", "score": "421" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "263" }
+      },
+      "ComputerScience&InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "748" },
+        "OBC": { "category": "OBC", "score": "678" },
+        "EWS": { "category": "EWS", "score": "737" },
+        "SC": { "category": "SC", "score": "546" },
+        "ST": { "category": "ST", "score": "441" }
+      },
+      "ElectronicsInstrumentation": {
+        "OPEN": { "category": "OPEN", "score": "705" },
+        "EWS": { "category": "EWS", "score": "697" },
+        "OBC": { "category": "OBC", "score": "666" },
+        "SC": { "category": "SC", "score": "474" },
+        "ST": { "category": "ST", "score": "356" },
+        "EWS-PwD": { "category": "EWS-PwD", "score": "283" }
+      },
+      "EngineeringStructures": {
+        "OPEN": { "category": "OPEN", "score": "703" },
+        "EWS": { "category": "EWS", "score": "689" },
+        "OBC": { "category": "OBC", "score": "650" },
+        "SC": { "category": "SC", "score": "459" },
+        "ST": { "category": "ST", "score": "507" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "585" },
+        "OBC": { "category": "OBC", "score": "554" },
+        "EWS": { "category": "EWS", "score": "530" },
+        "SC": { "category": "SC", "score": "413" },
+        "ST": { "category": "ST", "score": "380" }
+      },
+      "IndustrialMetallurgy": {
+        "OPEN": { "category": "OPEN", "score": "630" },
+        "OBC": { "category": "OBC", "score": "586" },
+        "EWS": { "category": "EWS", "score": "571" },
+        "SC": { "category": "SC", "score": "369" },
+        "ST": { "category": "ST", "score": "237" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "107" }
+      },
+      "MaterialsandSystemsEngineeringDesign": {
+        "OPEN": { "category": "OPEN", "score": "678" },
+        "OBC": { "category": "OBC", "score": "634" },
+        "EWS": { "category": "EWS", "score": "634" },
+        "SC": { "category": "SC", "score": "440" },
+        "ST": { "category": "ST", "score": "382" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "305" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "768" },
+        "OBC": { "category": "OBC", "score": "725" },
+        "EWS": { "category": "EWS", "score": "756" },
+        "SC": { "category": "SC", "score": "575" },
+        "ST": { "category": "ST", "score": "533" }
+      },
+      "ManufacturingEngineering": {
+        "OPEN": { "category": "OPEN", "score": "718" },
+        "EWS": { "category": "EWS", "score": "688" },
+        "OBC": { "category": "OBC", "score": "674" },
+        "SC": { "category": "SC", "score": "539" },
+        "ST": { "category": "ST", "score": "398" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "720" },
+        "EWS": { "category": "EWS", "score": "694" },
+        "OBC": { "category": "OBC", "score": "660" },
+        "SC": { "category": "SC", "score": "537" },
+        "ST": { "category": "ST", "score": "447" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "345" }
+      },
+      "ProcessControl": {
+        "OPEN": { "category": "OPEN", "score": "529" },
+        "OBC": { "category": "OBC", "score": "381" },
+        "EWS": { "category": "EWS", "score": "497" },
+        "SC": { "category": "SC", "score": "286" },
+        "ST": { "category": "ST", "score": "332" }
+      },
+      "PowerSystemsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "698" },
+        "EWS": { "category": "EWS", "score": "675" },
+        "OBC": { "category": "OBC", "score": "643" },
+        "ST": { "category": "ST", "score": "413" },
+        "SC": { "category": "SC", "score": "494" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "379" }
+      },
+      "RemoteSensing&GeographicInformationSystems": {
+        "OPEN": { "category": "OPEN", "score": "556" },
+        "OBC": { "category": "OBC", "score": "515" },
+        "EWS": { "category": "EWS", "score": "491" },
+        "SC": { "category": "SC", "score": "372" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "310" },
+        "ST": { "category": "ST", "score": "288" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "650" },
+        "OBC": { "category": "OBC", "score": "615" },
+        "EWS": { "category": "EWS", "score": "585" },
+        "SC": { "category": "SC", "score": "456" },
+        "ST": { "category": "ST", "score": "409" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "432" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "747" },
+        "EWS": { "category": "EWS", "score": "714" },
+        "OBC": { "category": "OBC", "score": "709" },
+        "SC": { "category": "SC", "score": "562" },
+        "ST": { "category": "ST", "score": "444" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "281" }
+      },
+      "Geo-technicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "622" },
+        "OBC": { "category": "OBC", "score": "574" },
+        "EWS": { "category": "EWS", "score": "604" },
+        "SC": { "category": "SC", "score": "423" },
+        "ST": { "category": "ST", "score": "409" },
+        "EWS-PwD": { "category": "EWS-PwD", "score": "235" }
+      },
+      "MaterialsTechnology": {
+        "OPEN": { "category": "OPEN", "score": "621" },
+        "OBC": { "category": "OBC", "score": "583" },
+        "EWS": { "category": "EWS", "score": "571" },
+        "SC": { "category": "SC", "score": "365" },
+        "ST": { "category": "ST", "score": "313" }
+      },
+      "VLSISystemsDesign": {
+        "OPEN": { "category": "OPEN", "score": "766" },
+        "EWS": { "category": "EWS", "score": "750" },
+        "OBC": { "category": "OBC", "score": "722" },
+        "SC": { "category": "SC", "score": "571" },
+        "ST": { "category": "ST", "score": "449" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "292" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "555" },
+        "OBC": { "category": "OBC", "score": "530" },
+        "EWS": { "category": "EWS", "score": "526" },
+        "SC": { "category": "SC", "score": "413" },
+        "ST": { "category": "ST", "score": "359" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "246" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "779" },
+        "EWS": { "category": "EWS", "score": "756" },
+        "OBC": { "category": "OBC", "score": "713" },
+        "SC": { "category": "SC", "score": "581" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "539" },
+        "ST": { "category": "ST", "score": "492" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "402" }
+      },
+      "ComputerIntegratedManufacturing": {
+        "OPEN": { "category": "OPEN", "score": "676" },
+        "EWS": { "category": "EWS", "score": "646" },
+        "OBC": { "category": "OBC", "score": "651" },
+        "SC": { "category": "SC", "score": "451" },
+        "ST": { "category": "ST", "score": "297" }
+      }
+    }
+  },
+  {
+    "Sardar Vallabhbhai National Institute of Technology, Surat": {
+      "CAD-CAM": {
+        "OPEN": { "category": "OPEN", "score": "579" },
+        "OBC": { "category": "OBC", "score": "525" },
+        "EWS": { "category": "EWS", "score": "571" },
+        "ST": { "category": "ST", "score": "261" },
+        "SC": { "category": "SC", "score": "323" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "421" },
+        "EWS": { "category": "EWS", "score": "381" },
+        "OBC": { "category": "OBC", "score": "330" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "369" },
+        "SC": { "category": "SC", "score": "214" },
+        "ST": { "category": "ST", "score": "286" }
+      },
+      "ConstructionTechnologyandManagement": {
+        "OPEN": { "category": "OPEN", "score": "562" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "522" },
+        "SC": { "category": "SC", "score": "354" },
+        "ST": { "category": "ST", "score": "295" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "510" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "OBC": { "category": "OBC", "score": "477" },
+        "SC": { "category": "SC", "score": "361" },
+        "ST": { "category": "ST", "score": "313" }
+      },
+      "InstrumentationandControl": {
+        "OPEN": { "category": "OPEN", "score": "559" },
+        "EWS": { "category": "EWS", "score": "534" },
+        "OBC": { "category": "OBC", "score": "527" },
+        "SC": { "category": "SC", "score": "336" },
+        "ST": { "category": "ST", "score": "296" }
+      },
+      "MechanicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "OBC": { "category": "OBC", "score": "575" },
+        "EWS": { "category": "EWS", "score": "596" },
+        "SC": { "category": "SC", "score": "387" },
+        "ST": { "category": "ST", "score": "329" }
+      },
+      "ManufacturingEngineering": {
+        "OPEN": { "category": "OPEN", "score": "594" },
+        "EWS": { "category": "EWS", "score": "579" },
+        "OBC": { "category": "OBC", "score": "559" },
+        "SC": { "category": "SC", "score": "390" },
+        "ST": { "category": "ST", "score": "276" }
+      },
+      "CommunicationSystem": {
+        "OPEN": { "category": "OPEN", "score": "580" },
+        "EWS": { "category": "EWS", "score": "531" },
+        "OBC": { "category": "OBC", "score": "531" },
+        "SC": { "category": "SC", "score": "348" },
+        "ST": { "category": "ST", "score": "296" }
+      },
+      "PowerElectronics&ElectricalDrives": {
+        "OPEN": { "category": "OPEN", "score": "605" },
+        "OBC": { "category": "OBC", "score": "571" },
+        "EWS": { "category": "EWS", "score": "573" },
+        "SC": { "category": "SC", "score": "400" },
+        "ST": { "category": "ST", "score": "298" }
+      },
+      "SoilMechanics&FoundationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "533" },
+        "OBC": { "category": "OBC", "score": "499" },
+        "EWS": { "category": "EWS", "score": "483" },
+        "SC": { "category": "SC", "score": "372" },
+        "ST": { "category": "ST", "score": "324" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "600" },
+        "OBC": { "category": "OBC", "score": "557" },
+        "EWS": { "category": "EWS", "score": "558" },
+        "SC": { "category": "SC", "score": "409" },
+        "ST": { "category": "ST", "score": "365" }
+      },
+      "ThermalSystemsDesign": {
+        "OPEN": { "category": "OPEN", "score": "638" },
+        "OBC": { "category": "OBC", "score": "589" },
+        "EWS": { "category": "EWS", "score": "610" },
+        "ST": { "category": "ST", "score": "321" },
+        "SC": { "category": "SC", "score": "420" }
+      },
+      "PowerSystem": {
+        "OPEN": { "category": "OPEN", "score": "579" },
+        "OBC": { "category": "OBC", "score": "538" },
+        "EWS": { "category": "EWS", "score": "554" },
+        "SC": { "category": "SC", "score": "392" },
+        "ST": { "category": "ST", "score": "302" }
+      },
+      "TurboMachines": {
+        "OPEN": { "category": "OPEN", "score": "569" },
+        "OBC": { "category": "OBC", "score": "516" },
+        "EWS": { "category": "EWS", "score": "535" },
+        "SC": { "category": "SC", "score": "347" },
+        "ST": { "category": "ST", "score": "269" }
+      },
+      "TransportationEngineering&Planning": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "OBC": { "category": "OBC", "score": "518" },
+        "EWS": { "category": "EWS", "score": "518" },
+        "ST": { "category": "ST", "score": "436" },
+        "SC": { "category": "SC", "score": "377" }
+      },
+      "UrbanPlanning": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "459" },
+        "EWS": { "category": "EWS", "score": "420" },
+        "SC": { "category": "SC", "score": "315" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "306" },
+        "ST": { "category": "ST", "score": "271" }
+      },
+      "VLSI&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "641" },
+        "OBC": { "category": "OBC", "score": "592" },
+        "EWS": { "category": "EWS", "score": "600" },
+        "SC": { "category": "SC", "score": "419" },
+        "ST": { "category": "ST", "score": "320" }
+      },
+      "WaterResourceEngineering": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "OBC": { "category": "OBC", "score": "463" },
+        "EWS": { "category": "EWS", "score": "444" },
+        "SC": { "category": "SC", "score": "339" },
+        "ST": { "category": "ST", "score": "272" }
+      },
+      "ComputerEngineering": {
+        "OPEN": { "category": "OPEN", "score": "639" },
+        "EWS": { "category": "EWS", "score": "608" },
+        "OBC": { "category": "OBC", "score": "554" },
+        "SC": { "category": "SC", "score": "449" },
+        "ST": { "category": "ST", "score": "313" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "270" }
+      }
+    }
+  },
+  {
+    "Visvesvaraya National Institute of Technology, Nagpur": {
+      "CAD-CAM": {
+        "OPEN": { "category": "OPEN", "score": "615" },
+        "OBC": { "category": "OBC", "score": "563" },
+        "EWS": { "category": "EWS", "score": "550" },
+        "SC": { "category": "SC", "score": "365" },
+        "ST": { "category": "ST", "score": "260" }
+      },
+      "ChemicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "437" },
+        "OBC": { "category": "OBC", "score": "366" },
+        "EWS": { "category": "EWS", "score": "366" },
+        "SC": { "category": "SC", "score": "218" }
+      },
+      "CommunicationSystemEngineering": {
+        "OPEN": { "category": "OPEN", "score": "608" },
+        "OBC": { "category": "OBC", "score": "555" },
+        "EWS": { "category": "EWS", "score": "563" },
+        "SC": { "category": "SC", "score": "385" },
+        "ST": { "category": "ST", "score": "292" }
+      },
+      "ConstructionTechnologyandManagement": {
+        "OPEN": { "category": "OPEN", "score": "578" },
+        "OBC": { "category": "OBC", "score": "537" },
+        "EWS": { "category": "EWS", "score": "540" },
+        "SC": { "category": "SC", "score": "395" },
+        "ST": { "category": "ST", "score": "296" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "533" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "488" },
+        "SC": { "category": "SC", "score": "385" },
+        "ST": { "category": "ST", "score": "290" }
+      },
+      "ExcavationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "458" },
+        "OBC": { "category": "OBC", "score": "435" },
+        "EWS": { "category": "EWS", "score": "432" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "242" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "541" },
+        "OBC": { "category": "OBC", "score": "518" },
+        "EWS": { "category": "EWS", "score": "491" },
+        "SC": { "category": "SC", "score": "380" },
+        "ST": { "category": "ST", "score": "292" }
+      },
+      "HeatPowerEngineering": {
+        "OPEN": { "category": "OPEN", "score": "630" },
+        "EWS": { "category": "EWS", "score": "618" },
+        "OBC": { "category": "OBC", "score": "588" },
+        "SC": { "category": "SC", "score": "369" },
+        "ST": { "category": "ST", "score": "257" }
+      },
+      "IndustrialEngineering": {
+        "OPEN": { "category": "OPEN", "score": "606" },
+        "EWS": { "category": "EWS", "score": "555" },
+        "OBC": { "category": "OBC", "score": "558" },
+        "SC": { "category": "SC", "score": "394" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "IntegratedPowerSystems": {
+        "OPEN": { "category": "OPEN", "score": "592" },
+        "OBC": { "category": "OBC", "score": "562" },
+        "EWS": { "category": "EWS", "score": "520" },
+        "SC": { "category": "SC", "score": "411" },
+        "ST": { "category": "ST", "score": "332" }
+      },
+      "MaterialsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "527" },
+        "OBC": { "category": "OBC", "score": "495" },
+        "EWS": { "category": "EWS", "score": "461" },
+        "SC": { "category": "SC", "score": "293" },
+        "ST": { "category": "ST", "score": "213" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "619" },
+        "EWS": { "category": "EWS", "score": "580" },
+        "OBC": { "category": "OBC", "score": "583" },
+        "SC": { "category": "SC", "score": "426" },
+        "ST": { "category": "ST", "score": "345" }
+      },
+      "ProcessMetallurgy": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "OBC": { "category": "OBC", "score": "448" },
+        "EWS": { "category": "EWS", "score": "424" },
+        "SC": { "category": "SC", "score": "284" }
+      },
+      "StructuralDynamics&EarthquakeEngineering": {
+        "OPEN": { "category": "OPEN", "score": "561" },
+        "EWS": { "category": "EWS", "score": "540" },
+        "OBC": { "category": "OBC", "score": "496" },
+        "SC": { "category": "SC", "score": "350" },
+        "ST": { "category": "ST", "score": "281" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "641" },
+        "OBC": { "category": "OBC", "score": "585" },
+        "EWS": { "category": "EWS", "score": "581" },
+        "SC": { "category": "SC", "score": "455" },
+        "ST": { "category": "ST", "score": "348" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "563" },
+        "OBC": { "category": "OBC", "score": "529" },
+        "EWS": { "category": "EWS", "score": "525" },
+        "SC": { "category": "SC", "score": "405" },
+        "ST": { "category": "ST", "score": "339" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "283" }
+      },
+      "UrbanPlanning": {
+        "OPEN": { "category": "OPEN", "score": "517" },
+        "OBC": { "category": "OBC", "score": "460" },
+        "EWS": { "category": "EWS", "score": "459" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "449" },
+        "SC": { "category": "SC", "score": "269" },
+        "ST": { "category": "ST", "score": "230" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "665" },
+        "EWS": { "category": "EWS", "score": "657" },
+        "OBC": { "category": "OBC", "score": "608" },
+        "SC": { "category": "SC", "score": "454" },
+        "ST": { "category": "ST", "score": "338" }
+      },
+      "WaterResourceEngineering": {
+        "OPEN": { "category": "OPEN", "score": "522" },
+        "OBC": { "category": "OBC", "score": "484" },
+        "EWS": { "category": "EWS", "score": "466" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "283" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "663" },
+        "EWS": { "category": "EWS", "score": "614" },
+        "OBC": { "category": "OBC", "score": "577" },
+        "SC": { "category": "SC", "score": "472" },
+        "ST": { "category": "ST", "score": "360" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "247" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Uttarakhand": {
+      "ArtificialIntelligence": {
+        "OPEN": { "category": "OPEN", "score": "589" },
+        "OBC": { "category": "OBC", "score": "457" },
+        "EWS": { "category": "EWS", "score": "523" },
+        "SC": { "category": "SC", "score": "437" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "352" },
+        "ST": { "category": "ST", "score": "278" }
+      },
+      "CommunicationSystems": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "OBC": { "category": "OBC", "score": "450" },
+        "EWS": { "category": "EWS", "score": "425" },
+        "SC": { "category": "SC", "score": "323" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "533" },
+        "EWS": { "category": "EWS", "score": "531" },
+        "OBC": { "category": "OBC", "score": "471" },
+        "SC": { "category": "SC", "score": "297" }
+      },
+      "ManufacturingTechnology": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "OBC": { "category": "OBC", "score": "459" },
+        "EWS": { "category": "EWS", "score": "436" },
+        "SC": { "category": "SC", "score": "282" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "470" },
+        "EWS": { "category": "EWS", "score": "474" },
+        "SC": { "category": "SC", "score": "446" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "OBC": { "category": "OBC", "score": "468" },
+        "SC": { "category": "SC", "score": "337" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "PowerSystem&Control": {
+        "OPEN": { "category": "OPEN", "score": "507" },
+        "OBC": { "category": "OBC", "score": "468" },
+        "EWS": { "category": "EWS", "score": "443" },
+        "SC": { "category": "SC", "score": "332" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "506" },
+        "OBC": { "category": "OBC", "score": "441" },
+        "EWS": { "category": "EWS", "score": "466" },
+        "SC": { "category": "SC", "score": "376" },
+        "ST": { "category": "ST", "score": "288" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "498" },
+        "EWS": { "category": "EWS", "score": "469" },
+        "OBC": { "category": "OBC", "score": "451" },
+        "SC": { "category": "SC", "score": "335" }
+      },
+      "ComputingSystems": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "OBC": { "category": "OBC", "score": "422" },
+        "SC": { "category": "SC", "score": "317" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology Mizoram": {
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "470" },
+        "OBC": { "category": "OBC", "score": "417" },
+        "EWS": { "category": "EWS", "score": "381" },
+        "SC": { "category": "SC", "score": "288" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "460" },
+        "OBC": { "category": "OBC", "score": "426" },
+        "EWS": { "category": "EWS", "score": "405" },
+        "SC": { "category": "SC", "score": "290" },
+        "ST": { "category": "ST", "score": "221" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "467" },
+        "OBC": { "category": "OBC", "score": "437" },
+        "EWS": { "category": "EWS", "score": "422" },
+        "SC": { "category": "SC", "score": "277" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "402" },
+        "EWS": { "category": "EWS", "score": "406" },
+        "SC": { "category": "SC", "score": "301" },
+        "ST": { "category": "ST", "score": "251" }
+      }
+    }
+  },
+  {
+    "National Institute of Technology, Andhra Pradesh": {
+      "AdvancedCommunicationSystemsandSignalProcessing": {
+        "OPEN": { "category": "OPEN", "score": "547" },
+        "EWS": { "category": "EWS", "score": "539" },
+        "OBC": { "category": "OBC", "score": "496" },
+        "SC": { "category": "SC", "score": "462" },
+        "ST": { "category": "ST", "score": "271" }
+      },
+      "ComputerScienceandDataAnalytics": {
+        "OPEN": { "category": "OPEN", "score": "531" },
+        "OBC": { "category": "OBC", "score": "449" },
+        "EWS": { "category": "EWS", "score": "433" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "263" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "514" },
+        "OBC": { "category": "OBC", "score": "476" },
+        "EWS": { "category": "EWS", "score": "451" },
+        "SC": { "category": "SC", "score": "352" }
+      },
+      "ManufacturingEngineering": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "OBC": { "category": "OBC", "score": "491" },
+        "EWS": { "category": "EWS", "score": "449" },
+        "SC": { "category": "SC", "score": "318" }
+      },
+      "PowerElectronics&Drives": {
+        "OPEN": { "category": "OPEN", "score": "571" },
+        "OBC": { "category": "OBC", "score": "510" },
+        "EWS": { "category": "EWS", "score": "478" },
+        "SC": { "category": "SC", "score": "353" },
+        "ST": { "category": "ST", "score": "298" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "559" },
+        "OBC": { "category": "OBC", "score": "516" },
+        "EWS": { "category": "EWS", "score": "482" },
+        "SC": { "category": "SC", "score": "337" },
+        "ST": { "category": "ST", "score": "273" }
+      }
+    }
+  },
+  {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology &amp; Management Gwalior": {
+      "DigitalCommunication": {
+        "OPEN": { "category": "OPEN", "score": "482" },
+        "EWS": { "category": "EWS", "score": "469" },
+        "OBC": { "category": "OBC", "score": "413" },
+        "SC": { "category": "SC", "score": "296" }
+      },
+      "InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "570" },
+        "OBC": { "category": "OBC", "score": "453" },
+        "EWS": { "category": "EWS", "score": "519" },
+        "SC": { "category": "SC", "score": "387" }
+      },
+      "VLSI&EmbeddedSystems": {
+        "OPEN": { "category": "OPEN", "score": "575" },
+        "EWS": { "category": "EWS", "score": "492" },
+        "OBC": { "category": "OBC", "score": "490" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "255" }
+      },
+      "ComputerNetworking": {
+        "OPEN": { "category": "OPEN", "score": "535" },
+        "EWS": { "category": "EWS", "score": "523" },
+        "OBC": { "category": "OBC", "score": "445" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "278" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Information Technology, Allahabad": {
+      "Bio-informatics": {
+        "OPEN": { "category": "OPEN", "score": "601" },
+        "EWS": { "category": "EWS", "score": "552" },
+        "OBC": { "category": "OBC", "score": "457" },
+        "SC": { "category": "SC", "score": "383" },
+        "ST": { "category": "ST", "score": "263" }
+      },
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "604" },
+        "OBC": { "category": "OBC", "score": "539" },
+        "EWS": { "category": "EWS", "score": "571" },
+        "SC": { "category": "SC", "score": "356" },
+        "ST": { "category": "ST", "score": "271" }
+      },
+      "InformationTechnology": {
+        "OPEN": { "category": "OPEN", "score": "663" },
+        "EWS": { "category": "EWS", "score": "616" },
+        "OBC": { "category": "OBC", "score": "589" },
+        "SC": { "category": "SC", "score": "418" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "282" },
+        "ST": { "category": "ST", "score": "282" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "255" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Information Technology, Design &amp; Manufacturing Kancheepuram, Chennai": {
+      "ElectronicsandCommunicationEngineering(Spl:CommunicationSystemsDesign)": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "OBC": { "category": "OBC", "score": "478" },
+        "EWS": { "category": "EWS", "score": "446" },
+        "SC": { "category": "SC", "score": "320" }
+      },
+      "ElectronicsandCommunicationEngineering(Spl:ElectronicsSystemsDesign)": {
+        "OPEN": { "category": "OPEN", "score": "554" },
+        "OBC": { "category": "OBC", "score": "490" },
+        "EWS": { "category": "EWS", "score": "450" },
+        "SC": { "category": "SC", "score": "316" },
+        "ST": { "category": "ST", "score": "248" }
+      },
+      "MechanicalEngineering(Spl:SmartManufacturing)": {
+        "OPEN": { "category": "OPEN", "score": "542" },
+        "OBC": { "category": "OBC", "score": "463" },
+        "EWS": { "category": "EWS", "score": "445" },
+        "SC": { "category": "SC", "score": "289" },
+        "ST": { "category": "ST", "score": "225" }
+      },
+      "MechanicalEngineering(Spl:MechanicalSystemsDesign)": {
+        "OPEN": { "category": "OPEN", "score": "539" },
+        "OBC": { "category": "OBC", "score": "491" },
+        "EWS": { "category": "EWS", "score": "515" },
+        "SC": { "category": "SC", "score": "302" },
+        "ST": { "category": "ST", "score": "218" }
+      }
+    }
+  },
+  {
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design &amp; Manufacture Jabalpur": {
+      "CAD-CAM": {
+        "OPEN": { "category": "OPEN", "score": "510" },
+        "OBC": { "category": "OBC", "score": "461" },
+        "EWS": { "category": "EWS", "score": "440" },
+        "SC": { "category": "SC", "score": "293" },
+        "ST": { "category": "ST", "score": "245" }
+      },
+      "Design": {
+        "OPEN": { "category": "OPEN", "score": "542" },
+        "EWS": { "category": "EWS", "score": "498" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "SC": { "category": "SC", "score": "297" }
+      },
+      "Manufacturing": {
+        "OPEN": { "category": "OPEN", "score": "529" },
+        "OBC": { "category": "OBC", "score": "448" },
+        "EWS": { "category": "EWS", "score": "444" },
+        "SC": { "category": "SC", "score": "292" }
+      },
+      "Mechatronics": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "EWS": { "category": "EWS", "score": "466" },
+        "OBC": { "category": "OBC", "score": "420" },
+        "SC": { "category": "SC", "score": "294" }
+      },
+      "MicroNanoElectronics": {
+        "OPEN": { "category": "OPEN", "score": "515" },
+        "EWS": { "category": "EWS", "score": "486" },
+        "OBC": { "category": "OBC", "score": "438" },
+        "SC": { "category": "SC", "score": "296" }
+      },
+      "Power&Control": {
+        "OPEN": { "category": "OPEN", "score": "524" },
+        "OBC": { "category": "OBC", "score": "451" },
+        "EWS": { "category": "EWS", "score": "468" },
+        "SC": { "category": "SC", "score": "315" }
+      },
+      "Microwave&CommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "498" },
+        "OBC": { "category": "OBC", "score": "438" },
+        "EWS": { "category": "EWS", "score": "438" },
+        "SC": { "category": "SC", "score": "296" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "542" },
+        "OBC": { "category": "OBC", "score": "453" },
+        "EWS": { "category": "EWS", "score": "453" },
+        "SC": { "category": "SC", "score": "371" },
+        "ST": { "category": "ST", "score": "363" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Information Technology Vadodara": {
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "OBC": { "category": "OBC", "score": "419" },
+        "EWS": { "category": "EWS", "score": "389" },
+        "SC": { "category": "SC", "score": "283" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "527" },
+        "EWS": { "category": "EWS", "score": "434" },
+        "OBC": { "category": "OBC", "score": "430" },
+        "SC": { "category": "SC", "score": "336" },
+        "ST": { "category": "ST", "score": "259" }
+      }
+    }
+  },
+  {
+    "International Institute of Information Technology, Bhubaneswar": {
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "535" },
+        "EWS": { "category": "EWS", "score": "433" },
+        "OBC": { "category": "OBC", "score": "430" },
+        "SC": { "category": "SC", "score": "364" },
+        "ST": { "category": "ST", "score": "259" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "239" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Information Technology, Lucknow": {
+      "ComputerScience": {
+        "OPEN": { "category": "OPEN", "score": "593" },
+        "OBC": { "category": "OBC", "score": "461" },
+        "EWS": { "category": "EWS", "score": "531" },
+        "SC": { "category": "SC", "score": "387" },
+        "ST": { "category": "ST", "score": "259" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Information Technology, Pune": {
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "535" },
+        "OBC": { "category": "OBC", "score": "490" },
+        "EWS": { "category": "EWS", "score": "490" },
+        "SC": { "category": "SC", "score": "320" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "597" },
+        "EWS": { "category": "EWS", "score": "554" },
+        "OBC": { "category": "OBC", "score": "500" },
+        "SC": { "category": "SC", "score": "364" },
+        "ST": { "category": "ST", "score": "289" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Information Technology, Design and Manufacturing, Kurnool": {
+      "ComputerScienceandEngineeringwithspecializationinDataAnalyticsandDecisionSciences": {
+        "OPEN": { "category": "OPEN", "score": "504" },
+        "OBC": { "category": "OBC", "score": "426" },
+        "EWS": { "category": "EWS", "score": "406" },
+        "SC": { "category": "SC", "score": "336" },
+        "ST": { "category": "ST", "score": "248" }
+      },
+      "ElectronicsSystemDesign": {
+        "OPEN": { "category": "OPEN", "score": "482" },
+        "OBC": { "category": "OBC", "score": "446" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "320" },
+        "ST": { "category": "ST", "score": "267" }
+      },
+      "SmartManufacturing": {
+        "OPEN": { "category": "OPEN", "score": "414" },
+        "OBC": { "category": "OBC", "score": "370" },
+        "EWS": { "category": "EWS", "score": "386" },
+        "SC": { "category": "SC", "score": "277" }
+      }
+    }
+  },
+  {
+    "National Institute of Foundry &amp; Forge Technology, Hatia, Ranchi": {
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "454" },
+        "EWS": { "category": "EWS", "score": "411" },
+        "OBC": { "category": "OBC", "score": "417" },
+        "SC": { "category": "SC", "score": "294" },
+        "ST": { "category": "ST", "score": "283" }
+      },
+      "FoundryForgeTechnology": {
+        "OPEN": { "category": "OPEN", "score": "466" },
+        "OBC": { "category": "OBC", "score": "385" },
+        "EWS": { "category": "EWS", "score": "373" },
+        "SC": { "category": "SC", "score": "222" }
+      },
+      "MaterialScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "425" },
+        "OBC": { "category": "OBC", "score": "377" },
+        "EWS": { "category": "EWS", "score": "356" },
+        "SC": { "category": "SC", "score": "234" }
+      },
+      "ManufacturingEngineering": {
+        "OPEN": { "category": "OPEN", "score": "453" },
+        "OBC": { "category": "OBC", "score": "398" },
+        "EWS": { "category": "EWS", "score": "382" },
+        "SC": { "category": "SC", "score": "247" }
+      }
+    }
+  },
+  {
+    "Sant Longowal Institute of Engineering and Technology": {
+      "ChemicalEngineering": { "OPEN": { "category": "OPEN", "score": "413" } },
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "464" },
+        "OBC": { "category": "OBC", "score": "405" },
+        "EWS": { "category": "EWS", "score": "395" },
+        "SC": { "category": "SC", "score": "281" }
+      },
+      "FoodEngineering&Technology": {
+        "OPEN": { "category": "OPEN", "score": "418" },
+        "OBC": { "category": "OBC", "score": "329" },
+        "SC": { "category": "SC", "score": "245" },
+        "EWS": { "category": "EWS", "score": "387" },
+        "ST": { "category": "ST", "score": "186" }
+      },
+      "Instrumentation&ControlEngineering": {
+        "OPEN": { "category": "OPEN", "score": "472" },
+        "OBC": { "category": "OBC", "score": "409" },
+        "EWS": { "category": "EWS", "score": "368" },
+        "SC": { "category": "SC", "score": "311" },
+        "ST": { "category": "ST", "score": "217" }
+      },
+      "ManufacturingSystemEngineering": {
+        "OPEN": { "category": "OPEN", "score": "432" },
+        "OBC": { "category": "OBC", "score": "386" },
+        "EWS": { "category": "EWS", "score": "376" },
+        "SC": { "category": "SC", "score": "241" }
+      },
+      "Welding&Fabrication": {
+        "OPEN": { "category": "OPEN", "score": "436" },
+        "OBC": { "category": "OBC", "score": "380" },
+        "EWS": { "category": "EWS", "score": "354" },
+        "SC": { "category": "SC", "score": "243" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "472" },
+        "OBC": { "category": "OBC", "score": "402" },
+        "EWS": { "category": "EWS", "score": "370" },
+        "SC": { "category": "SC", "score": "298" }
+      }
+    }
+  },
+  {
+    "School of Planning &amp; Architecture: Vijayawada": {
+      "ArchitecturalConservation": {
+        "OPEN": { "category": "OPEN", "score": "500" },
+        "OBC": { "category": "OBC", "score": "398" },
+        "SC": { "category": "SC", "score": "241" }
+      },
+      "BuildingEngineeringandManagement": {
+        "OPEN": { "category": "OPEN", "score": "573" },
+        "OBC": { "category": "OBC", "score": "494" },
+        "EWS": { "category": "EWS", "score": "505" },
+        "SC": { "category": "SC", "score": "387" },
+        "ST": { "category": "ST", "score": "331" }
+      },
+      "EnvironmentalPlanning&Management": {
+        "OPEN": { "category": "OPEN", "score": "550" },
+        "OBC": { "category": "OBC", "score": "432" },
+        "EWS": { "category": "EWS", "score": "437" },
+        "SC": { "category": "SC", "score": "309" },
+        "ST": { "category": "ST", "score": "261" }
+      },
+      "LandscapeArchitecture": {
+        "OPEN": { "category": "OPEN", "score": "525" },
+        "OBC": { "category": "OBC", "score": "421" },
+        "SC": { "category": "SC", "score": "263" },
+        "ST": { "category": "ST", "score": "230" }
+      },
+      "SustainableArchitecture": {
+        "OPEN": { "category": "OPEN", "score": "584" },
+        "OBC": { "category": "OBC", "score": "449" },
+        "SC": { "category": "SC", "score": "336" },
+        "EWS": { "category": "EWS", "score": "410" },
+        "ST": { "category": "ST", "score": "184" }
+      },
+      "TransportationandInfrastructurePlanning": {
+        "OPEN": { "category": "OPEN", "score": "545" },
+        "OBC": { "category": "OBC", "score": "436" },
+        "EWS": { "category": "EWS", "score": "413" },
+        "SC": { "category": "SC", "score": "317" },
+        "ST": { "category": "ST", "score": "308" }
+      },
+      "Urban&RegionalPlanning": {
+        "OPEN": { "category": "OPEN", "score": "595" },
+        "OBC": { "category": "OBC", "score": "505" },
+        "EWS": { "category": "EWS", "score": "428" },
+        "SC": { "category": "SC", "score": "353" },
+        "ST": { "category": "ST", "score": "279" }
+      }
+    }
+  },
+  {
+    "Indian Institute of Engineering Science and Technology, Shibpur, District Howrah": {
+      "BiomedicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "500" },
+        "OBC": { "category": "OBC", "score": "413" },
+        "EWS": { "category": "EWS", "score": "370" },
+        "SC": { "category": "SC", "score": "285" }
+      },
+      "ControlSystem&Instrumentation": {
+        "OPEN": { "category": "OPEN", "score": "562" },
+        "OBC": { "category": "OBC", "score": "498" },
+        "EWS": { "category": "EWS", "score": "500" },
+        "SC": { "category": "SC", "score": "417" }
+      },
+      "CommunicationEngineering&SignalProcessing": {
+        "OPEN": { "category": "OPEN", "score": "555" },
+        "EWS": { "category": "EWS", "score": "482" },
+        "OBC": { "category": "OBC", "score": "446" },
+        "SC": { "category": "SC", "score": "292" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "522" },
+        "OBC": { "category": "OBC", "score": "459" },
+        "EWS": { "category": "EWS", "score": "440" },
+        "SC": { "category": "SC", "score": "399" }
+      },
+      "ManufacturingScience": {
+        "OPEN": { "category": "OPEN", "score": "547" },
+        "EWS": { "category": "EWS", "score": "539" },
+        "OBC": { "category": "OBC", "score": "516" },
+        "SC": { "category": "SC", "score": "396" }
+      },
+      "Mechanicsoffluids": {
+        "OPEN": { "category": "OPEN", "score": "573" },
+        "OBC": { "category": "OBC", "score": "491" },
+        "EWS": { "category": "EWS", "score": "478" },
+        "SC": { "category": "SC", "score": "340" }
+      },
+      "GeotechnicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "OBC": { "category": "OBC", "score": "501" },
+        "EWS": { "category": "EWS", "score": "477" },
+        "SC": { "category": "SC", "score": "433" },
+        "ST": { "category": "ST", "score": "271" }
+      },
+      "Geoinformatics": {
+        "OPEN": { "category": "OPEN", "score": "488" },
+        "OBC": { "category": "OBC", "score": "417" },
+        "EWS": { "category": "EWS", "score": "430" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "246" }
+      },
+      "Mechatronics": {
+        "OPEN": { "category": "OPEN", "score": "535" },
+        "OBC": { "category": "OBC", "score": "459" },
+        "EWS": { "category": "EWS", "score": "477" },
+        "SC": { "category": "SC", "score": "344" },
+        "ST": { "category": "ST", "score": "226" }
+      },
+      "IronandSteelTechnology": {
+        "OPEN": { "category": "OPEN", "score": "484" },
+        "OBC": { "category": "OBC", "score": "415" },
+        "EWS": { "category": "EWS", "score": "424" },
+        "SC": { "category": "SC", "score": "255" },
+        "ST": { "category": "ST", "score": "214" }
+      },
+      "InformationTechnology": {
+        "OPEN": { "category": "OPEN", "score": "535" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "EWS": { "category": "EWS", "score": "496" },
+        "SC": { "category": "SC", "score": "383" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "301" },
+        "ST": { "category": "ST", "score": "251" }
+      },
+      "MachineDesign": {
+        "OPEN": { "category": "OPEN", "score": "608" },
+        "EWS": { "category": "EWS", "score": "602" },
+        "OBC": { "category": "OBC", "score": "567" },
+        "SC": { "category": "SC", "score": "352" },
+        "ST": { "category": "ST", "score": "400" }
+      },
+      "Microelectronics&VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "604" },
+        "OBC": { "category": "OBC", "score": "523" },
+        "EWS": { "category": "EWS", "score": "531" },
+        "SC": { "category": "SC", "score": "381" },
+        "ST": { "category": "ST", "score": "300" }
+      },
+      "MaterialsScience&Technology": {
+        "OPEN": { "category": "OPEN", "score": "491" },
+        "OBC": { "category": "OBC", "score": "426" },
+        "EWS": { "category": "EWS", "score": "451" },
+        "SC": { "category": "SC", "score": "294" },
+        "ST": { "category": "ST", "score": "209" }
+      },
+      "MiningEngineering": {
+        "OPEN": { "category": "OPEN", "score": "369" },
+        "EWS": { "category": "EWS", "score": "359" },
+        "OBC": { "category": "OBC", "score": "310" },
+        "SC": { "category": "SC", "score": "231" },
+        "ST": { "category": "ST", "score": "185" }
+      },
+      "PowerElectronics,MachinesandDrives": {
+        "OPEN": { "category": "OPEN", "score": "605" },
+        "OBC": { "category": "OBC", "score": "511" },
+        "EWS": { "category": "EWS", "score": "490" },
+        "SC": { "category": "SC", "score": "434" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "Power&EnergySystems": {
+        "OPEN": { "category": "OPEN", "score": "571" },
+        "OBC": { "category": "OBC", "score": "541" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "SC": { "category": "SC", "score": "425" },
+        "ST": { "category": "ST", "score": "298" }
+      },
+      "RenewableEnergyScienceandTechnology": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "EWS": { "category": "EWS", "score": "481" },
+        "OBC": { "category": "OBC", "score": "436" },
+        "SC": { "category": "SC", "score": "332" },
+        "ST": { "category": "ST", "score": "243" }
+      },
+      "SafetyandOccupationalHealthEngineering": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "EWS": { "category": "EWS", "score": "468" },
+        "OBC": { "category": "OBC", "score": "426" },
+        "SC": { "category": "SC", "score": "384" }
+      },
+      "MechanicsofSolids": {
+        "OPEN": { "category": "OPEN", "score": "537" },
+        "OBC": { "category": "OBC", "score": "470" },
+        "EWS": { "category": "EWS", "score": "440" },
+        "SC": { "category": "SC", "score": "346" },
+        "ST": { "category": "ST", "score": "242" }
+      },
+      "SurfaceEngineering": {
+        "OPEN": { "category": "OPEN", "score": "507" },
+        "OBC": { "category": "OBC", "score": "405" },
+        "EWS": { "category": "EWS", "score": "396" },
+        "SC": { "category": "SC", "score": "294" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "566" },
+        "SC": { "category": "SC", "score": "459" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "503" },
+        "ST": { "category": "ST", "score": "267" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "547" },
+        "OBC": { "category": "OBC", "score": "525" },
+        "EWS": { "category": "EWS", "score": "473" },
+        "SC": { "category": "SC", "score": "402" },
+        "ST": { "category": "ST", "score": "354" }
+      },
+      "ThermalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "617" },
+        "EWS": { "category": "EWS", "score": "568" },
+        "OBC": { "category": "OBC", "score": "550" },
+        "SC": { "category": "SC", "score": "387" }
+      },
+      "Urban&RegionalPlanning": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "EWS": { "category": "EWS", "score": "395" },
+        "OBC": { "category": "OBC", "score": "438" },
+        "SC": { "category": "SC", "score": "296" },
+        "ST": { "category": "ST", "score": "264" },
+        "OBC-PwD": { "category": "OBC-PwD", "score": "179" }
+      },
+      "VLSIDesign": {
+        "OPEN": { "category": "OPEN", "score": "580" },
+        "EWS": { "category": "EWS", "score": "486" },
+        "OBC": { "category": "OBC", "score": "519" },
+        "SC": { "category": "SC", "score": "381" },
+        "ST": { "category": "ST", "score": "283" }
+      },
+      "MicrowaveCommunication": {
+        "OPEN": { "category": "OPEN", "score": "523" },
+        "OBC": { "category": "OBC", "score": "446" },
+        "SC": { "category": "SC", "score": "292" }
+      },
+      "WaterResourcesEngineering": {
+        "OPEN": { "category": "OPEN", "score": "501" },
+        "OBC": { "category": "OBC", "score": "458" },
+        "EWS": { "category": "EWS", "score": "432" },
+        "SC": { "category": "SC", "score": "354" },
+        "ST": { "category": "ST", "score": "263" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "608" },
+        "OBC": { "category": "OBC", "score": "542" },
+        "EWS": { "category": "EWS", "score": "507" },
+        "SC": { "category": "SC", "score": "449" },
+        "ST": { "category": "ST", "score": "313" }
+      }
+    }
+  },
+  {
+    "Central University of Rajasthan": {
+      "SustainableArchitecture": {
+        "OPEN": { "category": "OPEN", "score": "500" },
+        "OBC": { "category": "OBC", "score": "393" },
+        "SC": { "category": "SC", "score": "263" },
+        "ST": { "category": "ST", "score": "189" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "EWS": { "category": "EWS", "score": "469" },
+        "OBC": { "category": "OBC", "score": "434" },
+        "SC": { "category": "SC", "score": "309" }
+      }
+    }
+  },
+  {
+    "Punjab Engineering College, Chandigarh": {
+      "ComputerScience&InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "492" },
+        "EWS": { "category": "EWS", "score": "389" },
+        "SC": { "category": "SC", "score": "317" },
+        "ST": { "category": "ST", "score": "298" }
+      },
+      "ElectronicsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "457" },
+        "EWS": { "category": "EWS", "score": "396" },
+        "SC": { "category": "SC", "score": "292" },
+        "ST": { "category": "ST", "score": "239" }
+      },
+      "EnvironmentalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "469" },
+        "EWS": { "category": "EWS", "score": "458" },
+        "SC": { "category": "SC", "score": "299" },
+        "ST": { "category": "ST", "score": "249" }
+      },
+      "IndustrialDesign": {
+        "OPEN": { "category": "OPEN", "score": "465" },
+        "EWS": { "category": "EWS", "score": "381" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "213" }
+      },
+      "Production&IndustrialEngineering": {
+        "OPEN": { "category": "OPEN", "score": "449" },
+        "EWS": { "category": "EWS", "score": "382" },
+        "SC": { "category": "SC", "score": "268" }
+      },
+      "MechanicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "459" },
+        "EWS": { "category": "EWS", "score": "394" },
+        "SC": { "category": "SC", "score": "268" }
+      },
+      "IndustrialMaterials&Metallurgy": {
+        "OPEN": { "category": "OPEN", "score": "436" },
+        "EWS": { "category": "EWS", "score": "391" },
+        "SC": { "category": "SC", "score": "241" },
+        "ST": { "category": "ST", "score": "233" }
+      },
+      "StructuralEngineering": {
+        "OPEN": { "category": "OPEN", "score": "551" },
+        "EWS": { "category": "EWS", "score": "525" },
+        "SC": { "category": "SC", "score": "333" },
+        "ST": { "category": "ST", "score": "285" }
+      },
+      "TransportationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "499" },
+        "EWS": { "category": "EWS", "score": "466" },
+        "SC": { "category": "SC", "score": "313" },
+        "ST": { "category": "ST", "score": "253" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "281" }
+      },
+      "Electronics(VLSIDesign)": {
+        "OPEN": { "category": "OPEN", "score": "494" },
+        "EWS": { "category": "EWS", "score": "434" },
+        "SC": { "category": "SC", "score": "312" }
+      },
+      "WaterResourceEngineering": {
+        "OPEN": { "category": "OPEN", "score": "462" },
+        "EWS": { "category": "EWS", "score": "415" },
+        "SC": { "category": "SC", "score": "305" },
+        "ST": { "category": "ST", "score": "231" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "527" },
+        "EWS": { "category": "EWS", "score": "441" },
+        "SC": { "category": "SC", "score": "325" }
+      },
+      "ElectricalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "481" },
+        "EWS": { "category": "EWS", "score": "392" },
+        "SC": { "category": "SC", "score": "324" },
+        "ST": { "category": "ST", "score": "217" }
+      }
+    }
+  },
+  {
+    "National Institute of Electronics and Information Technology, Aurangabad ": {
+      "ElectronicsDesign&Technology": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "422" },
+        "EWS": { "category": "EWS", "score": "417" },
+        "SC": { "category": "SC", "score": "298" },
+        "ST": { "category": "ST", "score": "243" }
+      }
+    }
+  },
+  {
+    "School of Planning and Architecture, Bhopal": {
+      "M.Plan.(EnvironmentalPlanning)": {
+        "OPEN": { "category": "OPEN", "score": "387" },
+        "OBC": { "category": "OBC", "score": "466" },
+        "SC": { "category": "SC", "score": "286" },
+        "ST": { "category": "ST", "score": "201" }
+      },
+      "M.Arch.(Landscape)": {
+        "OPEN": { "category": "OPEN", "score": "376" },
+        "OBC": { "category": "OBC", "score": "438" },
+        "SC": { "category": "SC", "score": "296" },
+        "ST": { "category": "ST", "score": "213" }
+      },
+      "M.Plan.(TransportPlanningandLogisticsManagement)": {
+        "OPEN": { "category": "OPEN", "score": "398" },
+        "OBC": { "category": "OBC", "score": "325" },
+        "SC": { "category": "SC", "score": "375" }
+      },
+      "M.Arch.(UrbanDesign)": {
+        "OPEN": { "category": "OPEN", "score": "635" },
+        "OBC": { "category": "OBC", "score": "307" },
+        "EWS": { "category": "EWS", "score": "483" },
+        "ST": { "category": "ST", "score": "353" },
+        "SC": { "category": "SC", "score": "313" }
+      },
+      "M.Plan.(UrbanandRegionalPlanning)": {
+        "OPEN": { "category": "OPEN", "score": "406" },
+        "OBC": { "category": "OBC", "score": "336" },
+        "SC": { "category": "SC", "score": "348" },
+        "EWS": { "category": "EWS", "score": "398" },
+        "ST": { "category": "ST", "score": "297" }
+      },
+      "M.Arch.(Conservation)": {
+        "OPEN": { "category": "OPEN", "score": "511" },
+        "OBC": { "category": "OBC", "score": "398" },
+        "SC": { "category": "SC", "score": "275" }
+      }
+    }
+  },
+  {
+    "Shri Mata Vaishno Devi University, Katra": {
+      "ElectronicsandCommunicationEngineering": {
+        "OPEN": { "category": "OPEN", "score": "454" },
+        "OBC": { "category": "OBC", "score": "405" },
+        "EWS": { "category": "EWS", "score": "385" },
+        "SC": { "category": "SC", "score": "265" }
+      },
+      "MechanicalEngineering": {
+        "OPEN": { "category": "OPEN", "score": "436" },
+        "OBC": { "category": "OBC", "score": "404" },
+        "EWS": { "category": "EWS", "score": "356" },
+        "SC": { "category": "SC", "score": "239" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "469" },
+        "OBC": { "category": "OBC", "score": "411" },
+        "EWS": { "category": "EWS", "score": "371" },
+        "SC": { "category": "SC", "score": "301" }
+      }
+    }
+  },
+  {
+    "Central Institute of Technology, Kokrajhar": {
+      "FoodEngineering&Technology": {
+        "OPEN": { "category": "OPEN", "score": "480" },
+        "OBC": { "category": "OBC", "score": "376" }
+      },
+      "GreenEnergyTechnology": {
+        "OPEN": { "category": "OPEN", "score": "486" },
+        "OBC": { "category": "OBC", "score": "434" },
+        "EWS": { "category": "EWS", "score": "391" },
+        "ST": { "category": "ST", "score": "263" }
+      },
+      "WaterResourcesandHydraulicsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "462" },
+        "OBC": { "category": "OBC", "score": "423" },
+        "EWS": { "category": "EWS", "score": "402" },
+        "SC": { "category": "SC", "score": "294" }
+      },
+      "ComputerScience&Engineering": {
+        "OPEN": { "category": "OPEN", "score": "492" },
+        "OBC": { "category": "OBC", "score": "410" }
+      }
+    }
+  },
+  {
+    "University of Hyderabad": {
+      "ArtificialIntelligence": {
+        "OPEN": { "category": "OPEN", "score": "605" },
+        "EWS": { "category": "EWS", "score": "558" },
+        "OBC": { "category": "OBC", "score": "544" },
+        "SC": { "category": "SC", "score": "367" },
+        "ST": { "category": "ST", "score": "325" }
+      },
+      "Bio-informatics": {
+        "OPEN": { "category": "OPEN", "score": "500" },
+        "OBC": { "category": "OBC", "score": "335" },
+        "EWS": { "category": "EWS", "score": "364" },
+        "SC": { "category": "SC", "score": "224" },
+        "ST": { "category": "ST", "score": "208" }
+      },
+      "InformationSecurity": {
+        "OPEN": { "category": "OPEN", "score": "531" },
+        "OBC": { "category": "OBC", "score": "476" },
+        "EWS": { "category": "EWS", "score": "441" },
+        "SC": { "category": "SC", "score": "336" },
+        "OPEN-PwD": { "category": "OPEN-PwD", "score": "278" },
+        "ST": { "category": "ST", "score": "252" }
+      },
+      "InformationTechnology": {
+        "OPEN": { "category": "OPEN", "score": "527" },
+        "EWS": { "category": "EWS", "score": "445" },
+        "OBC": { "category": "OBC", "score": "469" },
+        "SC": { "category": "SC", "score": "329" },
+        "ST": { "category": "ST", "score": "270" }
+      },
+      "ManufacturingScienceandEngineering": {
+        "OPEN": { "category": "OPEN", "score": "543" },
+        "OBC": { "category": "OBC", "score": "457" },
+        "EWS": { "category": "EWS", "score": "403" },
+        "SC": { "category": "SC", "score": "281" },
+        "ST": { "category": "ST", "score": "314" }
+      },
+      "MaterialsEngineering": {
+        "OPEN": { "category": "OPEN", "score": "491" },
+        "ST": { "category": "ST", "score": "483" },
+        "OBC": { "category": "OBC", "score": "440" },
+        "EWS": { "category": "EWS", "score": "376" },
+        "SC": { "category": "SC", "score": "256" }
+      },
+      "NanoscienceandTechnology": {
+        "OPEN": { "category": "OPEN", "score": "471" },
+        "OBC": { "category": "OBC", "score": "432" },
+        "EWS": { "category": "EWS", "score": "388" },
+        "SC": { "category": "SC", "score": "241" },
+        "ST": { "category": "ST", "score": "268" }
+      },
+      "ComputerScience": {
+        "OPEN": { "category": "OPEN", "score": "566" },
+        "OBC": { "category": "OBC", "score": "507" },
+        "EWS": { "category": "EWS", "score": "496" },
+        "ST": { "category": "ST", "score": "289" },
+        "SC": { "category": "SC", "score": "360" }
+      }
+    }
+  }
+]
