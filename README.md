@@ -2,7 +2,7 @@
 Cutoff of ccmt 2020 college wise and branch wise
 
 Requirements:
-  Node.js installed
+  Node.js 
 
 Steps to run the script in the terminal/command-prompt:
   1. node ccmt
